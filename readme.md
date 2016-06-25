@@ -5,11 +5,11 @@ Curated List of React Components.
 To add a Component:
 
   - Add a line to this list by opening a new pull request
-  - Line Format: ` - [npm-package-name](https://github.com/foo/bar) - short description without emojis.`
+  - Line format: ` - [npm-package-name](https://github.com/foo/bar) - short description without emojis.`
   - Add the line at the end of a section
   - If it doesn't fit any section then open a new issue so we can discuss adding a new section
 
-Definitley open for collaborators and contributions!
+Definitely open for collaborators and contributions!
 
 
 #### Table of Content
@@ -28,8 +28,8 @@ Definitley open for collaborators and contributions!
 
 
 <br/>
-
 ---
+
 
 # UI Components
 
@@ -277,7 +277,7 @@ Definitley open for collaborators and contributions!
 
 ###### Select
 
- - [react-selectize](https://github.com/furqanZafar/react-selectize) A Stateless and Flexible Select component for React inspired by Selectize.
+ - [react-selectize](https://github.com/furqanZafar/react-selectize) - A Stateless and Flexible Select component for React inspired by Selectize.
  - [react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button.
  - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 
@@ -537,7 +537,7 @@ Definitley open for collaborators and contributions!
 
 ###### Visibility Reporter
 
-*Report when a Component become visible/hidden*
+*Report when a Component becomes visible/hidden*
 
  - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
  - [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
