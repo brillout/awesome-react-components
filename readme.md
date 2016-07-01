@@ -624,6 +624,7 @@ Definitely open for collaborators and contributions!
 ### UI
 
  - [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React.
+ - [react-static-container](https://github.com/reactjs/react-static-container) - Renders static content efficiently by allowing React to short-circuit the reconciliation process.
  - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 
