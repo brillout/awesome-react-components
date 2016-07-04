@@ -2,6 +2,8 @@
 
 Curated List of React Components / Libraries.
 
+###### Contribution
+
 To add a Component / Library:
 
   - Add a line to this list by opening a new pull request
@@ -9,6 +11,9 @@ To add a Component / Library:
   - Add the line at the end of a section
   - If it doesn't fit any section then open a new issue so we can discuss creating a new section
 
+###### Collaboration
+
+I'm looking to maintain this list with others. If you are interested let me know and we'll create a GitHub organization.
 
 #### Table of Content
 
