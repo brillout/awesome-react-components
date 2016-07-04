@@ -1,15 +1,13 @@
 ## Awesome React Components [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated List of React Components.
+Curated List of React Components / Libraries.
 
-To add a Component:
+To add a Component / Library:
 
   - Add a line to this list by opening a new pull request
   - Line format: ` - [npm-package-name](https://github.com/foo/bar) - short description without emojis.`
   - Add the line at the end of a section
-  - If it doesn't fit any section then open a new issue so we can discuss adding a new section
-
-Definitely open for collaborators and contributions!
+  - If it doesn't fit any section then open a new issue so we can discuss creating a new section
 
 
 #### Table of Content
