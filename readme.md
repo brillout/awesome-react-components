@@ -382,6 +382,7 @@ I'm looking to maintain this list with others. If you are interested let me know
  - [react-router-transition](https://github.com/maisano/react-router-transition) - transitions built for react-router, powered by react-motion.
  - [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
  - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - A React.js wrapper component to animate the line stroke in SVGs.
+ - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Animate DOM changes (eg. list re-ordering) using the FLIP technique. 
 
 
 ###### Parallax
