@@ -97,6 +97,7 @@ I'm open to maintain this list with others. We could create a GitHub organizatio
  - [react-motion-menu](https://github.com/bokuweb/react-motion-menu) - Motion menu component powered by React Motion.
  - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
  - [react-tree-menu](https://github.com/MandarinConLaBarba/react-tree-menu) - A stateless tree menu component for React.
+ - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
 
 
 ###### Sticky
