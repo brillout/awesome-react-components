@@ -313,6 +313,7 @@ To add a Component / Library:
 ###### Color Picker
 
  - [react-input-color](https://github.com/wangzuo/react-input-color) - React input color component with hsv color picker.
+ - [react-color](https://github.com/casesandberg/react-color/) - Color Pickers from Sketch, Photoshop, Chrome & more.
 
 
 ###### Toggle
