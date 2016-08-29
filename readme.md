@@ -1,15 +1,10 @@
-## Awesome React Components [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# React Components Catalog
 
-Curated list of React components / libraries.
+> Catalog of React components / libraries
 
-###### Contribution
+ - Better visualization at [`devarchy.com/react-components`](http://devarchy.com/react-components)
+ - Contributions welcome, see [contribution guide](contributing.md)
 
-To add a Component / Library:
-
-  - Add a line to this list by creating a new pull request
-  - Line format: ` - [npm-package-name](https://github.com/foo/bar) - Description without emojis.`
-  - Add the line at the end of a section
-  - If it doesn't fit any section then open a new issue so we can discuss creating a new section
 
 #### Contents
 - [UI Components](#ui-components)
