@@ -4,7 +4,7 @@ List of React components / libraries. Curated by the community.
 
 To add a component / library to this list, add an entry to [React Components on devarchy](http://devarchy.com/react-components).
 <br/>
-It will be added once the community has approved it.
+It will be added here once the community has approved it.
 
 
 #### Contents
