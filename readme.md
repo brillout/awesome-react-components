@@ -776,6 +776,7 @@
 
  - [react-inspector](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
  - [react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component.
+ - [reactotron](https://github.com/reactotron/reactotron) - A CLI and OS X app for inspecting your React JS and React Native apps.
 
 
 ###### Miscellaneous
