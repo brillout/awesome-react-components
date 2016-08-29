@@ -2,10 +2,14 @@
 
 List of React components / libraries. Curated by the community.
 
-To add a component / library to this list, add an entry to [React Components on devarchy](http://devarchy.com/react-components).
-<br/>
-It will be added here once the community has approved it.
+###### Contribution
 
+To add a Component / Library:
+
+  - Add a line to this list by creating a new pull request
+  - Line format: ` - [npm-package-name](https://github.com/foo/bar) - Description without emojis.`
+  - Add the line at the end of a section
+  - If it doesn't fit any section then open a new issue so we can discuss creating a new section
 
 #### Contents
 - [UI Components](#ui-components)
