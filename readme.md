@@ -2,9 +2,10 @@
 
 > Catalog of React components / libraries
 
- - Better visualization at [`devarchy.com/react-components`](http://devarchy.com/react-components)
+ - Dedicated interface at [`devarchy.com/react-components`](http://devarchy.com/react-components)
  - Contributions welcome, see [contribution guide](contributing.md)
 
+<br/>
 
 #### Contents
 - [UI Components](#ui-components)
@@ -21,7 +22,11 @@
 
 
 <br/>
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 # UI Components
