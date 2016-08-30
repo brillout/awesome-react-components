@@ -699,6 +699,7 @@
  - [react-swf](https://github.com/syranide/react-swf) - Shockwave Flash Player component for React.
  - [react-localstorage](https://github.com/STRML/react-localstorage) - Simple componentized localstorage implementation for Facebook&#39;s React.
  - [reactive-elements](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component).
+ - [react-elm-components](https://github.com/evancz/react-elm-components) - Write React components in Elm.
 
 
 ###### Integrations with Third Party Services
