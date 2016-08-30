@@ -52,6 +52,7 @@
  - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
  - [react-infinite-grid](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
  - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
+ - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 
 
 ###### Modals
