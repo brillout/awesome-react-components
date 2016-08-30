@@ -663,6 +663,7 @@
  - [generator-flux-on-rails](https://github.com/alexfedoseev/generator-flux-on-rails) - Scaffolder of universal Flux / Redux app, backed by Rails API.
  - [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
  - [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router!.
+ - [react-universal-starter-kit](https://github.com/alrighty/react-universal-starter-kit) - Get started with React, React-Router, Redux, GraphQL, Webpack, CSS Modules, Universal Starter Kit.
 
 
 ###### Miscellaneous
