@@ -342,7 +342,7 @@
  - [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - Tokeninput component for React.
 
 
-###### Maksed Input
+###### Masked Input
 
  - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking.
  - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
