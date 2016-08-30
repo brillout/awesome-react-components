@@ -647,6 +647,7 @@
 
 *Boilerplates /  scaffolds / starter kits / generators / stack ensembles*
 
+ - [create-react-app](https://github.com/facebookincubator/create-react-app) Create React apps with no build configuration.
  - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
  - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
  - [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
