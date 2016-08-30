@@ -679,7 +679,7 @@
  - [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like structure that renders to React.
  - [react-translate-component](https://github.com/martinandert/react-translate-component) - A component for React that utilizes the Counterpart module to provide multi-lingual/localized text content.
  - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
-
+ - [react-media](https://github.com/ReactTraining/react-media) A CSS media query component for React.
 
 ###### Framework bindings / integrations
 
