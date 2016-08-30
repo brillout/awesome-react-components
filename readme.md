@@ -395,6 +395,7 @@
  - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - A React.js component for using @desandro&#39;s Masonry.
  - [react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) - A set of React components implementing flexboxgrid with the power of CSS Modules.
  - [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React.
+ - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - Unopinionated, standard compliant flexbox component. No propietary API, just flexbox.
 
 
 # UI Animation
