@@ -182,6 +182,7 @@
  - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
  - [react-video](https://github.com/pedronauck/react-video) - React component to load video from Vimeo or Youtube across any device.
  - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React.
+ - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
 
 
 ###### Map
