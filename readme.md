@@ -181,6 +181,7 @@
  - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
  - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
  - [react-video](https://github.com/pedronauck/react-video) - React component to load video from Vimeo or Youtube across any device.
+ - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React.
 
 
 ###### Map
