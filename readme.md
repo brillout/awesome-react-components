@@ -234,6 +234,7 @@
  - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
  - [react-pagespeed-score](https://github.com/cauealves/react-pagespeed-score) - A React component for display a dial-type chart of PageSpeed Insights.
  - [react-autolink](https://github.com/banyan/react-autolink) - An autolink mixin for React.
+ - [react-rater](https://github.com/NdYAG/react-rater) - Interative & customizable star rater.
 
 
 ### Component Collections
