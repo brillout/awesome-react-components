@@ -708,6 +708,7 @@
 ###### Integrations with Third Party Services
 
  - [react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe&#39;s checkout.js as a react component. Easiest way to use checkout with React.
+ - [react-ga](https://github.com/react-ga/react-ga) - Google analytics integration made simple + React components to make tracking easier.
  - [react-google-analytics](https://github.com/hzdg/react-google-analytics) - Google analytics component.
  - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
 
