@@ -148,6 +148,7 @@
  - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
  - [rumble-charts](https://github.com/RumbleInc/rumble-js-charts) - React components for building composable and flexible charts.
  - [react-micro-bar-chart](https://github.com/KyleAMathews/react-micro-bar-chart) - React component for micro bar-charts rendered with D3.
+ - [echarts-for-react](https://github.com/hustcc/echarts-for-react) - A simple baidu Echarts(v3.0) components for React wrapper.
 
 
 ###### Display a Tree Data Structure
@@ -200,6 +201,7 @@
 
  - [react-time](https://github.com/andreypopp/react-time) - Component for React to render relative and/or formatted dates into &lt;time&gt; HTML5 element.
  - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
+ - [timeago-react](https://github.com/hustcc/timeago-react) - A simple and efficient react component used to format date with `*** time ago` statement. eg: '3 hours ago'.
 
 
 ###### Photo / Image Gallery
