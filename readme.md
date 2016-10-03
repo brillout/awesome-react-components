@@ -103,6 +103,7 @@
  - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps.
  - [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
  - [react-listview-sticky-header](https://github.com/cht8687/react-listview-sticky-header) - React listview with sticky section header.
+ - [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
 
 
 ###### Tabs
