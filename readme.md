@@ -370,6 +370,7 @@
  - [react-avatar-cropper](https://github.com/DropsOfSerenity/react-avatar-cropper) - Aiming to be a complete solution for avatar cropping in react.
  - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook like, avatar / profile picture component. Resize and crop your uploaded image using a clear user interface.
  - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
+ - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - React image crop.
 
 
 ###### Markdown Editor
