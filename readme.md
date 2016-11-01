@@ -277,6 +277,7 @@
  - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - React wrapper for medium-editor.
  - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
  - [ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
+ - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
 
 
 ###### Sortable List
