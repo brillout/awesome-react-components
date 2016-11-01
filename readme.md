@@ -67,6 +67,7 @@
  - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
  - [rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
  - [react-modal-box](https://github.com/sadiqevani/react-modal-box) - React Modal Box Component.
+ - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 
 
 ###### Notification
