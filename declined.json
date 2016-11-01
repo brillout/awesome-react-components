@@ -4,5 +4,8 @@
   ],
   "react-chips": {
     "@brillout": true
+  },
+  "react-weui": {
+    "@brillout": true
   }
 }
