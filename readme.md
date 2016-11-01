@@ -397,6 +397,7 @@
  - [react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) - A set of React components implementing flexboxgrid with the power of CSS Modules.
  - [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React.
  - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) Unopinionated, standard compliant flexbox components. You don't need to learn any propietary syntax. If you know how to use flexbox, you know how to use flexbox-react components.
+ - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
 
 
 # UI Animation
