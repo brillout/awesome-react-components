@@ -442,6 +442,7 @@
 ###### Parallax
 
  - [react-atv-img](https://github.com/keyanzhang/react-atv-img) - A port of @drewwilson&rsquo;s atvImg (Apple TV 3D parallax effect) library in React.
+ - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
 
 
 # UI Frameworks
