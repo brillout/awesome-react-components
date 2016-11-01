@@ -601,6 +601,7 @@
  - [react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync.
  - [react-breadcrumbs](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
  - [monorouter](https://github.com/matthewwithanm/monorouter) - An isomorphic JS router.
+ - [cerebral-module-router](https://github.com/cerebral/cerebral-module-router) - An opinionated URL change handler for Cerebral.
 
 
 ###### Props from server
