@@ -427,6 +427,7 @@
  - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
  - [react.animate](https://github.com/Nutelac/react.animate) - State animation plugin for react.js.
  - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library for React.
+ - [animakit-rotator](https://github.com/animakit/animakit-rotator) - AnimakitRotator - React component for the 3D rotation of the blocks.
 
 
 ###### Parallax
