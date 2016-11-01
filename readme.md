@@ -830,6 +830,7 @@
  - [react-bash](https://github.com/zackargyle/react-bash) - A configurable/extendable bash terminal React component.
  - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
  - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
+ - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 
 
 ###### Static Website Generator
