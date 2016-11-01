@@ -576,6 +576,7 @@
  - [react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
  - [tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react.
  - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
+ - [cerebral-module-forms](https://github.com/cerebral/cerebral-module-forms) - A forms handler for Cerebral.
 
 
 ###### Router
