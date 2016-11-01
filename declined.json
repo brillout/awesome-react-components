@@ -32,5 +32,8 @@
   },
   "antd-mobile": {
     "@brillout": true
+  },
+  "react-bootstrap-time-picker": {
+    "@n337": true
   }
 }
