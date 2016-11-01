@@ -246,6 +246,7 @@
  - [react-pagespeed-score](https://github.com/cauealves/react-pagespeed-score) - A React component for display a dial-type chart of PageSpeed Insights.
  - [react-autolink](https://github.com/banyan/react-autolink) - An autolink mixin for React.
  - [react-svg-buttons](https://github.com/plouc/react-svg-buttons) - Configurable animated SVG buttons for react.
+ - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 
 
 ### Component Collections
