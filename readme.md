@@ -578,6 +578,7 @@
  - [redux-ui](https://github.com/tonyhb/redux-ui) - Easy UI state management for react redux.
  - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
  - [mobx-react](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
+ - [cerebral](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
 
 
 ###### Form Logic
