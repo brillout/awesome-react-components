@@ -153,6 +153,7 @@
  - [rumble-charts](https://github.com/RumbleInc/rumble-js-charts) - React components for building composable and flexible charts.
  - [react-micro-bar-chart](https://github.com/KyleAMathews/react-micro-bar-chart) - React component for micro bar-charts rendered with D3.
  - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
+ - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 
 
 ###### Display a Tree Data Structure
