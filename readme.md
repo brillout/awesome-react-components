@@ -469,6 +469,7 @@
  - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
  - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
  - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
+ - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 
 
 ###### Bootstrap
