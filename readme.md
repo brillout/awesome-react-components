@@ -41,6 +41,7 @@
  - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React, with editors, keyboard navigation, copy &amp; paste, and the like.
  - [react-pivot](https://github.com/davidguttman/react-pivot) - React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.
  - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
+ - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
 
 
 ###### Infinite Scroll
