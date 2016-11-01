@@ -29,5 +29,8 @@
   },
   "antd": {
     "@brillout": true
+  },
+  "antd-mobile": {
+    "@brillout": true
   }
 }
