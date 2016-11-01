@@ -1,5 +1,8 @@
 {
   "react-components": [
     "joinable"
-  ]
+  ],
+  "react-chips": {
+    "@brillout": true
+  }
 }
