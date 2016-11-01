@@ -26,5 +26,8 @@
   },
   "react-radio-button": {
     "@hjinu": true
+  },
+  "antd": {
+    "@brillout": true
   }
 }
