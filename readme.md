@@ -213,6 +213,7 @@
  - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
  - [react-images](https://github.com/jossmac/react-images) - A simple lightbox component for displaying an array of images.
  - [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - Responsive React Photo Gallery.
+ - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 
 
 ###### Touch Swipe
