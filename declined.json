@@ -17,5 +17,8 @@
   "cx-core": {
     "@n337": true,
     "@psyt3c": true
+  },
+  "react-server-render-starter-kit": {
+    "@n337": true
   }
 }
