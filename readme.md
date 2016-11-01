@@ -64,6 +64,7 @@
  - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
  - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
  - [rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
+ - [react-modal-box](https://github.com/sadiqevani/react-modal-box) - React Modal Box Component.
 
 
 ###### Notification
