@@ -150,6 +150,7 @@
  - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
  - [rumble-charts](https://github.com/RumbleInc/rumble-js-charts) - React components for building composable and flexible charts.
  - [react-micro-bar-chart](https://github.com/KyleAMathews/react-micro-bar-chart) - React component for micro bar-charts rendered with D3.
+ - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 
 
 ###### Display a Tree Data Structure
