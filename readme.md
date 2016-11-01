@@ -122,6 +122,7 @@
  - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
  - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React.
  - [react-progress-label](https://github.com/wangzuo/react-progress-label) - Progress label component.
+ - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 
 
 ###### Carousels
