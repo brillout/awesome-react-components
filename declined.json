@@ -23,5 +23,8 @@
   },
   "react-fabric": {
     "@brillout": true
+  },
+  "react-radio-button": {
+    "@hjinu": true
   }
 }
