@@ -20,5 +20,8 @@
   },
   "react-server-render-starter-kit": {
     "@n337": true
+  },
+  "react-fabric": {
+    "@brillout": true
   }
 }
