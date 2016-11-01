@@ -10,5 +10,8 @@
   },
   "stardust": {
     "@brillout": true
+  },
+  "echarts-for-react": {
+    "@brillout": true
   }
 }
