@@ -13,5 +13,9 @@
   },
   "echarts-for-react": {
     "@brillout": true
+  },
+  "cx-core": {
+    "@n337": true,
+    "@psyt3c": true
   }
 }
