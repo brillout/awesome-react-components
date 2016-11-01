@@ -796,6 +796,7 @@
  - [standard-react](https://github.com/feross/standard) - JavaScript Standard Style Guide.
  - [cosmos-js](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
  - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
+ - [mighty-react-snippets](https://github.com/nicksp/mighty-react-snippets) - Crafty React and Redux ES6 snippets for Atom Editor.
 
 
 # Miscellaneous
