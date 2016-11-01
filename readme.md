@@ -701,6 +701,7 @@
  - [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
  - [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router!.
  - [redux-webpack-es6-boilerplate](https://github.com/nicksp/redux-webpack-es6-boilerplate) - A starter project for modern React apps with Redux.
+ - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 
 
 ###### Miscellaneous
