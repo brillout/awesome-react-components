@@ -419,6 +419,7 @@
  - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - A React.js wrapper component to animate the line stroke in SVGs.
  - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
  - [react.animate](https://github.com/Nutelac/react.animate) - State animation plugin for react.js.
+ - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library for React.
 
 
 ###### Parallax
