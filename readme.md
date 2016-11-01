@@ -431,6 +431,7 @@
  - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library for React.
  - [animakit-rotator](https://github.com/animakit/animakit-rotator) - AnimakitRotator - React component for the 3D rotation of the blocks.
  - [animakit-elastic](https://github.com/animakit/animakit-elastic) - AnimakitElastic - React component for flexible resizing of the blocks.
+ - [animakit-expander](https://github.com/animakit/animakit-expander) - AnimakitExpander - React component for the expanding and collapsing of the blocks.
 
 
 ###### Parallax
