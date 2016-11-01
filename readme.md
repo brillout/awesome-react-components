@@ -429,6 +429,7 @@
  - [react.animate](https://github.com/Nutelac/react.animate) - State animation plugin for react.js.
  - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library for React.
  - [animakit-rotator](https://github.com/animakit/animakit-rotator) - AnimakitRotator - React component for the 3D rotation of the blocks.
+ - [animakit-elastic](https://github.com/animakit/animakit-elastic) - AnimakitElastic - React component for flexible resizing of the blocks.
 
 
 ###### Parallax
