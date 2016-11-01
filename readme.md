@@ -42,6 +42,7 @@
  - [react-pivot](https://github.com/davidguttman/react-pivot) - React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.
  - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
  - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
+ - [fixed-data-table](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
 
 
 ###### Infinite Scroll
