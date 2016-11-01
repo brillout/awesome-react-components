@@ -84,6 +84,7 @@
 
  - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
  - [rc-tooltip](https://github.com/react-component/tooltip) - React Tooltip.
+ - [react-portal-tooltip](https://github.com/romainberger/react-portal-tooltip) - Awesome React tooltips.
 
 
 ###### Menu
