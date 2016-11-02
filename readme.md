@@ -143,7 +143,7 @@
 
 ###### Charts
 
-*Displays data in graphs / diagrams*
+*Display data in graphs / diagrams*
 
  - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
  - [d3-react-squared](https://github.com/bgrsquared/d3-react-squared) - Lightweight event system for (d3) charts and other components for ReactJS.
@@ -160,7 +160,9 @@
  - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 
 
-###### Display a Tree Data Structure
+###### Tree
+
+*Display a tree data structure*
 
  - [react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
  - [react-ui-tree](https://github.com/pqx/react-ui-tree) - React tree component.
@@ -184,9 +186,7 @@
  - [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - Easily customize the browser scroll bar with native OS scroll behavior.
 
 
-###### Media
-
-*Audio / Video*
+###### Audio / Video
 
  - [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including file paths, YouTube, SoundCloud and Vimeo.
  - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
@@ -206,13 +206,15 @@
  - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 
 
-###### Display time / date / age
+###### Time / Date / Age
+
+*Display time / date / age*
 
  - [react-time](https://github.com/andreypopp/react-time) - Component for React to render relative and/or formatted dates into &lt;time&gt; HTML5 element.
  - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 
 
-###### Photo / Image Gallery
+###### Photo / Image
 
  - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
  - [react-images](https://github.com/jossmac/react-images) - A simple lightbox component for displaying an array of images.
@@ -241,12 +243,12 @@
  - [react-dnr](https://github.com/yongxu/react-DnR) - Dragable and Resizable window build with React.js.
  - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
  - [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - React file input component for complete control over styling and abstraction from file reading.
- - [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React.
- - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
  - [react-pagespeed-score](https://github.com/cauealves/react-pagespeed-score) - A React component for display a dial-type chart of PageSpeed Insights.
  - [react-autolink](https://github.com/banyan/react-autolink) - An autolink mixin for React.
  - [react-svg-buttons](https://github.com/plouc/react-svg-buttons) - Configurable animated SVG buttons for react.
  - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
+ - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
+ - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 
 
 ### Component Collections
@@ -346,9 +348,15 @@
  - [react-slider](https://github.com/mpowaga/react-slider) - Slider component for React.
 
 
-###### Radio buttons
+###### Radio Button
 
  - [react-radio-group](https://github.com/chenglou/react-radio-group) - Better radio buttons.
+
+
+###### Star Rating
+
+ - [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React.
+ - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
 
 
 ###### Type Select
@@ -453,14 +461,7 @@
 # UI Frameworks
 
 
-### Mobile Frameworks
-
- - [onsenui](https://github.com/OnsenUI/OnsenUI) - Hybrid Mobile App UI Framework for iOS and Material Design with Angular and React Components.
- - [reactionic](https://github.com/reactionic/reactionic) - React Ionic.
- - [touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React.
-
-
-### UI Frameworks
+### Website
 
  - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
  - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
@@ -470,7 +471,6 @@
  - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
  - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
  - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
- - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 
 
 ###### Bootstrap
@@ -487,6 +487,19 @@
  - [react-material](https://github.com/BerkeleyTrue/react-material) - Material design components written with React.js and React Style.
  - [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google&#39;s Material Design.
  - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
+
+
+### Mobile
+
+ - [onsenui](https://github.com/OnsenUI/OnsenUI) - Hybrid Mobile App UI Framework for iOS and Material Design with Angular and React Components.
+ - [reactionic](https://github.com/reactionic/reactionic) - React Ionic.
+ - [touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React.
+
+
+### Other
+
+ - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
+ - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 
 
 # UI Utilites
@@ -556,7 +569,7 @@
  - [react-experiments](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 
-### Set children of <head>
+### Set Children of &lt;head&gt;
 
  - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React.
  - [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
@@ -743,6 +756,7 @@
  - [react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe&#39;s checkout.js as a react component. Easiest way to use checkout with React.
  - [react-google-analytics](https://github.com/hzdg/react-google-analytics) - Google analytics component.
  - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
+ - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 
 
 # Tests
@@ -819,6 +833,7 @@
  - [cosmos-js](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
  - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
  - [mighty-react-snippets](https://github.com/nicksp/mighty-react-snippets) - Crafty React and Redux ES6 snippets for Atom Editor.
+ - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 
 
 # Miscellaneous
@@ -826,15 +841,10 @@
  - [structor](https://github.com/ipselon/structor) - An advanced GUI editor for React.
  - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
  - [react-komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
- - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
- - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
  - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
  - [htmltojsx](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It&#39;s magic!.
- - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
  - [react-bash](https://github.com/zackargyle/react-bash) - A configurable/extendable bash terminal React component.
  - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
- - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
- - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 
 
 ###### Static Website Generator
