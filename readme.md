@@ -594,7 +594,7 @@
  - [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
  - [reflux](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
  - [fluxxor](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
- - [dispatchr](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
+ - [fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
  - [alt](https://github.com/goatslacker/alt) - Isomorphic flux implementation.
  - [baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
  - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
