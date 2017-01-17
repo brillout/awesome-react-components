@@ -1,7 +1,7 @@
-# React Components Catalog
+# React Library Catalog
 
- - Dedicated interface at [`devarchy.com/react-components`](http://devarchy.com/react-components)
- - Contributions welcome, see [contribution guide](contributing.md)
+ - Official website: [`devarchy.com/react-components`](http://devarchy.com/react-components)
+ - use Devarchy to add a library to the catalog
 
 <br/>
 
