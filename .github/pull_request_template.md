@@ -1,5 +1,3 @@
-<!--
-Only create a Pull Request if you want to change the categorization.
-
-If you just want to add an entry to an existing category, then add an entry at http://devarchy.com/react-components instead.
--->
+Pull Requests are not accepted, instead:
+ - use http://devarchy.com/react-components to add a library to the catalog
+ - open an issue for any suggestion regarding the categorization
