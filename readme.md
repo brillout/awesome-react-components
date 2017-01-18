@@ -676,6 +676,7 @@
  - [stilr](https://github.com/kodyl/stilr) - Encapsulated styling for your javascript components with all the power of javascript and CSS combined.
  - [react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS.
  - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
+ - [radium](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 
 
 ###### HTML Template
