@@ -408,6 +408,7 @@
 ###### Miscellaneous
 
  - [react-designer](https://github.com/fatiherikli/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
+ - [react-images-uploader](https://github.com/aleksei0807/react-images-uploader) - React.js component for uploading images to the server.
 
 
 # UI Layout
