@@ -295,6 +295,7 @@
  - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
  - [ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
  - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
+ - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - React wrapper for Trumbowyg.
 
 
 ###### Sortable List
