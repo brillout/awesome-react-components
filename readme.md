@@ -427,6 +427,7 @@
  - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
  - [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen javascript Layout manager.
  - [reactwm](https://github.com/stayradiated/reactwm) - A minimal window manager built using React.
+ - [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components for React.js.
 
 
 # UI Animation
