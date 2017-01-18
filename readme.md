@@ -747,6 +747,7 @@
  - [react-translate-component](https://github.com/martinandert/react-translate-component) - A component for React that utilizes the Counterpart module to provide multi-lingual/localized text content.
  - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
  - [react-media](https://github.com/ReactTraining/react-media) A CSS media query component for React.
+ - [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
 
 ###### Framework bindings / integrations
 
