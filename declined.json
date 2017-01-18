@@ -40,5 +40,8 @@
   "react-tj-treeview": {
     "@n337": true,
     "@psyt3c": true
+  },
+  "hoc-react-loader": {
+    "@brillout": true
   }
 }
