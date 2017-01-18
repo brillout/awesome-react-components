@@ -484,6 +484,7 @@
  - [@blueprintjs/core](https://github.com/palantir/blueprint) - Core styles & components.
  - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
  - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
+ - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 
 
 ###### Bootstrap
