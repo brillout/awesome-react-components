@@ -36,5 +36,9 @@
   "react-plyr": {
     "@n337": true,
     "@psyt3c": true
+  },
+  "react-tj-treeview": {
+    "@n337": true,
+    "@psyt3c": true
   }
 }
