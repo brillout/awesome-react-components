@@ -478,6 +478,7 @@
  - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
  - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
  - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
+ - [@blueprintjs/core](https://github.com/palantir/blueprint) - Core styles & components.
 
 
 ###### Bootstrap
