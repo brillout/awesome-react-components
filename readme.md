@@ -109,6 +109,7 @@
  - [react-listview-sticky-header](https://github.com/cht8687/react-listview-sticky-header) - React listview with sticky section header.
  - [react-sticky-state](https://github.com/soenkekluth/react-sticky-state) - React StickyState Component makes native position:sticky statefull and polyfills the missing sticky browser feature.
  - [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky.
+ - [react-sticky-node](https://github.com/visortelle/react-sticky-node) - Sticky react component.
 
 
 ###### Tabs
