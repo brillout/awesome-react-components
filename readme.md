@@ -483,6 +483,7 @@
  - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
  - [@blueprintjs/core](https://github.com/palantir/blueprint) - Core styles & components.
  - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
+ - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 
 
 ###### Bootstrap
