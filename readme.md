@@ -131,6 +131,7 @@
  - [react-progress-label](https://github.com/wangzuo/react-progress-label) - Progress label component.
  - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
  - [react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
+ - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
 
 
 ###### Carousels
