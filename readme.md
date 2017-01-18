@@ -160,6 +160,7 @@
  - [react-micro-bar-chart](https://github.com/KyleAMathews/react-micro-bar-chart) - React component for micro bar-charts rendered with D3.
  - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
  - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
+ - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
 
 
 ###### Tree
