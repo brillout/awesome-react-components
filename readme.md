@@ -482,6 +482,7 @@
  - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
  - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
  - [@blueprintjs/core](https://github.com/palantir/blueprint) - Core styles & components.
+ - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
 
 
 ###### Bootstrap
