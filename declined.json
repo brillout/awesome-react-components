@@ -32,5 +32,9 @@
   },
   "react-bootstrap-time-picker": {
     "@n337": true
+  },
+  "react-plyr": {
+    "@n337": true,
+    "@psyt3c": true
   }
 }
