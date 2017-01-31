@@ -2,6 +2,7 @@
 
  - Official website: [`devarchy.com/react-components`](http://devarchy.com/react-components)
  - Use devarchy to add a library to the catalog
+ - Check out the [Frontend Catalog](https://github.com/devarchy/frontend-catalog) for Redux libraries and more
 
 <br/>
 
