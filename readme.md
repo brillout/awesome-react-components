@@ -74,7 +74,7 @@
 
 ###### Notification
 
-*A temporary little modal to notify the user*
+*Toaster / alert / snackbar — Notify the user with a temporary little modal*
 
  - [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React.
  - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
@@ -257,18 +257,14 @@
  - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 
 
-### Component Collections
-
- - [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
- - [react-components](https://github.com/Khan/react-components) - React components used by Khan Academy.
-
-
 ### Form Components
 
 *Let the user enter data*
 
 
 ###### Date / Time picker
+
+*Date Picker / Time Picker / Datetime Picker / Date Range Picker*
 
  - [react-date-picker](https://github.com/zippyui/react-date-picker) - A carefully crafted date picker for React.
  - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
@@ -391,6 +387,8 @@
 
 ###### Image Editing
 
+*Image manipulation*
+
  - [react-avatar-cropper](https://github.com/DropsOfSerenity/react-avatar-cropper) - Aiming to be a complete solution for avatar cropping in react.
  - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook like, avatar / profile picture component. Resize and crop your uploaded image using a clear user interface.
  - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
@@ -509,6 +507,12 @@
  - [onsenui](https://github.com/OnsenUI/OnsenUI) - Hybrid Mobile App UI Framework for iOS and Material Design with Angular and React Components.
  - [reactionic](https://github.com/reactionic/reactionic) - React Ionic.
  - [touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React.
+
+
+### Component Collections
+
+ - [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
+ - [react-components](https://github.com/Khan/react-components) - React components used by Khan Academy.
 
 
 ### Other
@@ -710,7 +714,7 @@
 
 ###### Boilerplate
 
-*Boilerplates /  scaffolds / starter kits / generators / stack ensembles*
+*Scaffold / starter kit / Yeoman generator / stack ensemble / seed*
 
  - [create-react-app](https://github.com/facebookincubator/create-react-app) Create React apps with no build configuration.
  - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
