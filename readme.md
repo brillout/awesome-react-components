@@ -28,7 +28,7 @@
 <br/>
 
 
-# UI Components
+## UI Components
 
 
 ###### Table / Data Grid
@@ -416,7 +416,7 @@
  - [react-tabguard](https://github.com/avocode/react-tabguard) - React Tabguard.
 
 
-# UI Layout
+## UI Layout
 
 *Components to layout the app's UI*
 
@@ -436,7 +436,7 @@
  - [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components for React.js.
 
 
-# UI Animation
+## UI Animation
 
 *Animate transitions*
 
@@ -467,7 +467,7 @@
  - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
 
 
-# UI Frameworks
+## UI Frameworks
 
 
 ### Website
@@ -521,7 +521,7 @@
  - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 
 
-# UI Utilites
+## UI Utilites
 
 
 ### Reporter
@@ -596,7 +596,7 @@
  - [react-document-meta](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps. Works for both client- and server-side rendering, and has a strict but flexible API.
 
 
-# Code Design
+## Code Design
 
 *Libraries that help with code design*
 
@@ -746,7 +746,7 @@
  - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
 
 
-# Utilities
+## Utilities
 
  - [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like structure that renders to React.
  - [react-translate-component](https://github.com/martinandert/react-translate-component) - A component for React that utilizes the Counterpart module to provide multi-lingual/localized text content.
@@ -781,7 +781,7 @@
  - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 
 
-# Tests
+## Tests
 
  - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React.
  - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
@@ -794,7 +794,7 @@
  - [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.
 
 
-# Performance
+## Performance
 
 
 ### UI
@@ -827,7 +827,7 @@
  - [react-lite](https://github.com/Lucifier129/react-lite) - An implementation of React that optimizes for small script size.
 
 
-# Dev Tools
+## Dev Tools
 
 
 ###### Redux
@@ -858,7 +858,7 @@
  - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 
 
-# Miscellaneous
+## Miscellaneous
 
  - [structor](https://github.com/ipselon/structor) - An advanced GUI editor for React.
  - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
