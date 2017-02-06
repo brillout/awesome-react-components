@@ -57,9 +57,9 @@
  - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 
 
-###### Modals
+###### Overlay
 
-*Display overlay / modal / dialog*
+*Display overlay / modal / alert / dialog / lightbox / popup*
 
  - [react-dock](https://github.com/alexkuz/react-dock) - Resizable dockable react component.
  - [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components.
@@ -74,7 +74,7 @@
 
 ###### Notification
 
-*Toaster / alert / snackbar — Notify the user with a temporary little modal*
+*Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
  - [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React.
  - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
