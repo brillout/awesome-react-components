@@ -757,7 +757,6 @@
 
  - [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration.
  - [react-famous](https://github.com/pilwon/react-famous) - React bridge to Famo.us.
- - [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components.
  - [backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server.
  - [elm-react-component](https://github.com/KtorZ/elm-react-component) - A React component which wraps an Elm module to be used in a React application.
  - [react-three-renderer](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React.
@@ -800,6 +799,7 @@
 
  - [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React.
  - [react-static-container](https://github.com/reactjs/react-static-container) - Renders static content efficiently by allowing React to short-circuit the reconciliation process.
+ - [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components.
  - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
 
