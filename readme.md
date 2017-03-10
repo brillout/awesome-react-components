@@ -499,6 +499,10 @@
  - [react-material](https://github.com/BerkeleyTrue/react-material) - Material design components written with React.js and React Style.
  - [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google&#39;s Material Design.
  - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
+ 
+###### UIkit
+
+ - [uikit-react](https://github.com/stipsan/uikit-react) - React UI component built on top of the [UIkit CSS](https://getuikit.com/).
 
 
 ### Mobile
