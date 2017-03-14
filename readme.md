@@ -1,6 +1,6 @@
 # React Components & Libraries
 
- - Official website: [`devarchy.com/react-components`](http://devarchy.com/react-components)
+ - Official website: [`devarchy.com/react-components`](https://devarchy.com/react-components)
  - Use devarchy to add a library to the catalog
 
 <br/>
