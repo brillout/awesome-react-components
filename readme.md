@@ -90,7 +90,7 @@
 
 ###### Menu
 
-*Menus / Sidebars*
+*Menus / sidebars*
 
  - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations.
  - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
@@ -119,9 +119,9 @@
  - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
 
-###### Loading / Progress Indicators
+### Loader
 
-*Let the user know that something is being loaded*
+*Loaders / spinners / progress bars — Let the user know that something is loading*
 
  - [halogen](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js.
  - [react-ladda](https://github.com/jsdir/react-ladda) - React wrapper for Ladda buttons.
@@ -263,7 +263,7 @@
 
 ###### Date / Time picker
 
-*Date Picker / Time Picker / Datetime Picker / Date Range Picker*
+*Date picker / time picker / datetime picker / date range picker*
 
  - [react-date-picker](https://github.com/zippyui/react-date-picker) - A carefully crafted date picker for React.
  - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
@@ -549,7 +549,7 @@
 
 ### Portal
 
-*Render React DOM into a new context (aka "Portal")*
+*Render an element at an arbitrary DOM node*
 
  - [react-portal](https://github.com/tajo/react-portal) - React component for transportation of modals, lightboxes, loading bars... to document.body.
  - [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React. Useful for any kind of windowing/popover/modals/tooltip application.
