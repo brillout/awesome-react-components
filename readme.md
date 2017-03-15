@@ -80,7 +80,7 @@
  - [react-crouton](https://github.com/xeodou/react-crouton) - A message component for reactjs.
 
 
-### Tooltips
+### Tooltip
 
  - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
  - [rc-tooltip](https://github.com/react-component/tooltip) - React Tooltip.
@@ -133,7 +133,7 @@
  - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
 
 
-### Carousels
+### Carousel
 
  - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
 
@@ -143,9 +143,9 @@
  - [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height.
 
 
-### Charts
+### Chart
 
-*Display data in graphs / diagrams*
+*Display data in charts / graphs / diagrams*
 
  - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
  - [d3-react-squared](https://github.com/bgrsquared/d3-react-squared) - Lightweight event system for (d3) charts and other components for ReactJS.
@@ -220,6 +220,8 @@
 
 ### Photo / Image
 
+*Display images / photos*
+
  - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
  - [react-images](https://github.com/jossmac/react-images) - A simple lightbox component for displaying an array of images.
  - [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - Responsive React Photo Gallery.
@@ -228,7 +230,7 @@
 
 ### Icons
 
-*Icons / Icon set / Emojis*
+*Display icons / icon set / emojis*
 
  - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
 
@@ -242,7 +244,7 @@
 
 ### Markdown Viewer
 
-*Parse markdow source & render*
+*Display parsed markdow source*
 
  - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
 
@@ -296,7 +298,7 @@
 
 #### Input Types
 
-*Masked inputs, other types of specialized inputs; email / telephone number / credit card / etc.*
+*Masked inputs, specialized inputs; email / telephone number / credit card / etc.*
 
  - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking.
  - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
@@ -385,7 +387,7 @@
  - [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
 
 
-#### Rich Text Editing
+#### Rich Text Editor
 
  - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
  - [react-ace](https://github.com/securingsincity/react-ace) - React Ace Component.
@@ -398,6 +400,12 @@
  - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - React wrapper for Trumbowyg.
 
 
+#### Markdown Editor
+
+ - [react-md-editor](https://github.com/JedWatson/react-md-editor) - React.js Markdown Editor Component.
+ - [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
+
+
 #### Image Editing
 
 *Image manipulation*
@@ -406,12 +414,6 @@
  - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook like, avatar / profile picture component. Resize and crop your uploaded image using a clear user interface.
  - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
  - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - React image crop.
-
-
-#### Markdown Editor
-
- - [react-md-editor](https://github.com/JedWatson/react-md-editor) - React.js Markdown Editor Component.
- - [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
 
 
 #### Form Component Collections
@@ -493,7 +495,9 @@
 ## UI Frameworks
 
 
-### Website
+### Responsive
+
+*Set of components + responsive layout system*
 
  - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
  - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
@@ -534,6 +538,8 @@
 
 ### Component Collections
 
+*Set of components without layout system*
+
  - [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
  - [react-components](https://github.com/Khan/react-components) - React components used by Khan Academy.
 
@@ -570,15 +576,6 @@
  - [react-dimensions](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
  - [react-component-queries](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
 
-### Portal
-
-*Render an element at an arbitrary DOM node*
-
- - [react-portal](https://github.com/tajo/react-portal) - React component for transportation of modals, lightboxes, loading bars... to document.body.
- - [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React. Useful for any kind of windowing/popover/modals/tooltip application.
-
-
-
 
 
 ### Device Input
@@ -610,6 +607,26 @@
 
 
 
+### Meta Tags
+
+*Set meta tags, <title>, children of <head>*
+
+ - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React.
+ - [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
+ - [react-document-meta](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps. Works for both client- and server-side rendering, and has a strict but flexible API.
+
+
+
+### Portal
+
+*Render an element at an arbitrary DOM node*
+
+ - [react-portal](https://github.com/tajo/react-portal) - React component for transportation of modals, lightboxes, loading bars... to document.body.
+ - [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React. Useful for any kind of windowing/popover/modals/tooltip application.
+
+
+
+
 ### Test User Behavior
 
 *A/B tests, experiments, ...*
@@ -618,13 +635,12 @@
  - [react-experiments](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 
-### Meta Tags
 
-*Set meta tags, <title>, children of <head>*
 
- - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React.
- - [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
- - [react-document-meta](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps. Works for both client- and server-side rendering, and has a strict but flexible API.
+
+
+
+
 
 
 ## Code Design
@@ -834,22 +850,6 @@
 
 
 
-## Tests
-
- - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React.
- - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
- - [legit-tests](https://github.com/Legitcode/tests) - Chainable, easy to read, React testing library.
- - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for [unexpected]( to enable testing the full React virtual DOM, and also the shallow renderer.
- - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
- - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
- - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
- - [redux-ava](https://github.com/sotojuan/redux-ava) - Write AVA tests for redux pretty quickly.
- - [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.
-
-
-
-
-
 
 
 
@@ -893,6 +893,20 @@
 
 ## Dev Tools
 
+### Test
+
+ - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React.
+ - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
+ - [legit-tests](https://github.com/Legitcode/tests) - Chainable, easy to read, React testing library.
+ - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for [unexpected]( to enable testing the full React virtual DOM, and also the shallow renderer.
+ - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
+ - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
+ - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
+ - [redux-ava](https://github.com/sotojuan/redux-ava) - Write AVA tests for redux pretty quickly.
+ - [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.
+
+
+
 ### Redux
 
  - [redux-devtools-inspector](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor.
@@ -904,11 +918,13 @@
  - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 
 
+
 ### Inspect
 
  - [react-inspector](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
  - [react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component.
  - [reactotron](https://github.com/reactotron/reactotron) - A CLI and OS X app for inspecting your React JS and React Native apps.
+
 
 
 ### Miscellaneous
