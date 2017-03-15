@@ -793,7 +793,6 @@
  - [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React.
  - [react-resolver](https://github.com/ericclemmons/react-resolver) - Async rendering &amp; data-fetching for universal React applications.
  - [react-refetch](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
- - [relay-nested-routes](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
  - [redial](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
 
 
