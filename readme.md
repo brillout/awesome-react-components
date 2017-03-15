@@ -29,7 +29,6 @@
 
 ## UI Components
 
-
 ###### Table / Data Grid
 
  - [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
@@ -119,7 +118,7 @@
  - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
 
-### Loader
+###### Loader
 
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
@@ -227,22 +226,34 @@
  - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 
 
-###### Touch Swipe
+###### Icons
 
- - [react-swipe](https://github.com/voronianski/react-swipe) - Swipe.js as a React component.
+*Icons / Icon set / Emojis*
+
+ - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
+
+
+###### Paginator
+
+*Display a control element to paginate*
+
+ - [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
+
+
+###### Markdown Viewer
+
+*Parse markdow source & render*
+
+ - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
 
 
 ###### Miscellaneous
 
  - [react-timesheet](https://github.com/yuanyan/react-timesheet) - Time Sheet Component for React.
- - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
  - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
- - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
  - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
  - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
- - [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
  - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.
- - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
  - [react-emoji](https://github.com/banyan/react-emoji) - An emoji mixin for React.
  - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
  - [react-dnr](https://github.com/yongxu/react-DnR) - Dragable and Resizable window build with React.js.
@@ -256,10 +267,11 @@
  - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 
 
+
+
 ### Form Components
 
 *Let the user enter data*
-
 
 ###### Date / Time picker
 
@@ -282,36 +294,13 @@
  - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker built with React, with localization, themes, keyboard support, and more.
 
 
-###### Rich Text Editing
+###### Input Types
 
- - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
- - [react-ace](https://github.com/securingsincity/react-ace) - React Ace Component.
- - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
- - [react-codemirror](https://github.com/JedWatson/react-codemirror) - Codemirror Component for React.js.
- - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - React wrapper for medium-editor.
- - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
- - [ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
- - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
- - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - React wrapper for Trumbowyg.
+*Masked inputs, other types of specialized inputs; email / telephone number / credit card / etc.*
 
-
-###### Sortable List
-
-*Let the user define an order on a list*
-
- - [sortablejs](https://github.com/RubaXa/Sortable) - Sortable &mdash; is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
- - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
- - [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, touch-friendly, sortable list.
- - [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
-
-
-###### Drag and Drop
-
- - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
- - [react-dnd-touch-backend](https://github.com/yahoo/react-dnd-touch-backend) - Touch Backend for react-dnd.
- - [react-dropzone](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
- - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
- - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
+ - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking.
+ - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
+ - [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny.
 
 
 ###### Autocomplete
@@ -355,15 +344,9 @@
  - [react-radio-group](https://github.com/chenglou/react-radio-group) - Better radio buttons.
 
 
-###### Star Rating
-
- - [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React.
- - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
-
-
 ###### Type Select
 
-*Let the user select a tag / something while typing*
+*Let the user select something (e.g. a tag) while typing*
 
  - [react-tagsinput](https://github.com/olahol/react-tagsinput) - A simple react component for inputing tags.
  - [react-tag-input](https://github.com/prakhar1989/react-tags) - A fantastically simple tagging component for your React projects.
@@ -371,17 +354,48 @@
  - [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - Tokeninput component for React.
 
 
-###### Masked Input
-
- - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking.
- - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
- - [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny.
-
-
 ###### Autosize Input / Textarea
 
  - [react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
  - [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content.
+
+
+###### Star Rating
+
+ - [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React.
+ - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
+
+
+###### Drag and Drop
+
+ - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
+ - [react-dnd-touch-backend](https://github.com/yahoo/react-dnd-touch-backend) - Touch Backend for react-dnd.
+ - [react-dropzone](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
+ - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
+ - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
+
+
+###### Sortable List
+
+*Let the user define an order on a list*
+
+ - [sortablejs](https://github.com/RubaXa/Sortable) - Sortable &mdash; is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
+ - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
+ - [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, touch-friendly, sortable list.
+ - [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
+
+
+###### Rich Text Editing
+
+ - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+ - [react-ace](https://github.com/securingsincity/react-ace) - React Ace Component.
+ - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
+ - [react-codemirror](https://github.com/JedWatson/react-codemirror) - Codemirror Component for React.js.
+ - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - React wrapper for medium-editor.
+ - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+ - [ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
+ - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
+ - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - React wrapper for Trumbowyg.
 
 
 ###### Image Editing
@@ -415,6 +429,11 @@
  - [react-tabguard](https://github.com/avocode/react-tabguard) - React Tabguard.
 
 
+
+
+
+
+
 ## UI Layout
 
 *Components to layout the app's UI*
@@ -433,6 +452,11 @@
  - [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen javascript Layout manager.
  - [reactwm](https://github.com/stayradiated/reactwm) - A minimal window manager built using React.
  - [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components for React.js.
+
+
+
+
+
 
 
 ## UI Animation
@@ -546,7 +570,6 @@
  - [react-dimensions](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
  - [react-component-queries](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
 
-
 ### Portal
 
 *Render an element at an arbitrary DOM node*
@@ -555,29 +578,36 @@
  - [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React. Useful for any kind of windowing/popover/modals/tooltip application.
 
 
-### Device Events
 
+
+
+### Device Input
+
+*Turn user input into actions*
 
 ###### Keyboard Events
 
  - [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components.
  - [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
 
-
 ###### Scroll Events
 
  - [react-scroll-components](https://github.com/jeroencoumans/react-scroll-components) - A set of components that react to page scrolling.
-
 
 ###### Touch Events
 
  - [react-hammerjs](https://github.com/JedWatson/react-hammerjs) - ReactJS / HammerJS integration. Support touch events in your React app.
  - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 
+###### Touch Swipe
+
+ - [react-swipe](https://github.com/voronianski/react-swipe) - Swipe.js as a React component.
 
 ###### Mouse Events
 
  - [react-aim](https://github.com/gabrielbull/react-aim) - Determine the cursor aim for triggering mouse events.
+
+
 
 
 ### Test User Behavior
@@ -588,7 +618,9 @@
  - [react-experiments](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 
-### Set Children of &lt;head&gt;
+### Meta Tags
+
+*Set meta tags, <title>, children of <head>*
 
  - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React.
  - [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
@@ -745,6 +777,14 @@
  - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
 
 
+
+
+
+
+
+
+
+
 ## Utilities
 
  - [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like structure that renders to React.
@@ -752,6 +792,14 @@
  - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
  - [react-media](https://github.com/ReactTraining/react-media) A CSS media query component for React.
  - [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
+
+
+###### i18n
+
+*Internationalization / L10n / localization / translation*
+
+ - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+
 
 ###### Framework bindings / integrations
 
@@ -779,6 +827,13 @@
  - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 
 
+
+
+
+
+
+
+
 ## Tests
 
  - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React.
@@ -792,8 +847,15 @@
  - [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.
 
 
-## Performance
 
+
+
+
+
+
+
+
+## Performance
 
 ### UI
 
@@ -802,13 +864,11 @@
  - [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components.
  - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
-
 ###### Inspect
 
  - [why-did-you-update](https://github.com/garbles/why-did-you-update) - Puts your console on blast when React is making unnecessary updates.
  - [react-perf-tool](https://github.com/RamonGebben/react-perf-tool) - Debug performance of your React application.
  - [react-render-visualizer](https://github.com/redsunsoft/react-render-visualizer) - Render visualizer for ReactJS.
-
 
 ###### Lazy Load
 
@@ -819,15 +879,19 @@
  - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
  - [react-lazy-load](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
 
-
 ### App Size
 
  - [babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes from the production build.
  - [react-lite](https://github.com/Lucifier129/react-lite) - An implementation of React that optimizes for small script size.
 
 
-## Dev Tools
 
+
+
+
+
+
+## Dev Tools
 
 ###### Redux
 
@@ -855,6 +919,13 @@
  - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
  - [mighty-react-snippets](https://github.com/nicksp/mighty-react-snippets) - Crafty React and Redux ES6 snippets for Atom Editor.
  - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
+
+
+
+
+
+
+
 
 
 ## Miscellaneous
