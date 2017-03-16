@@ -159,6 +159,7 @@
  - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
  - [react-s-alert](https://github.com/juliancwirko/react-s-alert) - Alerts / Notifications for React with rich configuration options.
  - [react-crouton](https://github.com/xeodou/react-crouton) - A message component for reactjs.
+ - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 
 
 ### Tooltip
