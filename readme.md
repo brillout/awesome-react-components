@@ -214,6 +214,7 @@
  - [react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
  - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
  - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
+ - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 
 
 ### Carousel
