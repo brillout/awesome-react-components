@@ -309,6 +309,7 @@
  - [react-images](https://github.com/jossmac/react-images) - A simple lightbox component for displaying an array of images.
  - [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - Responsive React Photo Gallery.
  - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
+ - [react-image-lightbox](https://github.com/fritz-c/react-image-lightbox) - React lightbox component.
 
 
 ### Icons
