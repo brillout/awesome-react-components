@@ -213,6 +213,7 @@
  - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
  - [react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
  - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
+ - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
 
 
 ### Carousel
