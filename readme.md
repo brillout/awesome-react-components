@@ -184,7 +184,7 @@
 ### Sticky
 
 *Implementations similar to `position: sticky`*
-
+ - [react-sticky-state](https://github.com/soenkekluth/react-sticky-state) - &lt;Sticky /&gt; adds state to native position:sticky polyfills the missing sticky browser feature
  - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps.
  - [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
  - [react-listview-sticky-header](https://github.com/cht8687/react-listview-sticky-header) - React listview with sticky section header.
