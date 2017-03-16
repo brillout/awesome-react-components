@@ -629,6 +629,7 @@
 
  - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
  - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
+ - [admin-on-rest](https://github.com/marmelab/admin-on-rest) - A frontend framework for building admin SPAs on top of REST services, using React and Material Design.
 
 
 ## UI Utilites
