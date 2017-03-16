@@ -299,6 +299,7 @@
 
  - [react-time](https://github.com/andreypopp/react-time) - Component for React to render relative and/or formatted dates into &lt;time&gt; HTML5 element.
  - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
+ - [timeago-react](https://github.com/hustcc/timeago-react) - Simple and efficient react component to format date with `*** time ago` statement. eg: '3 hours ago'.
 
 
 ### Photo / Image
