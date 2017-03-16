@@ -245,6 +245,7 @@
  - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
  - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
  - [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
+ - [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
 
 
 ### Tree
