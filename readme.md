@@ -280,6 +280,7 @@
  - [react-video](https://github.com/pedronauck/react-video) - React component to load video from Vimeo or Youtube across any device.
  - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React.
  - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
+ - [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
 
 
 ### Map
