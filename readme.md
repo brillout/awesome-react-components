@@ -395,6 +395,7 @@
  - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking.
  - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
  - [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny.
+ - [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms.
 
 
 #### Autocomplete
