@@ -290,6 +290,7 @@
  - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
  - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
  - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
+ - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
 
 
 ### Time / Date / Age
