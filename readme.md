@@ -828,6 +828,7 @@
  - [react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS.
  - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
  - [radium](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
+ - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 
 
 ### HTML Template
