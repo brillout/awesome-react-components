@@ -314,6 +314,7 @@
 *Display icons / icon set / emojis*
 
  - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
+ - [react-emoji](https://github.com/banyan/react-emoji) - An emoji mixin for React.
 
 
 ### Paginator
@@ -337,7 +338,6 @@
  - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
  - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
  - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.
- - [react-emoji](https://github.com/banyan/react-emoji) - An emoji mixin for React.
  - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
  - [react-dnr](https://github.com/yongxu/react-DnR) - Dragable and Resizable window build with React.js.
  - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
