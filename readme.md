@@ -381,6 +381,7 @@
  - [react-date-select](https://github.com/JedWatson/react-date-select) - A React Date Select / Picker Input Component.
  - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker built with React, with localization, themes, keyboard support, and more.
  - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web.
+ - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
 
 
 #### Input Types
