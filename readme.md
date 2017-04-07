@@ -324,6 +324,7 @@
 
  - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
  - [react-emoji](https://github.com/banyan/react-emoji) - An emoji mixin for React.
+ - [react-emoji-react](https://github.com/conorhastings/react-emoji-react) - A clone of Slack emoji reactions in React.
 
 
 ### Paginator
