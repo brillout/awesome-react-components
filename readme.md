@@ -181,9 +181,9 @@
  - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
 
 
-### Sticky
+### Header
 
-*Implementations similar to `position: sticky`*
+*Fixed headers / scroll-up headers / sticky elements*
 
  - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps.
  - [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
