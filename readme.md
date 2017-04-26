@@ -181,7 +181,7 @@
  - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
 
 
-### Header
+### Sticky
 
 *Fixed headers / scroll-up headers / sticky elements*
 
