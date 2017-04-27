@@ -368,7 +368,6 @@
 
 *Date picker / time picker / datetime picker / date range picker*
 
- - [react-date-picker](https://github.com/zippyui/react-date-picker) - A carefully crafted date picker for React.
  - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
  - [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
  - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
