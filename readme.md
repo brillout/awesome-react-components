@@ -115,7 +115,6 @@
  - [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
  - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
  - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
- - [react-datagrid](https://github.com/zippyui/react-datagrid) - A carefully crafted DataGrid for React.
  - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
  - [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - It&#39;s a react table for bootstrap.
  - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React, with editors, keyboard navigation, copy &amp; paste, and the like.
