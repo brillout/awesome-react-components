@@ -550,6 +550,7 @@
  - [reactwm](https://github.com/stayradiated/reactwm) - A minimal window manager built using React.
  - [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components for React.js.
  - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
+ - [reflexbox](https://github.com/jxnblk/reflexbox) - React flexbox layout and grid system.
 
 
 
