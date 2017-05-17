@@ -583,6 +583,7 @@
  - [animakit-elastic](https://github.com/animakit/animakit-elastic) - AnimakitElastic - React component for flexible resizing of the blocks.
  - [animakit-expander](https://github.com/animakit/animakit-expander) - AnimakitExpander - React component for the expanding and collapsing of the blocks.
  - [react-tween](https://github.com/clari/react-tween) - Tween animation for React components.
+ - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data in react.
 
 
 ### Parallax
