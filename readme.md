@@ -1022,6 +1022,7 @@
  - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
  - [redux-ava](https://github.com/sotojuan/redux-ava) - Write AVA tests for redux pretty quickly.
  - [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.
+ - [jest-cli](https://github.com/facebook/jest) - Painless JavaScript Testing.
 
 
 
