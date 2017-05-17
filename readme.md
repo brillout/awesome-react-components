@@ -553,6 +553,7 @@
  - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
  - [reflexbox](https://github.com/jxnblk/reflexbox) - React flexbox layout and grid system.
  - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system for React, powered by styled-components.
+ - [react-resizer](https://github.com/avocode/react-resizer) - A React component for resizing HTML elements.
 
 
 
