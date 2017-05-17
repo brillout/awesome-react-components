@@ -774,6 +774,7 @@
  - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
  - [mobx-react](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
  - [cerebral](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
+ - [kea-logic](https://github.com/mariusandra/kea-logic) - High level architecture for React apps.
 
 
 ### Form Logic
