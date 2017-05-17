@@ -470,6 +470,7 @@
  - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
  - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
  - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts.
+ - [react-droparea](https://github.com/avocode/react-droparea) - Drag and Drop library for React.
 
 
 #### Sortable List
