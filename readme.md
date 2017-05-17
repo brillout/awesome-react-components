@@ -179,6 +179,7 @@
  - [react-tree-menu](https://github.com/MandarinConLaBarba/react-tree-menu) - A stateless tree menu component for React.
  - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
  - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
+ - [rc-menu](https://github.com/react-component/menu) - React Menu.
 
 
 ### Sticky
