@@ -930,6 +930,7 @@
 
  - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
  - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
+ - [react-translate-maker](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 
 
 ### Framework bindings / integrations
