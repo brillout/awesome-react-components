@@ -251,6 +251,7 @@
  - [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
  - [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
  - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
+ - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
 
 
 ### Tree
