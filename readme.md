@@ -677,6 +677,7 @@
  - [react-dimensions](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
  - [react-component-queries](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
  - [react-sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height.
+ - [react-container-dimensions](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize and passes new dimensions down the tree. Based on.
 
 
 
