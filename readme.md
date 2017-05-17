@@ -224,6 +224,7 @@
 ### Collapse
 
  - [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height.
+ - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
 
 
 ### Chart
