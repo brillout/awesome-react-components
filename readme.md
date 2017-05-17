@@ -956,6 +956,7 @@
  - [react-google-analytics](https://github.com/hzdg/react-google-analytics) - Google analytics component.
  - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
  - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
+ - [react-ga](https://github.com/react-ga/react-ga) - React Google Analytics Module.
 
 
 
