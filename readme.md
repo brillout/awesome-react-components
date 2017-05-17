@@ -221,6 +221,7 @@
 ### Carousel
 
  - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
+ - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 
 
 ### Collapse
