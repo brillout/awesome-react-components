@@ -695,6 +695,7 @@
  - [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components.
  - [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
  - [react-shortcuts](https://github.com/avocode/react-shortcuts) - Manage keyboard shortcuts from one place.
+ - [react-key-handler](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events.
 
 #### Scroll Events
 
