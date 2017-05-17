@@ -554,6 +554,7 @@
  - [reflexbox](https://github.com/jxnblk/reflexbox) - React flexbox layout and grid system.
  - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system for React, powered by styled-components.
  - [react-resizer](https://github.com/avocode/react-resizer) - A React component for resizing HTML elements.
+ - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - React splitter component, written in TypeScript.
 
 
 
