@@ -243,6 +243,7 @@
  - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
  - [react-sparkline](https://github.com/KyleAMathews/react-sparkline) - React component for rendering simple sparklines.
  - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
+ - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
  - [rumble-charts](https://github.com/RumbleInc/rumble-js-charts) - React components for building composable and flexible charts.
  - [react-micro-bar-chart](https://github.com/KyleAMathews/react-micro-bar-chart) - React component for micro bar-charts rendered with D3.
  - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
