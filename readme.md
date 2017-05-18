@@ -453,6 +453,7 @@
  - [react-tag-input](https://github.com/prakhar1989/react-tags) - A fantastically simple tagging component for your React projects.
  - [react-mentions](https://github.com/effektif/react-mentions) - Mention people in a textarea.
  - [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - Tokeninput component for React.
+ - [react-autocomplete-input](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
 
 
 #### Autosize Input / Textarea
