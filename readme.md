@@ -367,6 +367,9 @@
 
 
 
+### Multilingual
+
+ - [react-multilingual](https://github.com/hasangilak/react-multilingual) - multilingual feature on strings | text and css style.
 
 ### Form Components
 
