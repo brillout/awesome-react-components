@@ -630,6 +630,9 @@
  - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
  - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components.
 
+###### Semantic UI
+
+ - [stardust](https://github.com/TechnologyAdvice/stardust) -  The official Semantic-UI-React library.
 
 #### Material Design
 
