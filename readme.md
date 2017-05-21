@@ -379,6 +379,7 @@
  - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
  - [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
  - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
+ - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web
  - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
  - [react-daterange-picker](https://github.com/onefinestay/react-daterange-picker) - A React based date range picker.
  - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
