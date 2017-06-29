@@ -216,6 +216,7 @@
  - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
  - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
  - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
+ - [react-skeletor](https://github.com/trainline/react-skeletor) - Display a skeleton preview of your application layout.
 
 
 ### Carousel
