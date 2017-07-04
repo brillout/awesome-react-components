@@ -883,7 +883,7 @@
 
 *Scaffold / starter kit / Yeoman generator / stack ensemble / seed*
 
- - [create-react-app](https://github.com/facebookincubator/create-react-app) Create React apps with no build configuration.
+ - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
  - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
  - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
  - [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
@@ -926,7 +926,7 @@
  - [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like structure that renders to React.
  - [react-translate-component](https://github.com/martinandert/react-translate-component) - A component for React that utilizes the Counterpart module to provide multi-lingual/localized text content.
  - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
- - [react-media](https://github.com/ReactTraining/react-media) A CSS media query component for React.
+ - [react-media](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
  - [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
 
 
