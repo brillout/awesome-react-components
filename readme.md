@@ -192,6 +192,7 @@
  - [react-sticky-state](https://github.com/soenkekluth/react-sticky-state) - React StickyState Component makes native position:sticky statefull and polyfills the missing sticky browser feature.
  - [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky.
  - [react-sticky-node](https://github.com/visortelle/react-sticky-node) - Sticky react component.
+ - [react-virtualized-sticky-tree](https://github.com/marchaos/react-virtualized-sticky-tree) - Virtualized Tree with position: sticky support.
 
 
 ### Tabs
