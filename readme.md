@@ -180,6 +180,7 @@
  - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
  - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
  - [rc-menu](https://github.com/react-component/menu) - React Menu.
+ - [react-data-menu](https://github.com/dkozar/react-data-menu) - Smart data-driven menu rendered in an overlay, never clipped by other components or screen edges.
 
 
 ### Sticky
