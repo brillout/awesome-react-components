@@ -630,6 +630,9 @@
  - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
  - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components.
 
+#### PrimeReact
+
+- [primereact](https://github.com/primefaces/primereact) - A collection of rich UI components for React
 
 #### Material Design
 
