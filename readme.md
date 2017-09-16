@@ -123,7 +123,7 @@
  - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
  - [fixed-data-table](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
  - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
-
+- [rsuite-table](https://github.com/rsuite/rsuite-table) - A React table component, Supports sorting, fixed columns, and custom column widths.
 
 ### Infinite Scroll
 
