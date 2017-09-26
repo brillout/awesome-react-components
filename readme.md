@@ -2,6 +2,7 @@
 
  - Official website: [`devarchy.com/react`](https://devarchy.com/react)
  - Use devarchy to add a library to the catalog
+ - This readme is updated when a Library is approved on Devarchy. (Meaning that all new libraries awaiting for approval are visible only on Devarchy.)
 
 <br/>
 
