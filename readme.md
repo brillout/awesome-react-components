@@ -19,6 +19,7 @@
   - [Tabs](#tabs)
   - [Loader](#loader)
   - [Carousel](#carousel)
+  - [Chat Bot](#chat-bot)
   - [Collapse](#collapse)
   - [Chart](#chart)
   - [Tree](#tree)
@@ -223,6 +224,11 @@
 
  - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
  - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
+
+
+### Chat Bot
+
+- [i-chatbot](https://github.com/Endore8/i-chatbot) - Simple and elegant component for building conversational interfaces
 
 
 ### Collapse
