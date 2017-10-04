@@ -509,6 +509,7 @@
 
  - [react-md-editor](https://github.com/JedWatson/react-md-editor) - React.js Markdown Editor Component.
  - [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
+ - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A markdown editor based on DraftJS
 
 
 #### Image Editing
