@@ -61,7 +61,7 @@
   - [Mobile](#mobile)
   - [Component Collections](#component-collections)
   - [Other](#other)
-- [UI Utilites](#ui-utilites)
+- [UI Utilities](#ui-utilities)
   - [Reporter](#reporter)
     - [Visibility Reporter](#visibility-reporter)
     - [Measurement Reporter](#measurement-reporter)
@@ -665,7 +665,7 @@
  - [admin-on-rest](https://github.com/marmelab/admin-on-rest) - A frontend framework for building admin SPAs on top of REST services, using React and Material Design.
 
 
-## UI Utilites
+## UI Utilities
 
 
 ### Reporter
