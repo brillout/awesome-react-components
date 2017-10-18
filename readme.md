@@ -496,6 +496,7 @@
  - [react-ace](https://github.com/securingsincity/react-ace) - React Ace Component.
  - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
  - [react-codemirror](https://github.com/JedWatson/react-codemirror) - Codemirror Component for React.js.
+ - [react-codemirror2](https://github.com/scniro/react-codemirror2) - Controlled Codemirror component for React - written in TypeScript
  - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - React wrapper for medium-editor.
  - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
  - [ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
