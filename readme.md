@@ -322,6 +322,7 @@
  - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
  - [react-image-lightbox](https://github.com/fritz-c/react-image-lightbox) - React lightbox component.
  - [react-intense](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close.
+ - [react-photoswipe](https://github.com/minhtranite/react-photoswipe) - PhotoSwipe, PhotoSwipeGallery component for ReactJS base on PhotoSwipe.
 
 
 ### Icons
