@@ -433,6 +433,7 @@
 
  - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
  - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
+ - [react-switch](https://github.com/yogaboll/react-switch) - A draggable, customizable and accessible toggle-switch.
 
 
 #### Slider
