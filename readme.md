@@ -887,6 +887,7 @@
  - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
  - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
  - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
+  - [react-redux-saga-antd](https://github.com/emersonlaurentino/react-redux-saga-antd-starter) - Create React apps with no redux, saga and Ant Design.
  - [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
  - [gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web applications using React and Redux.
  - [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit - Integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
