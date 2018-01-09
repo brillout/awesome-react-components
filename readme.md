@@ -656,6 +656,7 @@
 
  - [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
  - [react-components](https://github.com/Khan/react-components) - React components used by Khan Academy.
+ - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) - Beautiful React components for Elasticsearch.
 
 
 ### Other
