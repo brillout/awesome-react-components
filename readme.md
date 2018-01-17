@@ -269,7 +269,7 @@
 *Ways to navigate views*
 
  - [react-scroll](https://github.com/fisshy/react-scroll) - React scroll component.
- - [react-swipe-views](https://github.com/oliviertassinari/react-swipeable-views) - A React Component for binded Tabs and Swipeable Views.
+ - [react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views) - A React Component for binded Tabs and Swipeable Views.
 
 
 ### Custom Scrollbar
