@@ -262,7 +262,7 @@
  - [react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
  - [react-ui-tree](https://github.com/pqx/react-ui-tree) - React tree component.
  - [react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
-
+ - [react-virtualized-tree](https://github.com/diogofcunha/react-virtualized-tree) - react library to display tree like data in a beautiful and fast way.
 
 ### UI Navigation
 
