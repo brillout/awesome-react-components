@@ -534,6 +534,7 @@
  - [react-designer](https://github.com/fatiherikli/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
  - [react-images-uploader](https://github.com/aleksei0807/react-images-uploader) - React.js component for uploading images to the server.
  - [react-tabguard](https://github.com/avocode/react-tabguard) - React Tabguard.
+ - [@opuscapita/react-filemanager](https://github.com/OpusCapita/filemanager) - React based FileManager for browser ( + FS REST API for Node.js and Express)
 
 
 
