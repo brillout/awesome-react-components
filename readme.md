@@ -1086,3 +1086,8 @@
  - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
  - [phenomic](https://github.com/MoOx/phenomic) - Modern static* website generator based on the React and Webpack ecosystem.
  - [sitegen](https://github.com/andreypopp/sitegen) - Generate websites by composing React components.
+ 
+ 
+ ### Component distribution
+ 
+ - [Bit](https://github.com/teambit/bit). A tool for component source code distribution that saves the overhead of keeping components in separate repos. It allows you to track and share components directly from any project and update changes to the component's source code from any project it's sourced in. It also works with NPM and Yarn.
