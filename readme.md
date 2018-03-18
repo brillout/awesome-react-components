@@ -1079,6 +1079,7 @@
  - [htmltojsx](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It&#39;s magic!.
  - [react-bash](https://github.com/zackargyle/react-bash) - A configurable/extendable bash terminal React component.
  - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
+ - [Programming Community Curated Resources for Learning React](https://hackr.io/tutorials/learn-react) - a list of recommended React resources.
 
 
 ### Static Website Generator
