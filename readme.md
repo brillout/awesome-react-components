@@ -217,7 +217,8 @@
  - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
  - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
  - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
-
+ - [react-fetch-progressbar](https://github.com/42BV/react-fetch-progressbar) - Show a progressbar in React whenever a fetch request is in progress
+ 
 
 ### Carousel
 
