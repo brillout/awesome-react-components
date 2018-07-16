@@ -878,6 +878,7 @@
  - [isomorphic-relay](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
  - [rill](https://github.com/rill-js/rill) - Universal web application framework.
  - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
+ [react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 
 
 ### Boilerplate
