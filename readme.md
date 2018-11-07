@@ -527,6 +527,7 @@
  - [formsy-material-ui](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material-UI form components.
  - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
  - [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs built for React.
+ - [ez-react-form](https://github.com/ngduc/ez-react-form) - simple form syntax. Work with multiple Style Frameworks: bootstrap, semantic ui, etc.
 
 
 #### Miscellaneous
