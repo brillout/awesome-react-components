@@ -253,7 +253,7 @@
  - [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
  - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
  - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
-
+ - [increaser-charts](https://github.com/RodionChachura/increaser-charts) - Scrollable stacked bar chart.
 
 ### Tree
 
@@ -393,6 +393,7 @@
  - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker built with React, with localization, themes, keyboard support, and more.
  - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web.
  - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
+ - [increaser-timepicker](https://github.com/RodionChachura/increaser-timepicker) - TimePicker for selecting a duration within an hour.
 
 
 #### Input Types
@@ -596,7 +597,8 @@
  - [react-tween](https://github.com/clari/react-tween) - Tween animation for React components.
  - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data in react.
  - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
-
+ - [increaser-timer](https://github.com/RodionChachura/increaser-timer) - The component that shows which part of an hour left.
+ - [increaser-timeline](https://github.com/RodionChachura/increaser-timeline) - Periods in some duration of time.
 
 ### Parallax
 
