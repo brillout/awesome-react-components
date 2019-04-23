@@ -115,6 +115,7 @@
 
  - [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
  - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
+ - [essential js 2 grid](https://www.syncfusion.com/react-ui-components/react-data-grid) - The fastest and flexible data grid for react.
  - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
  - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
  - [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - It&#39;s a react table for bootstrap.
@@ -237,6 +238,7 @@
 
  - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
  - [d3-react-squared](https://github.com/bgrsquared/d3-react-squared) - Lightweight event system for (d3) charts and other components for ReactJS.
+ - [essential js 2 charts](https://www.syncfusion.com/react-ui-components/react-charts) - Beautiful and interactive charts & graphs for react.
  - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
  - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
  - [react-chartjs](https://github.com/reactjs/react-chartjs) - Common react charting components using chart.js.
