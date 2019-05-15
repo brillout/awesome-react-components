@@ -806,6 +806,7 @@
  - [tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react.
  - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
  - [cerebral-module-forms](https://github.com/cerebral/cerebral-module-forms) - A forms handler for Cerebral.
+ - [Formcat](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 
 
 ### Router
