@@ -221,7 +221,7 @@
 
 
 ### Carousel
-
+ - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
  - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
  - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 
