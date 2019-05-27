@@ -1,9 +1,7 @@
 # React Components & Libraries
 
- - Know of a great React component not on this list? Please PR.
- - Know of a derelict React component that *is* on this list? Please also PR.
-
-<br/>
+ - Know of a great React component not on this list? Please PR. Ideally please also include a direct link to a demo, too.
+ - Know of a derelict React component that *is* on this list? Please PR and suggest removals.
 
 #### Contents
 
