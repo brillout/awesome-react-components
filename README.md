@@ -1,7 +1,16 @@
 # React Components & Libraries
 
-- Know of a great React component not on this list? Please PR. Ideally please also include a direct link to a demo, too.
-- Know of a derelict React component that _is_ on this list? Please PR and suggest removals.
+- Know of a great React component not on this list? Please PR.
+  - List the component alphabetically.
+  - Reference it only once.
+  - Describe it succinctly, sufficiently, and without flair.
+  - If available, please also include a direct link to a demo site.
+  - If available, please also include a direct link to a separate docs site.
+- Know of a derelict React component that _is_ on this list? Please PR with removals.
+
+Here's how your listing should appear:
+
+- [React](https://github.com/facebook/react) - [demo](https://reactjs.org/) - [docs](https://reactjs.org/docs/getting-started.html) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 #### Contents
 
