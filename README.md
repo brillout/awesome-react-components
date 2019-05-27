@@ -99,13 +99,6 @@
 - [Miscellaneous](#miscellaneous-4)
   - [Static Website Generator](#static-website-generator)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## UI Components
 
 ### Table / Data Grid
