@@ -299,6 +299,7 @@ _Display time / date / age_
 
 _Display images / photos_
 
+- [react-compare-image](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
 - [react-image-lightbox](https://github.com/fritz-c/react-image-lightbox) - React lightbox component.
 - [react-images](https://github.com/jossmac/react-images) - A simple lightbox component for displaying an array of images.
