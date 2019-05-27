@@ -122,6 +122,7 @@
  - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
  - [fixed-data-table](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
  - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
+ - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, ajax CRUD, keyboard controls, fixed header, 10 languages.
 
 
 ### Infinite Scroll
