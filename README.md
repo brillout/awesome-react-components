@@ -828,6 +828,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
 - [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like structure that renders to React.
 - [react-media](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
+- [react-middle-ellipsis](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - A component for React that utilizes the Counterpart module to provide multi-lingual/localized text content.
 
 ### i18n
