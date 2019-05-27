@@ -579,7 +579,7 @@ _Set of components + responsive layout system_
 
 #### Material Design
 
-- [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google&#39;s Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-material](https://github.com/BerkeleyTrue/react-material) - Material design components written with React.js and React Style.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
