@@ -1,8 +1,7 @@
 # React Components & Libraries
 
- - Official website: [`devarchy.com/react`](https://devarchy.com/react)
- - Use devarchy to add a library to the catalog
- - This readme is updated when a Library is approved on Devarchy. (Meaning that all new libraries awaiting for approval are visible only on Devarchy.)
+ - Know of a great React component not on this list? Please PR.
+ - Know of a derelict React component that *is* on this list? Please also PR.
 
 <br/>
 
