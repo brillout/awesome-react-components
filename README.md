@@ -358,7 +358,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
 - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker, with localization, themes, and more.
-- [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - Simple time input field.
+- [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 
 #### Input Types
