@@ -1,18 +1,13 @@
-# React Components & Libraries
+# Absolutely Awesome React Components & Libraries
+
+This is NOT a comprehensive listing of every React component. No, it's a list
+of AWESOME components. What does "awesome" mean? Well, it means a component
+that is recently updated; and that solves a real problem in a unique,
+beautiful, or exceptional way.
 
 ### Contributing
 
-- Know of a great React component not on this list? Please PR.
-  - List the component alphabetically.
-  - Reference it only once.
-  - Describe it succinctly, sufficiently, and without flair. (No line wrap in your listing.)
-  - If available, please also include a direct link to a demo site.
-  - If available, please also include a direct link to a separate docs site.
-- Know of a derelict React component that _is_ on this list? Please PR with removals.
-
-Here's an example of how your listing should appear:
-
-- [React](https://github.com/facebook/react) - [demo](https://reactjs.org/) - [docs](https://reactjs.org/docs/getting-started.html) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md).
 
 ## Table of Contents
 
@@ -324,7 +319,6 @@ _Display parsed markdow source_
 - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-color-scroll](https://github.com/JosephSmith127/react-color-scroll) - Change and blend new colors on the background as you scroll.
-
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-dnr](https://github.com/yongxu/react-DnR) - Dragable and Resizable window build with React.js.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
