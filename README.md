@@ -322,6 +322,9 @@ _Display parsed markdow source_
 - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 - [react-autolink](https://github.com/banyan/react-autolink) - An autolink mixin for React.
 - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
+- [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
+- [react-color-scroll](https://github.com/JosephSmith127/react-color-scroll) - Change and blend new colors on the background as you scroll.
+
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-dnr](https://github.com/yongxu/react-DnR) - Dragable and Resizable window build with React.js.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
