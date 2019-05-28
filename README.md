@@ -3,7 +3,7 @@
 - Know of a great React component not on this list? Please PR.
   - List the component alphabetically.
   - Reference it only once.
-  - Describe it succinctly, sufficiently, and without flair.
+  - Describe it succinctly, sufficiently, and without flair. (No line wrap in your listing.)
   - If available, please also include a direct link to a demo site.
   - If available, please also include a direct link to a separate docs site.
 - Know of a derelict React component that _is_ on this list? Please PR with removals.
@@ -116,12 +116,12 @@ Here's how your listing should appear:
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
 - [essential js 2 grid](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/grids) - The fastest and flexible data grid for react.
 - [fixed-data-table](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
-- [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, ajax CRUD, keyboard controls, fixed header, 10 languages.
+- [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
 - [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - It&#39;s a react table for bootstrap.
 - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
-- [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React, with editors, keyboard navigation, copy &amp; paste, and the like.
-- [react-pivot](https://github.com/davidguttman/react-pivot) - React-Pivot is a data-grid component with pivot-table-like functionality for data display, filtering, and exploration.
+- [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+- [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
 - [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
 - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
@@ -170,7 +170,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 _Menus / sidebars_
 
 - [rc-menu](https://github.com/react-component/menu) - React Menu.
-- [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations.
+- [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
 - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
 - [react-motion-menu](https://github.com/bokuweb/react-motion-menu) - Motion menu component powered by React Motion.
@@ -185,7 +185,7 @@ _Fixed headers / scroll-up headers / sticky elements_
 - [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
 - [react-listview-sticky-header](https://github.com/cht8687/react-listview-sticky-header) - React listview with sticky section header.
 - [react-sticky-node](https://github.com/visortelle/react-sticky-node) - Sticky react component.
-- [react-sticky-state](https://github.com/soenkekluth/react-sticky-state) - React StickyState Component makes native position:sticky statefull and polyfills the missing sticky browser feature.
+- [react-sticky-state](https://github.com/soenkekluth/react-sticky-state) - React StickyState makes native `position:sticky` statefull, with polyfills.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps.
 - [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky.
 
@@ -220,7 +220,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 ### Collapse
 
 - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
-- [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height.
+- [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion.
 
 ### Chart
 
@@ -273,7 +273,7 @@ _Ways to navigate views_
 
 - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React.
-- [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including file paths, YouTube, SoundCloud and Vimeo.
+- [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 - [react-video](https://github.com/pedronauck/react-video) - React component to load video from Vimeo or Youtube across any device.
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
@@ -295,7 +295,7 @@ _Display time / date / age_
 
 - [react-time](https://github.com/andreypopp/react-time) - Component for React to render relative and/or formatted dates into &lt;time&gt; HTML5 element.
 - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
-- [timeago-react](https://github.com/hustcc/timeago-react) - Simple and efficient react component to format date with `*** time ago` statement. eg: '3 hours ago'.
+- [timeago-react](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Photo / Image
 
@@ -337,7 +337,7 @@ _Display parsed markdow source_
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-dnr](https://github.com/yongxu/react-DnR) - Dragable and Resizable window build with React.js.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
-- [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - React file input component for complete control over styling and abstraction from file reading.
+- [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 - [react-filter-control](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
 - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.
@@ -360,7 +360,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [input-moment](https://github.com/wangzuo/input-moment) - React datetime picker powered by momentjs.
 - [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
-- [react-bootstrap-daterangepicker](https://github.com/skratchdot/react-bootstrap-daterangepicker) - A date/time picker for react (using bootstrap). This is a react port of bootstrap-daterangepicker.
+- [react-bootstrap-daterangepicker](https://github.com/skratchdot/react-bootstrap-daterangepicker) - A date/time picker for React (using bootstrap).
 - [react-bootstrap-datetimepicker](https://github.com/quri/react-bootstrap-datetimepicker) - A react.js datetime picker for bootstrap.
 - [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
@@ -371,7 +371,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-datetime](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
-- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker built with React, with localization, themes, keyboard support, and more.
+- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker, with localization, themes, and more.
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 
 #### Input Types
@@ -453,10 +453,10 @@ _Let the user select something (e.g. a tag) while typing_
 
 _Let the user define an order on a list_
 
-- [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
-- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, touch-friendly, sortable list.
+- [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - Higher-order components to turn any list into an animated, touch-friendly, sortable list.
 - [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
-- [sortablejs](https://github.com/RubaXa/Sortable) - Sortable &mdash; is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
+- [sortablejs](https://github.com/RubaXa/Sortable) - A JavaScript library for reorderable drag-and-drop lists.
 
 #### Rich Text Editor
 
@@ -482,14 +482,14 @@ _Let the user define an order on a list_
 _Image manipulation_
 
 - [react-avatar-cropper](https://github.com/DropsOfSerenity/react-avatar-cropper) - Aiming to be a complete solution for avatar cropping in react.
-- [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook like, avatar / profile picture component. Resize and crop your uploaded image using a clear user interface.
+- [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - React image crop.
 
 #### Form Component Collections
 
 - [formsy-material-ui](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material-UI form components.
-- [formsy-react-components](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form. Markup adheres to Bootstrap 3 form structure.
+- [formsy-react-components](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
 - [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs built for React.
 
@@ -505,7 +505,7 @@ _Image manipulation_
 _Components to layout the app's UI_
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
-- [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) Unopinionated, standard compliant flexbox components. You don't need to learn any propietary syntax. If you know how to use flexbox, you know how to use flexbox-react components.
+- [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) Unopinionated, standard compliant flexbox components.
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen javascript Layout manager.
 - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system for React, powered by styled-components.
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - React splitter component, written in TypeScript.
@@ -587,7 +587,7 @@ _Set of components + responsive layout system_
 - [react-material](https://github.com/BerkeleyTrue/react-material) - Material design components written with React.js and React Style.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-mdl](https://github.com/tleunen/react-mdl) - React Components for Material Design Lite.
-- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google&#39;s Material Design specification with the power of CSS Modules.
+- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google&#39;s Material Design.
 
 ### Mobile
 
@@ -606,7 +606,7 @@ _Set of components without layout system_
 ### Other
 
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
-- [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services, using React, Redux, and Material Design.
+- [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
 
 ## UI Utilities
@@ -619,7 +619,7 @@ _Report computed styles_
 
 _Report when a component becomes visible/hidden_
 
-- [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
+- [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
 - [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 
 #### Measurement Reporter
@@ -627,7 +627,7 @@ _Report when a component becomes visible/hidden_
 _Determine and report measurements of an element_
 
 - [react-component-queries](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
-- [react-container-dimensions](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize and passes new dimensions down the tree. Based on.
+- [react-container-dimensions](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 - [react-dimensions](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
 - [react-height-reporter](https://github.com/berrtech/react-height-reporter) - React component-wrapper detecting height changes of it&#39;s children.
 - [react-height](https://github.com/nkbt/react-height) - Component-wrapper to determine and report children elements height.
@@ -666,7 +666,7 @@ _Turn user input into actions_
 
 _Set meta tags, <title>, children of <head>_
 
-- [react-document-meta](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps. Works for both client- and server-side rendering, and has a strict but flexible API.
+- [react-document-meta](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
 - [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React.
 
@@ -675,7 +675,7 @@ _Set meta tags, <title>, children of <head>_
 _Render an element at an arbitrary DOM node_
 
 - [react-gateway](https://github.com/cloudflare/react-gateway) - Render React DOM into a new context (aka "Portal").
-- [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React. Useful for any kind of windowing/popover/modals/tooltip application.
+- [react-layer-stack](https://github.com/fckt/react-layer-stack) - Simple but ubiquitously powerful and agnostic layering system for React.
 - [react-portal](https://github.com/tajo/react-portal) - React component for transportation of modals, lightboxes, loading bars... to document.body.
 
 ### Test User Behavior
@@ -703,10 +703,10 @@ _Data flow / data management / data stores / components state / data flow_
 - [mobx-react](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
 - [react-controllables](https://github.com/matthewwithanm/react-controllables) - Easily create controllable components.
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
-- [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay. Share, manipulate, and replicate application state across any number of components.
+- [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
-- [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Redux higher order reducer + action to reduce actions under a single subscriber notification.
+- [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
 - [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
 - [redux-ui](https://github.com/tonyhb/redux-ui) - Easy UI state management for react redux.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
@@ -750,8 +750,8 @@ _Component properties asynchronously fetched over the network_
 - [react-resolver](https://github.com/ericclemmons/react-resolver) - Async rendering &amp; data-fetching for universal React applications.
 - [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
 - [redial](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
-- [redux-async-connect](https://github.com/Rezonans/redux-async-connect) - It allows you to request async data, store them in redux state and connect them to your react component.
-- [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React.
+- [redux-async-connect](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
+- [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 
 ### Communication with server
 
@@ -773,7 +773,7 @@ _Component properties asynchronously fetched over the network_
 - [react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS.
 - [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 - [react-inline-css](https://github.com/RickWong/react-inline-css) - Write CSS inside your React components!.
-- [react-look](https://github.com/rofrischmann/react-look) - Advanced &amp; Dynamic Component Styling for React and React Native. Ships with powerful Plugins, Mixins and Developer Tools.
+- [react-look](https://github.com/rofrischmann/react-look) - Component styling for React and React Native.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [stilr](https://github.com/kodyl/stilr) - Encapsulated styling for your javascript components with all the power of javascript and CSS combined.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
@@ -789,7 +789,7 @@ _Component properties asynchronously fetched over the network_
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
 - [isomorphic-relay](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
 - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
-- [react-server](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
+- [react-server](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load.
 - [rill](https://github.com/rill-js/rill) - Universal web application framework.
 - [webpack-isomorphic-tools](https://github.com/halt-hammerzeit/webpack-isomorphic-tools) - Server-side rendering for your Webpack-built applications (e.g. React).
 
@@ -802,21 +802,21 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
 - [generator-flux-on-rails](https://github.com/alexfedoseev/generator-flux-on-rails) - Scaffolder of universal Flux / Redux app, backed by Rails API.
 - [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack.
-- [generator-starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Redux + Node full-stack starter kit with authentication and authorization, data backed by SQL.
-- [gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web applications using React and Redux.
+- [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
+- [gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web apps.
 - [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
 - [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit) - Create an isomorphic React app in less than 5 minutes.
 - [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router!.
-- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform.
+- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
 - [reactpack](https://github.com/olahol/reactpack) - Build your react apps with one command and one `npm i`.
 - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
 - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
 - [redux-webpack-es6-boilerplate](https://github.com/nicksp/redux-webpack-es6-boilerplate) - A starter project for modern React apps with Redux.
-- [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit - Integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
+- [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
 - [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
-- [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
+- [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 
 ### Miscellaneous
 
@@ -832,7 +832,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like structure that renders to React.
 - [react-media](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
 - [react-middle-ellipsis](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
-- [react-translate-component](https://github.com/martinandert/react-translate-component) - A component for React that utilizes the Counterpart module to provide multi-lingual/localized text content.
+- [react-translate-component](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
 
 ### i18n
 
@@ -840,15 +840,14 @@ _Internationalization / L10n / localization / translation_
 
 - [react-globalize](https://github.com/globalizejs/react-globalize) - Bringing the i18n functionality of Globalize, backed by CLDR, to React.
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
-- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps.
 - [react-translate-maker](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 
 ### Framework bindings / integrations
 
-- [backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server.
+- [backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
 - [elm-react-component](https://github.com/KtorZ/elm-react-component) - A React component which wraps an Elm module to be used in a React application.
-- [gl-react-dom](https://github.com/ProjectSeptemberInc/gl-react-dom) - WebGL bindings for React to implement complex effects over images and content, in the descriptive VDOM paradigm.
-- [gl-react](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content, in the descriptive VDOM paradigm.
+- [gl-react](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
 - [react-backbone](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react and a whole lot more.
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Open source library for using D3 in React.
 - [react-elm-components](https://github.com/evancz/react-elm-components) - Write React components in Elm.
@@ -875,7 +874,7 @@ _Internationalization / L10n / localization / translation_
 - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 - [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components.
 - [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React.
-- [react-static-container](https://github.com/reactjs/react-static-container) - Renders static content efficiently by allowing React to short-circuit the reconciliation process.
+- [react-static-container](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 #### Inspect
 
@@ -894,14 +893,14 @@ _Internationalization / L10n / localization / translation_
 
 ### App Size
 
-- [babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes from the production build.
+- [babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 - [react-lite](https://github.com/Lucifier129/react-lite) - An implementation of React that optimizes for small script size.
 
 ## Dev Tools
 
 ### Test
 
-- [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.
+- [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components.
 - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [jest-cli](https://github.com/facebook/jest) - Painless JavaScript Testing.
@@ -941,7 +940,7 @@ _Internationalization / L10n / localization / translation_
 
 - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
 - [htmltojsx](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It&#39;s magic!.
-- [jsonx](https://github.com/repetere/jsonx) - React JSON Syntax - Construct React elements, JSX and HTML from JSON without transpilers (JSON to React, JSON to JSX and JSON to HTML).
+- [jsonx](https://github.com/repetere/jsonx) - React JSON Syntax.
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 - [react-bash](https://github.com/zackargyle/react-bash) - A configurable/extendable bash terminal React component.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
