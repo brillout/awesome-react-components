@@ -59,7 +59,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Parallax](#parallax)
 - [UI Frameworks](#ui-frameworks)
   - [Responsive](#responsive)
-    - [Bootstrap](#bootstrap)
     - [Material Design](#material-design)
   - [Mobile](#mobile)
   - [Component Collections](#component-collections)
@@ -113,7 +112,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [essential js 2 grid](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/grids) - The fastest and flexible data grid for react.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
-- [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - It&#39;s a react table for bootstrap.
 - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 - [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
@@ -136,7 +134,6 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-dock](https://github.com/alexkuz/react-dock) - Resizable dockable react component.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
-- [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
 - [rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
 
@@ -342,8 +339,6 @@ _Date picker / time picker / datetime picker / date range picker_
 - [input-moment](https://github.com/wangzuo/input-moment) - React datetime picker powered by momentjs.
 - [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
-- [react-bootstrap-daterangepicker](https://github.com/skratchdot/react-bootstrap-daterangepicker) - A date/time picker for React (using bootstrap).
-- [react-bootstrap-datetimepicker](https://github.com/quri/react-bootstrap-datetimepicker) - A react.js datetime picker for bootstrap.
 - [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
 - [react-date-select](https://github.com/JedWatson/react-date-select) - A React Date Select / Picker Input Component.
@@ -557,11 +552,6 @@ _Set of components + responsive layout system_
 - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
-
-#### Bootstrap
-
-- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
-- [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components.
 
 #### Material Design
 
