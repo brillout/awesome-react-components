@@ -1,5 +1,7 @@
 # React Components & Libraries
 
+### Contributing
+
 - Know of a great React component not on this list? Please PR.
   - List the component alphabetically.
   - Reference it only once.
@@ -8,11 +10,11 @@
   - If available, please also include a direct link to a separate docs site.
 - Know of a derelict React component that _is_ on this list? Please PR with removals.
 
-Here's how your listing should appear:
+Here's an example of how your listing should appear:
 
 - [React](https://github.com/facebook/react) - [demo](https://reactjs.org/) - [docs](https://reactjs.org/docs/getting-started.html) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
-#### Contents
+## Table of Contents
 
 - [UI Components](#ui-components)
   - [Table / Data Grid](#table--data-grid)
@@ -181,7 +183,6 @@ _Fixed headers / scroll-up headers / sticky elements_
 
 ### Tabs
 
-- [react-simpletabs](https://github.com/pedronauck/react-simpletabs) - Just a simple tabs component built with React.
 - [react-tabs](https://github.com/reactjs/react-tabs) - React tabs component.
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
@@ -217,7 +218,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 _Display data in charts / graphs / diagrams_
 
 - [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
-- [d3-react-squared](https://github.com/bgrsquared/d3-react-squared) - Lightweight event system for (d3) charts and other components for ReactJS.
 - [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 - [react-chartjs](https://github.com/reactjs/react-chartjs) - Common react charting components using chart.js.
@@ -233,7 +233,7 @@ _Display data in charts / graphs / diagrams_
 - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
-- [rumble-charts](https://github.com/RumbleInc/rumble-js-charts) - React components for building composable and flexible charts.
+- [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
 
 ### Tree
@@ -257,7 +257,6 @@ _Ways to navigate views_
 - [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component.
 - [react-gemini-scrollbar](https://github.com/noeldelgado/react-gemini-scrollbar) - React component for custom overlay-scrollbars with native scrolling mechanism.
 - [react-scrollbar](https://github.com/souhe/reactScrollbar) - Scrollbar component for React.
-- [react-smooth-scrollbar](https://github.com/idiotWu/react-smooth-scrollbar) - React implementation of smooth-scrollbar.
 
 ### Audio / Video
 
@@ -274,7 +273,6 @@ _Ways to navigate views_
 - [google-map-react](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
 - [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js.
-- [react-googlemaps](https://github.com/pieterv/react-googlemaps) - A declarative React interface to Google Maps.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
@@ -331,12 +329,10 @@ _Display parsed markdow source_
 - [react-filter-control](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
 - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.
-- [react-pagespeed-score](https://github.com/cauealves/react-pagespeed-score) - A React component for display a dial-type chart of PageSpeed Insights.
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-svg-buttons](https://github.com/plouc/react-svg-buttons) - Configurable animated SVG buttons for react.
-- [react-timesheet](https://github.com/yuanyan/react-timesheet) - Time Sheet Component for React.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 
 ### Form Components
