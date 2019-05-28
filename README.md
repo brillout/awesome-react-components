@@ -71,7 +71,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Device Input](#device-input)
     - [Keyboard Events](#keyboard-events)
     - [Scroll Events](#scroll-events)
-    - [Touch Events](#touch-events)
     - [Touch Swipe](#touch-swipe)
     - [Mouse Events](#mouse-events)
   - [Meta Tags](#meta-tags)
@@ -568,9 +567,7 @@ _Set of components + responsive layout system_
 
 - [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
-- [react-material](https://github.com/BerkeleyTrue/react-material) - Material design components written with React.js and React Style.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
-- [react-mdl](https://github.com/tleunen/react-mdl) - React Components for Material Design Lite.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google&#39;s Material Design.
 
 ### Mobile
@@ -632,11 +629,6 @@ _Turn user input into actions_
 #### Scroll Events
 
 - [react-scroll-components](https://github.com/jeroencoumans/react-scroll-components) - A set of components that react to page scrolling.
-
-#### Touch Events
-
-- [react-hammerjs](https://github.com/JedWatson/react-hammerjs) - ReactJS / HammerJS integration. Support touch events in your React app.
-- [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 
 #### Touch Swipe
 
@@ -728,7 +720,6 @@ _Data flow / data management / data stores / components state / data flow_
 
 _Component properties asynchronously fetched over the network_
 
-- [async-props](https://github.com/ryanflorence/async-props) - Co-located data loading for React Router.
 - [react-async](https://github.com/andreypopp/react-async) - Asynchronously fetch data for React components.
 - [react-refetch](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
 - [react-resolver](https://github.com/ericclemmons/react-resolver) - Async rendering &amp; data-fetching for universal React applications.
@@ -892,7 +883,7 @@ _Internationalization / L10n / localization / translation_
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Write AVA tests for redux pretty quickly.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
 - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React.
-- [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for [unexpected]( to enable testing the full React virtual DOM, and also the shallow renderer.
+- [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 
 ### Redux
 
@@ -925,13 +916,9 @@ _Internationalization / L10n / localization / translation_
 - [htmltojsx](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It&#39;s magic!.
 - [jsonx](https://github.com/repetere/jsonx) - React JSON Syntax.
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
-- [react-bash](https://github.com/zackargyle/react-bash) - A configurable/extendable bash terminal React component.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
-- [react-komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
-- [structor](https://github.com/ipselon/structor) - An advanced GUI editor for React.
 
 ### Static Website Generator
 
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
 - [phenomic](https://github.com/MoOx/phenomic) - Modern static\* website generator based on the React and Webpack ecosystem.
-- [sitegen](https://github.com/andreypopp/sitegen) - Generate websites by composing React components.
