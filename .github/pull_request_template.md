@@ -1,1 +1,0 @@
-../contributing.md
