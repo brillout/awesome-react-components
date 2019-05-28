@@ -115,7 +115,6 @@ Here's how your listing should appear:
 - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
 - [essential js 2 grid](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/grids) - The fastest and flexible data grid for react.
-- [fixed-data-table](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
 - [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table) - It&#39;s a react table for bootstrap.
@@ -128,9 +127,7 @@ Here's how your listing should appear:
 
 ### Infinite Scroll
 
-- [react-infinite-grid](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
-- [react-infinity](https://github.com/nmn/react-infinity) - A UITableView Inspired list and grid display solution with element culling and smooth animations.
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
@@ -142,8 +139,6 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 - [boron](https://github.com/yuanyan/boron) - A collection of dialog animations with React.js.
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-dock](https://github.com/alexkuz/react-dock) - Resizable dockable react component.
-- [react-modal-box](https://github.com/sadiqevani/react-modal-box) - React Modal Box Component.
-- [react-modal2](https://github.com/cloudflare/react-modal2) - Simple modal component for React.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
@@ -156,7 +151,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [react-crouton](https://github.com/xeodou/react-crouton) - A message component for reactjs.
 - [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React.
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
-- [react-s-alert](https://github.com/juliancwirko/react-s-alert) - Alerts / Notifications for React with rich configuration options.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 
 ### Tooltip
@@ -173,10 +167,8 @@ _Menus / sidebars_
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
 - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
-- [react-motion-menu](https://github.com/bokuweb/react-motion-menu) - Motion menu component powered by React Motion.
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
-- [react-tree-menu](https://github.com/MandarinConLaBarba/react-tree-menu) - A stateless tree menu component for React.
 
 ### Sticky
 
@@ -184,8 +176,6 @@ _Fixed headers / scroll-up headers / sticky elements_
 
 - [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
 - [react-listview-sticky-header](https://github.com/cht8687/react-listview-sticky-header) - React listview with sticky section header.
-- [react-sticky-node](https://github.com/visortelle/react-sticky-node) - Sticky react component.
-- [react-sticky-state](https://github.com/soenkekluth/react-sticky-state) - React StickyState makes native `position:sticky` statefull, with polyfills.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps.
 - [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky.
 
@@ -886,7 +876,6 @@ _Internationalization / L10n / localization / translation_
 
 - [react-infinite-grid](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
-- [react-infinity](https://github.com/nmn/react-infinity) - A UITableView Inspired list and grid display solution with element culling and smooth animations.
 - [react-lazy-load](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
