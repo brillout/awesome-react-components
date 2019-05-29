@@ -1,9 +1,11 @@
 # Absolutely Awesome React Components & Libraries
 
 This is NOT a comprehensive listing of every React component. No, it's a list
-of AWESOME components. What does "awesome" mean? Well, it means a component
-that is recently updated; and that solves a real problem in a unique,
-beautiful, or exceptional way.
+of AWESOME components. What does "awesome" mean? Well, it means something that
+solves a real problem in a unique, beautiful, or exceptional way. And it has
+recent code commits!
+
+Look for a 🚀 for truly exceptional projects.
 
 ### Contributing
 
@@ -141,9 +143,11 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-- [react-crouton](https://github.com/xeodou/react-crouton) - A message component for reactjs.
-- [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React.
+- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - highly configurable notifications. (Uses refs 🙁)
+- [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React. (Uses refs 🙁)
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
+- 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+- [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system. ([But no hooks yet](https://github.com/jossmac/react-toast-notifications/issues/20).)
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 
 ### Tooltip
@@ -555,7 +559,7 @@ _Set of components + responsive layout system_
 
 #### Material Design
 
-- [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design.
+- 🚀 [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google&#39;s Material Design.
