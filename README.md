@@ -683,6 +683,7 @@ _Data flow / data management / data stores / components state / data flow_
 ### Form Logic
 
 - [cerebral-module-forms](https://github.com/cerebral/cerebral-module-forms) - A forms handler for Cerebral.
+- [formcat](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
 - [newforms](https://github.com/insin/newforms) - INACTIVE] Isomorphic form-handling for React.
 - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
@@ -738,7 +739,6 @@ _Component properties asynchronously fetched over the network_
 - [react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS.
 - [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 - [react-inline-css](https://github.com/RickWong/react-inline-css) - Write CSS inside your React components!.
-- [react-look](https://github.com/rofrischmann/react-look) - Component styling for React and React Native.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [stilr](https://github.com/kodyl/stilr) - Encapsulated styling for your javascript components with all the power of javascript and CSS combined.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
