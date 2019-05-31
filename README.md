@@ -142,7 +142,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo](https://cogoport.github.io/cogo-toast) - [docs](https://cogoport.github.io/cogo-toast) - Plug and play, Toast Messages, with promise support and inbuilt styling, ~3.5K Gzip all inclusive. (No refs / provider needed 😊)
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling, ~3.5K. (No refs / provider needed 😊)
 - [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - highly configurable notifications. (Uses refs 🙁)
 - [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React. (Uses refs 🙁)
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
@@ -543,12 +543,16 @@ _Animate transitions_
 
 _Set of components + responsive layout system_
 
-- [@blueprintjs/core](https://github.com/palantir/blueprint) - Core styles & components.
-- [antd](https://github.com/ant-design/ant-design) - A UI Design Language.
+- 🚀 [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language.
+- [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library. (Please... no more Jira though 😉)
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
+- [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for the web.
+- [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM. (Wait, since when are IBM known for design?? 🎨)
 - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
+- [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language. (Nice... but surprisingly not as well-designed as I would have thought from Pinterest. 😬)
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
+- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences. (🤔 But I'm not sure I want a "MSFT experience?")
 - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
 - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
 - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
@@ -560,6 +564,7 @@ _Set of components + responsive layout system_
 #### Material Design
 
 - 🚀 [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design.
+- [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app development framework.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google&#39;s Material Design.
@@ -567,19 +572,13 @@ _Set of components + responsive layout system_
 ### Mobile
 
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI.
-- [onsenui](https://github.com/OnsenUI/OnsenUI) - Hybrid Mobile App UI Framework for iOS and Material Design with Angular and React Components.
 - [reactionic](https://github.com/reactionic/reactionic) - React Ionic.
 - [touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React.
 
 ### Component Collections
 
-_Set of components without layout system_
-
 - [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
-- [react-components](https://github.com/Khan/react-components) - React components used by Khan Academy.
-
-### Other
-
+- [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
@@ -740,11 +739,8 @@ _Component properties asynchronously fetched over the network_
 - [postcss-js](https://github.com/postcss/postcss-js) - PostCSS for React Inline Styles, Free Style and other CSS-in-JS.
 - [radium](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
-- [react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS.
 - [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
-- [react-inline-css](https://github.com/RickWong/react-inline-css) - Write CSS inside your React components!.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
-- [stilr](https://github.com/kodyl/stilr) - Encapsulated styling for your javascript components with all the power of javascript and CSS combined.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 
 ### HTML Template
@@ -891,6 +887,7 @@ _Internationalization / L10n / localization / translation_
 
 ### Inspect
 
+- [fluxguard](https://fluxguard.com) - PROD change monitoring that highlights all DOM + design changes.
 - [react-inspector](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
 - [react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component.
 - [reactotron](https://github.com/reactotron/reactotron) - A CLI and OS X app for inspecting your React JS and React Native apps.
