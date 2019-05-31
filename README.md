@@ -479,7 +479,6 @@ _Image manipulation_
 
 - [react-designer](https://github.com/fatiherikli/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
 - [react-images-uploader](https://github.com/aleksei0807/react-images-uploader) - React.js component for uploading images to the server.
-- [react-tabguard](https://github.com/avocode/react-tabguard) - React Tabguard.
 - [react-upload-gallery](https://github.com/TPMinan/react-upload-gallery) - React for Upload Image Gallery. Drag & Drop, Sortable, Customize.
 
 ## UI Layout
@@ -492,19 +491,11 @@ _Components to layout the app's UI_
 - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system for React, powered by styled-components.
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - React splitter component, written in TypeScript.
 - [react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) - A set of React components implementing flexboxgrid with the power of CSS Modules.
-- [react-flexbox](https://github.com/tcoopman/react-flexbox) - React flexbox implementation.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [react-inline-grid](https://github.com/broucz/react-inline-grid) - Predictable flexbox based grid for React.
-- [react-layout-components](https://github.com/rofrischmann/react-layout-components) - Layout Components for React based on Flexbox.
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - A React.js component for using @desandro&#39;s Masonry.
-- [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) - A React.js mixin for using @desandro&#39;s Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
-- [react-resizer](https://github.com/avocode/react-resizer) - A React component for resizing HTML elements.
 - [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components for React.js.
 - [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React.
-- [reactwm](https://github.com/stayradiated/reactwm) - A minimal window manager built using React.
-- [reflexbox](https://github.com/jxnblk/reflexbox) - React flexbox layout and grid system.
-- [rgx](https://github.com/jxnblk/rgx) - React grid system based on minimum and maximum widths.
 
 ## UI Animation
 
