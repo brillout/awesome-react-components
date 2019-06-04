@@ -230,6 +230,7 @@ _Display data in charts / graphs / diagrams_
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
+- [reaviz](https://github.com/jask-oss/reaviz) - ReactJS Data Visualization Library based on D3.js
 
 ### Tree
 
