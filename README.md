@@ -114,6 +114,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [essential js 2 grid](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/grids) - The fastest and flexible data grid for react.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
+- [mui-datatables](https://github.com/gregnb/mui-datatables) - Advanced and Pretty Data Tables where everything is customisable.
 - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 - [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
