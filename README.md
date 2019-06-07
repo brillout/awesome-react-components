@@ -19,7 +19,7 @@ Let me know how we can improve this list!
 
 Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md).
 
-## ![#157500](https://placehold.it/50/157500?text=+) UI Components
+## ![](https://gradientjoy.com/40) UI Components
 
 ### Table / Data Grid
 
