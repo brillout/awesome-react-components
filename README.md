@@ -1,11 +1,20 @@
 # Absolutely Awesome React Components & Libraries
 
 This is NOT a comprehensive listing of every React component. No, it's a list
-of AWESOME components. What does "awesome" mean? Well, it means something that
-solves a real problem in a unique, beautiful, or exceptional way. And it has
-recent code commits!
+of AWESOME components. What does "awesome" mean? Well:
 
-Look for a 🚀 for truly exceptional projects.
+- It solves a real problem
+- It does so in a unique, beautiful, or exceptional way
+- It has recent code commits!
+
+Look for a 🚀 for truly exceptional projects. And look for maintainer
+commentary in parens after some listings of note.
+
+Let me know how we can improve this list!
+
+[@petebray](https://twitter.com/petebray) (current maintainer)
+(Shameless plug) of my [React app](https://fluxguard.com) for monitoring
+PROD website changes
 
 ### Contributing
 
@@ -227,7 +236,6 @@ _Display parsed markdow source_
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-color-scroll](https://github.com/JosephSmith127/react-color-scroll) - Change and blend new colors on the background as you scroll.
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
-- [react-dnr](https://github.com/yongxu/react-DnR) - Dragable and Resizable window build with React.js.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
 - [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 - [react-filter-control](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
@@ -673,10 +681,8 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit) - Create an isomorphic React app in less than 5 minutes.
 - [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router!.
 - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
-- [reactpack](https://github.com/olahol/reactpack) - Build your react apps with one command and one `npm i`.
 - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
 - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
-- [redux-webpack-es6-boilerplate](https://github.com/nicksp/redux-webpack-es6-boilerplate) - A starter project for modern React apps with Redux.
 - [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
 - [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
 - [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
