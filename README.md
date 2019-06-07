@@ -1,20 +1,19 @@
-# Absolutely Awesome React Components & Libraries
+# 🚀 Absolutely Awesome React Components & Libraries
 
-This is NOT a comprehensive listing of every React component. No, it's a list
-of AWESOME components. What does "awesome" mean? Well:
+This is a list of AWESOME components. Nope, it's NOT a comprehensive list of
+every React component under the sun. So, what does "awesome" mean? Well:
 
 - It solves a real problem
-- It does so in a unique, beautiful, or exceptional way
+- It does so in a 🦄 unique, 🦋 beautiful, or 🧬e exceptional way
 - It has recent code commits!
 
-Look for a 🚀 for truly exceptional projects. And look for maintainer
-commentary in parens after some listings of note.
+Look for a 🚀 for truly exceptional projects. And look for quickie maintainer
+commentary and reviews in _(italic parens)_ after some listings of note.
 
 Let me know how we can improve this list!
 
-[@petebray](https://twitter.com/petebray) (current maintainer)
-(Shameless plug) of my [React app](https://fluxguard.com) for monitoring
-PROD website changes
+- [@petebray](https://twitter.com/petebray) (current maintainer with a shameless plug of my [React app](https://fluxguard.com) for monitoring
+  PROD website changes)
 
 ### Contributing
 
@@ -57,12 +56,12 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling, ~3.5K. (No refs / provider needed 😊)
-- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - highly configurable notifications. (Uses refs 🙁)
-- [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React. (Uses refs 🙁)
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
+- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - highly configurable notifications. _(Uses refs 🙁)_
+- [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React. _(Uses refs 🙁)_
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
-- [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system. ([But no hooks yet](https://github.com/jossmac/react-toast-notifications/issues/20).)
+- [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system. _([But no hooks yet](https://github.com/jossmac/react-toast-notifications/issues/20).)_
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [react-snackbar-alert](https://github.com/joeattardi/react-snackbar-alert) - [demo](https://joeattardi.github.io/react-snackbar-alert/) - Simple snackbar notifications. Uses Context API.
 
@@ -450,15 +449,15 @@ _Animate transitions_
 _Set of components + responsive layout system_
 
 - 🚀 [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language.
-- [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library. (Please... no more Jira though 😉)
+- [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library. _(Please... no more Jira though 😉)_
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for the web.
-- [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM. (Wait, since when are IBM known for design?? 🎨)
+- [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM. _(Wait, since when are IBM known for design?? 🎨)_
 - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
-- [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language. (Nice... but surprisingly not as well-designed as I would have thought from Pinterest. 😬)
+- [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language. _(Nice... but surprisingly not as well-designed as I would have thought from Pinterest. 😬)_
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
-- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences. (🤔 But I'm not sure I want a "MSFT experience?")
+- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences. _(🤔 But I'm not sure I want a "MSFT experience?")_
 - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
 - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
 - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
