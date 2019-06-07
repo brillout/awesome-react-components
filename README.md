@@ -19,7 +19,8 @@ Let me know how we can improve this list!
 
 Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md).
 
-## ![](https://gradientjoy.com/40x40) UI Components
+<details>
+## <summary>UI Components</summary>
 
 ### Table / Data Grid
 
@@ -441,6 +442,8 @@ _Animate transitions_
 
 - [react-atv-img](https://github.com/keyanzhang/react-atv-img) - A port of @drewwilson&rsquo;s atvImg (Apple TV 3D parallax effect) library in React.
 - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
+
+</details>
 
 ## UI Frameworks
 
