@@ -149,6 +149,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system. ([But no hooks yet](https://github.com/jossmac/react-toast-notifications/issues/20).)
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
+- [react-snackbar-alert](https://github.com/joeattardi/react-snackbar-alert) - [demo](https://joeattardi.github.io/react-snackbar-alert/) - Simple snackbar notifications. Uses Context API.
 
 ### Tooltip
 
@@ -185,7 +186,6 @@ _Fixed headers / scroll-up headers / sticky elements_
 
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-- [halogen](https://github.com/yuanyan/halogen) - A collection of loading spinners with React.js.
 - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-ladda](https://github.com/jsdir/react-ladda) - React wrapper for Ladda buttons.
