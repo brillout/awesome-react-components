@@ -854,7 +854,7 @@ _Internationalization / L10n / localization / translation_
 
 ### Server-Side Rendering
 
-- [react-esi - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments](https://github.com/dunglas/react-esi)
+- [react-esi](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
 
 ## Dev Tools
 
