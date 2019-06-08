@@ -763,6 +763,10 @@ _Internationalization / L10n / localization / translation_
 - [babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 - [react-lite](https://github.com/Lucifier129/react-lite) - An implementation of React that optimizes for small script size.
 
+### Server-Side Rendering
+
+- [react-esi](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
+
 ## Dev Tools
 
 ### Test
