@@ -111,7 +111,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
-- [essential js 2 grid](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/grids) - The fastest and flexible data grid for react.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Advanced and Pretty Data Tables where everything is customisable.
