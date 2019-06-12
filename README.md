@@ -468,7 +468,7 @@ _Set of components + responsive layout system_
 
 #### Material Design
 
-- 🚀 [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design.
+- 🚀 [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design. (But possibly [bloated](https://hackernoon.com/how-i-made-my-react-app-4-times-faster-7b929479cac4).)
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app development framework.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
