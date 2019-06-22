@@ -47,6 +47,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 _Display overlay / modal / alert / dialog / lightbox / popup_
 
 - [boron](https://github.com/yuanyan/boron) - A collection of dialog animations with React.js.
+- [modali](https://github.com/upmostly/modali) - A delightful modal dialog component, built from the ground up to support React Hooks.
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-dock](https://github.com/alexkuz/react-dock) - Resizable dockable react component.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
