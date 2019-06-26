@@ -163,9 +163,7 @@ _Ways to navigate views_
 
 ### Custom Scrollbar
 
-- [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - Easily customize the browser scroll bar with native OS scroll behavior.
-- [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component.
-- [react-gemini-scrollbar](https://github.com/noeldelgado/react-gemini-scrollbar) - React component for custom overlay-scrollbars with native scrolling mechanism.
+- [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 - [react-scrollbar](https://github.com/souhe/reactScrollbar) - Scrollbar component for React.
 
 ### Audio / Video
@@ -174,7 +172,6 @@ _Ways to navigate views_
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React.
 - [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
-- [react-video](https://github.com/pedronauck/react-video) - React component to load video from Vimeo or Youtube across any device.
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
 - [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
 
@@ -191,7 +188,6 @@ _Ways to navigate views_
 
 _Display time / date / age_
 
-- [react-time](https://github.com/andreypopp/react-time) - Component for React to render relative and/or formatted dates into &lt;time&gt; HTML5 element.
 - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 - [timeago-react](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
@@ -211,8 +207,6 @@ _Display images / photos_
 
 _Display icons / icon set / emojis_
 
-- [react-emoji-react](https://github.com/conorhastings/react-emoji-react) - A clone of slack emoji reactions in react.
-- [react-emoji](https://github.com/banyan/react-emoji) - An emoji mixin for React.
 - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
 
 ### Paginator
@@ -230,7 +224,6 @@ _Display parsed markdow source_
 ### Miscellaneous
 
 - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
-- [react-autolink](https://github.com/banyan/react-autolink) - An autolink mixin for React.
 - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-color-scroll](https://github.com/JosephSmith127/react-color-scroll) - Change and blend new colors on the background as you scroll.
@@ -259,14 +252,12 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
 - [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
-- [react-date-select](https://github.com/JedWatson/react-date-select) - A React Date Select / Picker Input Component.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-daterange-picker](https://github.com/onefinestay/react-daterange-picker) - A React based date range picker.
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web.
 - [react-datetime](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
-- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - Infinite scrolling date-picker, with localization, themes, and more.
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
