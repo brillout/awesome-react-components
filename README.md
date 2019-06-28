@@ -271,6 +271,7 @@ _Masked inputs, specialized inputs; email / telephone number / credit card / etc
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking.
 - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
 - [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny.
+- [react-numpad](https://github.com/gpietro/react-numpad) - A numpad for number, date and time, built with and for React. It's written with the extensibility in mind. The idea of this project is to cover the majority of input types in a form.
 
 #### Autocomplete
 
