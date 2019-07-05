@@ -389,6 +389,10 @@ _Image manipulation_
 - [react-images-uploader](https://github.com/aleksei0807/react-images-uploader) - React.js component for uploading images to the server.
 - [react-upload-gallery](https://github.com/TPMinan/react-upload-gallery) - React for Upload Image Gallery. Drag & Drop, Sortable, Customize.
 
+#### Syntax Highlight
+
+- [react-syntax-highlighter](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component for react with prismjs or highlightjs ast using inline styles.
+
 ## UI Layout
 
 _Components to layout the app's UI_
