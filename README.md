@@ -481,6 +481,7 @@ _Set of components + responsive layout system_
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
+- [react-stack-cards](https://github.com/yoloten/react-stack-cards) - Collection of stack card effects for galleries and preview grids.
 
 ## UI Utilities
 
