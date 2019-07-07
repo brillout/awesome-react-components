@@ -88,7 +88,6 @@ _Menus / sidebars_
 _Fixed headers / scroll-up headers / sticky elements_
 
 - [react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it.
-- [react-listview-sticky-header](https://github.com/cht8687/react-listview-sticky-header) - React listview with sticky section header.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - &lt;Sticky /&gt; component for awesome React apps.
 - [react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky.
 
@@ -238,6 +237,7 @@ _Display parsed markdow source_
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-svg-buttons](https://github.com/plouc/react-svg-buttons) - Configurable animated SVG buttons for react.
+- [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 
 ### Form Components
