@@ -434,6 +434,7 @@ _Animate transitions_
 - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
 - [react.animate](https://github.com/pleasetrythisathome/react.animate) - State animation plugin for react.js.
 - [velocity-react](https://github.com/twitter-fabric/velocity-react) - React components for Velocity.js.
+- [react-scroll-rotate](https://github.com/giladk/react-scroll-rotate) - [demo](https://giladk.github.io/react-scroll-rotate/) - Very simple scroll based element rotation
 
 ### Parallax
 
