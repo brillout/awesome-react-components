@@ -34,6 +34,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
 - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
+- [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.3.x/en/components/Table#heading-08-bigdata) - A comprehensive solution for complicated/big-data table.
 
 ### Infinite Scroll
 
