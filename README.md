@@ -66,6 +66,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system. _([But no hooks yet](https://github.com/jossmac/react-toast-notifications/issues/20).)_
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [react-snackbar-alert](https://github.com/joeattardi/react-snackbar-alert) - [demo](https://joeattardi.github.io/react-snackbar-alert/) - Simple snackbar notifications. Uses Context API.
+- [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny React.js notification library (1kb gzip).
 
 ### Tooltip
 
