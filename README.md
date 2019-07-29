@@ -408,6 +408,7 @@ _Components to layout the app's UI_
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - A React.js component for using @desandro&#39;s Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
+- [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
 - [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components for React.js.
 - [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React.
 
