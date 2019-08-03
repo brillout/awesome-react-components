@@ -216,6 +216,7 @@ _Display icons / icon set / emojis_
 _Display a control element to paginate_
 
 - [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
+- [react-laravel-paginex](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
 
 ### Markdown Viewer
 
