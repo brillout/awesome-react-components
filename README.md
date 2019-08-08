@@ -329,6 +329,7 @@ _Let the user select something (e.g. a tag) while typing_
 
 #### Star Rating
 
+- [react-awesome-stars-rating](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
 - [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React.
 
