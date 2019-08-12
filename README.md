@@ -302,6 +302,7 @@ _Autosuggest / autocomplete / typeahead_
 
 - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
+- [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - ⚛️ React multi toggle component.
 
 #### Slider
 
