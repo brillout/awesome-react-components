@@ -318,6 +318,12 @@ _Let the user select something (e.g. a tag) while typing_
 
 - [react-autocomplete-input](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
 - [react-mentions](https://github.com/effektif/react-mentions) - Mention people in a textarea.
+
+#### Tag Input
+
+_Let the user add multiple tags in a single input_
+
+- [@pathofdev/react-tag-input](https://github.com/pathofdev/react-tag-input) - [demo & docs](https://pathof.dev/projects/react-tag-input) - Minimal tagging component with editable tags
 - [react-tag-input](https://github.com/prakhar1989/react-tags) - A fantastically simple tagging component for your React projects.
 - [react-tagsinput](https://github.com/olahol/react-tagsinput) - A simple react component for inputing tags.
 - [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - Tokeninput component for React.
