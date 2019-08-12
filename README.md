@@ -322,6 +322,12 @@ _Let the user select something (e.g. a tag) while typing_
 - [react-tagsinput](https://github.com/olahol/react-tagsinput) - A simple react component for inputing tags.
 - [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - Tokeninput component for React.
 
+#### Tag Input
+
+_Let the user create multiple tags in a single input_
+
+- [react-tag-input](https://github.com/pathofdev/react-tag-input) - [demo & docs](https://pathof.dev/projects/react-tag-input) - Minimal tagging component with editable tags
+
 #### Autosize Input / Textarea
 
 - [react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
