@@ -6,11 +6,15 @@ Please abide by the following:
 - If available, please also include a direct link to a demo site.
 - If available, please also include a direct link to a separate docs site.
 - Don't mention "React" in the description.
-- **PLEASE ALSO REMOVE ONE (or more) UN-AWESOME COMPONENT IN ANY PR.** We want
-  this list to remain fresh. So when you do ANY PR, please also remove at least
-  1 un-awesome component. This could be a component that hasn't been updated in
-  a year or more; a component that has been replaced by better options; or one
-  that just doesn't really seem "awesome" anymore.
+
+# REMOVE ONE (or more) UN-AWESOME COMPONENT IN ANY PR.
+
+This is a requirement for listing!
+
+We want this list to remain fresh. So when you do ANY PR, please also remove at least
+1 un-awesome component. This could be a component that hasn't been updated in
+a year or more; a component that has been replaced by better options; or one
+that just doesn't really seem "awesome" anymore.
 
 Here's an example of how your listing should appear:
 
