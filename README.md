@@ -707,6 +707,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
+- [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
 
 ## Utilities
 
