@@ -7,7 +7,7 @@ Please abide by the following:
 - If available, please also include a direct link to a separate docs site.
 - Don't mention "React" in the description.
 
-# REMOVE ONE (or more) UN-AWESOME COMPONENT IN ANY PR.
+# TO ADD A LISTING, YOU MUST REMOVE ONE (or more) UN-AWESOME COMPONENT IN ANY PR.
 
 This is a requirement for listing!
 
