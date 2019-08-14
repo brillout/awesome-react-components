@@ -605,6 +605,7 @@ _Data flow / data management / data stores / components state / data flow_
 
 - [cerebral-module-forms](https://github.com/cerebral/cerebral-module-forms) - A forms handler for Cerebral.
 - [formcat](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
+- [formik](https://github.com/jaredpalmer/formik) - Build forms without tears, supports Validation in ease
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
 - [newforms](https://github.com/insin/newforms) - INACTIVE] Isomorphic form-handling for React.
 - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
