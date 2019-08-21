@@ -451,8 +451,8 @@ _Animate transitions_
 
 ### Parallax
 
-- [react-atv-img](https://github.com/keyanzhang/react-atv-img) - A port of @drewwilson&rsquo;s atvImg (Apple TV 3D parallax effect) library in React.
 - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## UI Frameworks
 
