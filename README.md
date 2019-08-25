@@ -59,7 +59,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 - [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
-- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - highly configurable notifications. _(Uses refs 🙁)_
+- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 - [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React. _(Uses refs 🙁)_
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
