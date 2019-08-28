@@ -31,7 +31,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 - [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
-- [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
 - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.3.x/en/components/Table#heading-08-bigdata) - A comprehensive solution for complicated/big-data table.
@@ -592,6 +591,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
 - [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
+- [react-storage-hoc](https://github.com/yandavid/react-storage-hoc) - [demo](https://codesandbox.io/s/c0hxj?module=/src/App.js) - Higher-order components for working with localStorage and sessionStorage.
 - [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 - [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
 - [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
