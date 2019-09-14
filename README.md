@@ -32,6 +32,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 - [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
 - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
+- [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.3.x/en/components/Table#heading-08-bigdata) - A comprehensive solution for complicated/big-data table.
 
