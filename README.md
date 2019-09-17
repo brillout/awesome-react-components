@@ -599,7 +599,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 - [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
 - [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
-- [redux-ui](https://github.com/tonyhb/redux-ui) - Easy UI state management for react redux.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
 - [reflux](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
 - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
