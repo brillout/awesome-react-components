@@ -31,8 +31,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 - [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
-- [reactable](https://github.com/glittershark/reactable) - Fast, flexible, and simple data tables in React.
 - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
+- [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.3.x/en/components/Table#heading-08-bigdata) - A comprehensive solution for complicated/big-data table.
 
@@ -59,7 +59,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 - [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
-- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - highly configurable notifications. _(Uses refs 🙁)_
+- [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 - [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React. _(Uses refs 🙁)_
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
@@ -112,9 +112,11 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-progress-label](https://github.com/wangzuo/react-progress-label) - Progress label component.
 - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React.
+- [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ### Carousel
 
+- [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
 - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
@@ -131,8 +133,8 @@ _Display data in charts / graphs / diagrams_
 - [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
 - [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
-- [react-chartjs](https://github.com/reactjs/react-chartjs) - Common react charting components using chart.js.
 - [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming and a wide variety of supported browsers.
+- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 - [react-dazzle](https://github.com/Raathigesh/Dazzle) - Dashboards made easy in React JS.
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
@@ -209,6 +211,7 @@ _Display images / photos_
 
 _Display icons / icon set / emojis_
 
+- [iconify-react](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
 
 ### Paginator
@@ -301,6 +304,7 @@ _Autosuggest / autocomplete / typeahead_
 
 - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
+- [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - ⚛️ React multi toggle component.
 
 #### Slider
 
@@ -317,6 +321,12 @@ _Let the user select something (e.g. a tag) while typing_
 
 - [react-autocomplete-input](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
 - [react-mentions](https://github.com/effektif/react-mentions) - Mention people in a textarea.
+
+#### Tag Input
+
+_Let the user add multiple tags in a single input_
+
+- [@pathofdev/react-tag-input](https://github.com/pathofdev/react-tag-input) - [demo & docs](https://pathof.dev/projects/react-tag-input) - Minimal tagging component with editable tags
 - [react-tag-input](https://github.com/prakhar1989/react-tags) - A fantastically simple tagging component for your React projects.
 - [react-tagsinput](https://github.com/olahol/react-tagsinput) - A simple react component for inputing tags.
 - [react-tokeninput](https://github.com/instructure-react/react-tokeninput) - Tokeninput component for React.
@@ -328,6 +338,7 @@ _Let the user select something (e.g. a tag) while typing_
 
 #### Star Rating
 
+- [react-awesome-stars-rating](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
 - [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React.
 
@@ -442,8 +453,8 @@ _Animate transitions_
 
 ### Parallax
 
-- [react-atv-img](https://github.com/keyanzhang/react-atv-img) - A port of @drewwilson&rsquo;s atvImg (Apple TV 3D parallax effect) library in React.
 - [react-parallax-component](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## UI Frameworks
 
@@ -466,6 +477,7 @@ _Set of components + responsive layout system_
 - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
 - [react-uikit-components](https://github.com/otissv/react-uikit-components) - React UIkit Components for the UIKit CSS framework.
 - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
+- [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - A suite of React components.
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 
@@ -583,10 +595,10 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
 - [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
+- [react-storage-hoc](https://github.com/yandavid/react-storage-hoc) - [demo](https://codesandbox.io/s/c0hxj?module=/src/App.js) - Higher-order components for working with localStorage and sessionStorage.
 - [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 - [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
 - [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
-- [redux-ui](https://github.com/tonyhb/redux-ui) - Easy UI state management for react redux.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
 - [reflux](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
 - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
@@ -594,8 +606,8 @@ _Data flow / data management / data stores / components state / data flow_
 
 ### Form Logic
 
-- [cerebral-module-forms](https://github.com/cerebral/cerebral-module-forms) - A forms handler for Cerebral.
 - [formcat](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
+- [formik](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
 - [newforms](https://github.com/insin/newforms) - INACTIVE] Isomorphic form-handling for React.
 - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
@@ -698,6 +710,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
+- [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
 
 ## Utilities
 
