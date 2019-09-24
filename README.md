@@ -132,7 +132,7 @@ _Display data in charts / graphs / diagrams_
 - [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 - [react-chartjs](https://github.com/reactjs/react-chartjs) - Common react charting components using chart.js.
-- [react-charty](https://github.com/99ff00/react-charty) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming and a wide variety of supported browsers.
+- [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming and a wide variety of supported browsers.
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 - [react-dazzle](https://github.com/Raathigesh/Dazzle) - Dashboards made easy in React JS.
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
