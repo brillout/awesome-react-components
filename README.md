@@ -70,7 +70,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 ### Tooltip
 
-- [rc-tooltip](https://github.com/react-component/tooltip) - React Tooltip.
 - [react-portal-tooltip](https://github.com/romainberger/react-portal-tooltip) - Awesome React tooltips.
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
 
@@ -78,7 +77,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 _Menus / sidebars_
 
-- [rc-menu](https://github.com/react-component/menu) - React Menu.
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
 - [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
@@ -102,7 +100,7 @@ _Fixed headers / scroll-up headers / sticky elements_
 
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-- [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
+
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-ladda](https://github.com/jsdir/react-ladda) - React wrapper for Ladda buttons.
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
@@ -255,7 +253,6 @@ _Let the user enter data_
 _Date picker / time picker / datetime picker / date range picker_
 
 - [input-moment](https://github.com/wangzuo/input-moment) - React datetime picker powered by momentjs.
-- [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
 - [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
@@ -308,7 +305,6 @@ _Autosuggest / autocomplete / typeahead_
 
 #### Slider
 
-- [rc-slider](https://github.com/react-component/slider) - React Slider.
 - [react-slider](https://github.com/mpowaga/react-slider) - Slider component for React.
 
 #### Radio Button
@@ -432,7 +428,6 @@ _Animate transitions_
 - [animakit-expander](https://github.com/animakit/animakit-expander) - AnimakitExpander - React component for the expanding and collapsing of the blocks.
 - [animakit-rotator](https://github.com/animakit/animakit-rotator) - AnimakitRotator - React component for the 3D rotation of the blocks.
 - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data in react.
-- [rc-animate](https://github.com/react-component/animate) - Anim react element easily.
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library for React.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
@@ -463,6 +458,12 @@ _Animate transitions_
 _Set of components + responsive layout system_
 
 - 🚀 [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language.
+  - [rc-tooltip](https://github.com/react-component/tooltip) - React Tooltip.
+  - [rc-menu](https://github.com/react-component/menu) - React Menu.
+  - [rc-animate](https://github.com/react-component/animate) - Anim react element easily.
+  - [rc-slider](https://github.com/react-component/slider) - React Slider.
+  - [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
+  - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library. _(Please... no more Jira though 😉)_
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for the web.
@@ -483,7 +484,12 @@ _Set of components + responsive layout system_
 
 #### Material Design
 
-- 🚀 [material-ui](https://github.com/mui-org/material-ui) - React Components that Implement Google&#39;s Material Design. (But possibly [bloated](https://hackernoon.com/how-i-made-my-react-app-4-times-faster-7b929479cac4).)
+- 🚀 [Material-UI](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+  - [Modal](https://material-ui.com/components/modal/) - Accessible modal dialog component for React.
+  - [Icons](https://material-ui.com/components/material-icons/) - 1,000+ SVG material icons.
+  - [Slider](https://material-ui.com/components/slider/) - Accessible slider component for React.
+  - [Autocomplete](https://material-ui.com/components/tree-view/) - Accessible autocomplete, combobox, multiselect component for React.
+  - [Tree View](https://material-ui.com/components/tree-view/) - Accessible tree view component for React.
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app development framework.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
