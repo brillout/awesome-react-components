@@ -465,6 +465,7 @@ _Set of components + responsive layout system_
   - [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
   - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library. _(Please... no more Jira though 😉)_
+- [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for the web.
 - [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM. _(Wait, since when are IBM known for design?? 🎨)_
