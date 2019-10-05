@@ -482,6 +482,7 @@ _Set of components + responsive layout system_
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - A suite of React components.
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
+- [fluent-ui](https://github.com/fluent-org/fluent-ui) - [demo/docs](https://fluent-ui.com/) - 🌈 React components that inspired by Microsoft's Fluent Design System.
 
 #### Material Design
 
