@@ -641,6 +641,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
 - [rrtr](https://github.com/taion/rrtr) - A complete routing solution for React.js.
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
+- [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter 
 
 ### Props from server
 
