@@ -635,7 +635,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [monorouter](https://github.com/matthewwithanm/monorouter) - An isomorphic JS router.
 - [react-breadcrumbs](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
 - [react-router-component](https://github.com/STRML/react-router-component) - Declarative router component for React.
-- [react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync.
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - React Router scroll management.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
