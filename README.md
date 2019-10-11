@@ -240,7 +240,6 @@ _Display parsed markdow source_
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
-- [react-svg-buttons](https://github.com/plouc/react-svg-buttons) - Configurable animated SVG buttons for react.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 
@@ -437,6 +436,7 @@ _Animate transitions_
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - A React.js wrapper component to animate the line stroke in SVGs.
 - [react-router-transition](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
+- [react-spring](https://github.com/react-spring/react-spring) - A spring physics based React animation library.
 - [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
 - [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
 - [react-transitive-number](https://github.com/Lapple/react-transitive-number) - React component to apply transition effect to numeric strings, a la old Groupon timers.
