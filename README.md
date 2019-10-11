@@ -560,6 +560,7 @@ _Turn user input into actions_
 #### Mouse Events
 
 - [react-aim](https://github.com/gabrielbull/react-aim) - Determine the cursor aim for triggering mouse events.
+- [react-hook-mighty-mouse](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ### Meta Tags
 
@@ -639,7 +640,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - React Router scroll management.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
-- [rrtr](https://github.com/taion/rrtr) - A complete routing solution for React.js.
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
 
 ### Props from server
