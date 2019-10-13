@@ -256,12 +256,12 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
-- [react-daterange-picker](https://github.com/onefinestay/react-daterange-picker) - A React based date range picker.
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web.
 - [react-datetime](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
 - [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
+- [react-timezone-select](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
 
