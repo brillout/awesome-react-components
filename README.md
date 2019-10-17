@@ -478,7 +478,7 @@ _Set of components + responsive layout system_
 - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
 - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
 - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
-- [react-uikit-components](https://github.com/otissv/react-uikit-components) - React UIkit Components for the UIKit CSS framework.
+- [reakit](https://github.com/reakit/reakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
 - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - A suite of React components.
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
