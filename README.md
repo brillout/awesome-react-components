@@ -118,6 +118,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
 - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
+- [react-carouselize](https://github.com/one89/react-carouselize) - Transform everything in a simple and customizable carousel.
 
 ### Collapse
 
