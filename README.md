@@ -623,9 +623,8 @@ _Data flow / data management / data stores / components state / data flow_
 - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
-- [react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
 - [react-validation-mixin](https://github.com/jurassix/react-validation-mixin) - Simple validation mixin (HoC) for React.
-- [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
+- [react-final-form](https://github.com/final-form/react-final-form) - Subscription-based form state management 
 - [react-formawesome](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 - [surveyjs](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 - [tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react.
