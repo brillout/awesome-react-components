@@ -60,7 +60,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 - [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
 - [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
-- [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React. _(Uses refs 🙁)_
+- [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system. _([But no hooks yet](https://github.com/jossmac/react-toast-notifications/issues/20).)_
@@ -624,7 +624,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 - [react-validation-mixin](https://github.com/jurassix/react-validation-mixin) - Simple validation mixin (HoC) for React.
-- [react-final-form](https://github.com/final-form/react-final-form) - Subscription-based form state management 
+- [react-final-form](https://github.com/final-form/react-final-form) - Subscription-based form state management
 - [react-formawesome](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 - [surveyjs](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 - [tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react.
@@ -640,7 +640,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
-- [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter 
+- [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
 ### Props from server
 
