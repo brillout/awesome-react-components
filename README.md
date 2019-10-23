@@ -10,10 +10,10 @@ every React component under the sun. So, what does "awesome" mean? Well:
 Look for a 🚀 for truly amazing projects. And look for quickie maintainer
 commentary and reviews in _(italic parens)_ after some listings of note.
 
-Let me know how we can improve this list!
+Maintainers:
 
-- [@petebray](https://twitter.com/petebray) (current maintainer with a shameless plug of my [React app](https://fluxguard.com) for monitoring
-  PROD website changes)
+- [@petebray](https://twitter.com/petebray), author of [Fluxguard](https://fluxguard.com) - A tool for monitoring PROD website changes.
+- [@brillout](https://twitter.com/brillout), author of [Wildcard API](https://github.com/reframejs/wildcard-api) - A tool to easily create an RPC API instead of REST/GraphQL.
 
 ### Contributing
 
