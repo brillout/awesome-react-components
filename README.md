@@ -102,7 +102,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
-- [react-ladda](https://github.com/jsdir/react-ladda) - React wrapper for Ladda buttons.
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
 - [react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
 - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
@@ -602,6 +601,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [fluxxor](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
 - [kea](https://github.com/mariusandra/kea) - High level architecture for React apps.
 - [mobx-react](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
+- [react-3ducks](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
 - [react-controllables](https://github.com/matthewwithanm/react-controllables) - Easily create controllable components.
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
 - [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
