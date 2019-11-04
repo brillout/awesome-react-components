@@ -341,7 +341,6 @@ _Let the user add multiple tags in a single input_
 #### Drag and Drop
 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-- [react-dnd-touch-backend](https://github.com/yahoo/react-dnd-touch-backend) - Touch Backend for react-dnd.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts.
