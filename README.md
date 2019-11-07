@@ -113,11 +113,16 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 ### Carousel
 
+- [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - [demo](https://caferati.me/demo/react-awesome-slider) - 3D animated 60fps media and content slider/carousel.
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
 - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
 - [react-carouselize](https://github.com/one89/react-carouselize) - Transform everything in a simple and customizable carousel.
+
+### Buttons
+
+- [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
 
 ### Collapse
 
@@ -251,7 +256,6 @@ _Let the user enter data_
 
 _Date picker / time picker / datetime picker / date range picker_
 
-- [input-moment](https://github.com/wangzuo/input-moment) - React datetime picker powered by momentjs.
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
 - [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
@@ -281,7 +285,6 @@ _Masked inputs, specialized inputs; email / telephone number / credit card / etc
 _Autosuggest / autocomplete / typeahead_
 
 - [react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
-- [react-typeahead-component](https://github.com/ezequiel/react-typeahead-component) - Typeahead, written using the React.js library.
 - [react-typeahead](https://github.com/fmoo/react-typeahead) - Pure react-based typeahead and typeahead-tokenizer.
 
 #### Select
