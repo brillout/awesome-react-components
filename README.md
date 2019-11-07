@@ -122,7 +122,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 ### Buttons
 
-- [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps Buttons with load progress and social share actions.
+- [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
 
 ### Collapse
 
