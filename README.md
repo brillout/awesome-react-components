@@ -112,7 +112,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ### Carousel
-
+- [flat-carousel](https://github.com/jl-/flat-carousel) - [demo](https://671g5.csb.app/) Light weight carousel component for general purpose.
 - [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - [demo](https://caferati.me/demo/react-awesome-slider) - 3D animated 60fps media and content slider/carousel.
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
