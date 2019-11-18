@@ -13,7 +13,7 @@ commentary and reviews in _(italic parens)_ after some listings of note.
 Maintainers:
 
 - [@petebray](https://twitter.com/petebray), author of [Fluxguard](https://fluxguard.com) &mdash; monitor PROD website changes.
-- [@brillout](https://twitter.com/brillout), author of [Wildcard API](https://github.com/reframejs/wildcard-api) &mdash; create an RPC API, alternative to REST/GraphQL.
+- [@brillout](https://twitter.com/brillout), author of [Wildcard API](https://github.com/reframejs/wildcard-api) &mdash; create an RPC-like API as an alternative to REST/GraphQL.
 
 ### Contributing
 
