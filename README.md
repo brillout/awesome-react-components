@@ -448,6 +448,7 @@ _Animate transitions_
 - [react.animate](https://github.com/pleasetrythisathome/react.animate) - State animation plugin for react.js.
 - [velocity-react](https://github.com/twitter-fabric/velocity-react) - React components for Velocity.js.
 - [react-scroll-rotate](https://github.com/giladk/react-scroll-rotate) - [demo](https://giladk.github.io/react-scroll-rotate/) - Very simple scroll based element rotation
+- [react-particle-bg](https://github.com/lindelof/particles-bg) - React component for particles backgrounds.
 
 ### Parallax
 
