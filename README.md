@@ -707,8 +707,6 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
-- [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit) - Create an isomorphic React app in less than 5 minutes.
-- [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router!.
 - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
 - [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
 - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
