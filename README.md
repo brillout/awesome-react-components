@@ -79,7 +79,6 @@ _Menus / sidebars_
 
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
-- [react-metismenu](https://github.com/alpertuna/react-metismenu) - A ready-to-use menu component for React.
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
 
