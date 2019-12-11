@@ -173,6 +173,10 @@ _Ways to navigate views_
 - [react-scrollbar](https://github.com/souhe/reactScrollbar) - Scrollbar component for React.
 - [react-shadow-scroll](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the image and inserts shadow when scrolling exists.
 
+### Chatbot
+
+- [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
+
 ### Audio / Video
 
 - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
