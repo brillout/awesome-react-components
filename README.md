@@ -27,6 +27,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
+- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/command-column) - Customizable MIT React table component with Sorting, Filtering, Grouping, Virtualization, Editing and many more.
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Advanced and Pretty Data Tables where everything is customisable.
 - [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
