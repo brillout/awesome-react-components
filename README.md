@@ -43,6 +43,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
+- [react-recycled-scrolling](https://github.com/sarons/react-recycled-scrolling) - [npm](https://www.npmjs.com/package/react-recycled-scrolling) - [demo](https://y8mlf.csb.app/) - Simulate normal scrolling by using only fixed number of DOM elements for large lists of items with React Hooks
 
 ### Overlay
 
