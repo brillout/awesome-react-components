@@ -618,6 +618,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
 - [reflux](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
 - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
+- [resourcerer](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
 - [shasta](https://github.com/shastajs/shasta) - Dead simple + opinionated toolkit for building redux/react applications.
 
 ### Form Logic
