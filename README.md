@@ -539,7 +539,6 @@ _Determine and report measurements of an element_
 - [react-component-queries](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
 - [react-container-dimensions](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 - [react-dimensions](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
-- [react-height-reporter](https://github.com/berrtech/react-height-reporter) - React component-wrapper detecting height changes of it&#39;s children.
 - [react-height](https://github.com/nkbt/react-height) - Component-wrapper to determine and report children elements height.
 - [react-measure](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
 - [react-sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height.
@@ -841,6 +840,7 @@ _Internationalization / L10n / localization / translation_
 - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
 - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 - [standard-react](https://github.com/feross/standard) - JavaScript Standard Style Guide.
+- [story-tab](https://github.com/mkosir/story-tab) - [demo](https://mkosir.github.io/story-tab) - CLI tool for generating component code as documentation in Storybook tab.
 
 ## Miscellaneous
 
