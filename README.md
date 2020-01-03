@@ -43,7 +43,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
-- [react-recycled-scrolling](https://github.com/sarons/react-recycled-scrolling) - [npm](https://www.npmjs.com/package/react-recycled-scrolling) - [demo](https://y8mlf.csb.app/) - Simulate normal scrolling by using only fixed number of DOM elements for large lists of items with React Hooks
+- [react-recycled-scrolling](https://github.com/sarons/react-recycled-scrolling) - [npm](https://www.npmjs.com/package/react-recycled-scrolling) - [demo](https://y8mlf.csb.app/) - Simulate scrolling using fixed number of DOM elements for large lists with React Hooks
 
 ### Overlay
 
@@ -238,7 +238,6 @@ _Display parsed markdow source_
 - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - User-friendly, highly configurable component to build queries with export to MongoDb, SQL or custom format.
-- [react-color-scroll](https://github.com/JosephSmith127/react-color-scroll) - Change and blend new colors on the background as you scroll.
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
