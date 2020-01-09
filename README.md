@@ -481,6 +481,7 @@ _Set of components + responsive layout system_
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences. _(🤔 But I'm not sure I want a "MSFT experience?")_
 - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
 - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
 - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
 - [reakit](https://github.com/reakit/reakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
