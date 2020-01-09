@@ -272,6 +272,10 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
 
+#### Emoji picker
+
+- [interweave-emoji-picker](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase.
+
 #### Input Types
 
 _Masked inputs, specialized inputs; email / telephone number / credit card / etc._
@@ -400,8 +404,8 @@ _Image manipulation_
 
 #### Miscellaneous
 
+- [interweave](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 - [react-designer](https://github.com/fatiherikli/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
-- [react-images-uploader](https://github.com/aleksei0807/react-images-uploader) - React.js component for uploading images to the server.
 - [react-upload-gallery](https://github.com/TPMinan/react-upload-gallery) - React for Upload Image Gallery. Drag & Drop, Sortable, Customize.
 
 #### Syntax Highlight
@@ -671,10 +675,10 @@ _Component properties asynchronously fetched over the network_
 
 ### CSS / Style
 
+- [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names. 
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
-- [postcss-js](https://github.com/postcss/postcss-js) - PostCSS for React Inline Styles, Free Style and other CSS-in-JS.
 - [radium](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
@@ -808,10 +812,10 @@ _Internationalization / L10n / localization / translation_
 - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [jest-cli](https://github.com/facebook/jest) - Painless JavaScript Testing.
-- [legit-tests](https://github.com/Legitcode/tests) - Chainable, easy to read, React testing library.
 - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Write AVA tests for redux pretty quickly.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
+- [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 
