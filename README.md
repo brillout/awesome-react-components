@@ -748,6 +748,7 @@ _Internationalization / L10n / localization / translation_
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps.
 - [react-translate-maker](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
+- [react-intl-universal](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
 
 ### Framework bindings / integrations
 
