@@ -35,7 +35,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
-- [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.3.x/en/components/Table#heading-08-bigdata) - A comprehensive solution for complicated/big-data table.
+
 
 ### Infinite Scroll
 
@@ -481,10 +481,11 @@ _Set of components + responsive layout system_
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for the web.
 - [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM. _(Wait, since when are IBM known for design?? 🎨)_
+- [fluent-ui](https://github.com/fluent-org/fluent-ui) - [demo/docs](https://fluent-ui.com/) - 🌈 React components that inspired by Microsoft's Fluent Design System.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language. _(Nice... but surprisingly not as well-designed as I would have thought from Pinterest. 😬)_
-- [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences. _(🤔 But I'm not sure I want a "MSFT experience?")_
+- [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
 - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
@@ -494,7 +495,7 @@ _Set of components + responsive layout system_
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - A suite of React components.
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
-- [fluent-ui](https://github.com/fluent-org/fluent-ui) - [demo/docs](https://fluent-ui.com/) - 🌈 React components that inspired by Microsoft's Fluent Design System.
+- [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components, including form elements, navigation, table, tree and tree select drop-downs.
 
 #### Material Design
 
