@@ -21,21 +21,24 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ## UI Components
 
-### Table / Data Grid
+### Editable data grid / spreadsheet
 
 - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-- [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-- [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React.
-- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/command-column) - Customizable MIT React table component with Sorting, Filtering, Grouping, Virtualization, Editing and many more.
-- [mui-datatables](https://github.com/gregnb/mui-datatables) - Responsive table component built on Material-UI, featuring search, pagination, sorting, styling, filtering, resizable + view/hide columns, export to CSV, printing, selectable or expandable rows.
-- [react-data-components](https://github.com/carlosrocha/react-data-components) - React components for sorting, filtering and pagination of data.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+
+### Table
+
+- [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
+- [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple grid component that can display data as a table, a list of cards, or on the map.
+- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/command-column) - Customizable table component with sorting, filtering, grouping, virtualization, editing and many more. 🆕
+- [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Datatable based on material-ui's table with additional features: grouping, tree data, expandable rows, export, inline editing
+- [mui-datatables](https://github.com/gregnb/mui-datatables) - Responsive table component built on Material-UI, featuring search, pagination, sorting, styling, filtering, resizable + view/hide columns, export to CSV, printing, selectable or expandable rows.
+- [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
 - [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
 - [react-table](https://github.com/tannerlinsley/react-table) - [demo](https://github.com/tannerlinsley/react-table/blob/master/docs/examples.md) - Hooks for building fast and extendable tables and datagrids
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
-
 
 ### Infinite Scroll
 
@@ -499,11 +502,12 @@ _Set of components + responsive layout system_
 
 #### Material Design
 
-- 🚀 [Material-UI](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
-  - [Modal](https://material-ui.com/components/modal/) - Accessible modal dialog component for React.
+- 🚀 [Material-UI](https://github.com/mui-org/material-ui) - Full suite of components for faster and easier web development. Build your own design system, or start with Material Design.
+  - [Autocomplete](https://material-ui.com/components/tree-view/) - Accessible autocomplete, combobox, multiselect
   - [Icons](https://material-ui.com/components/material-icons/) - 1,000+ SVG material icons.
-  - [Slider](https://material-ui.com/components/slider/) - Accessible slider component for React.
-  - [Autocomplete](https://material-ui.com/components/tree-view/) - Accessible autocomplete, combobox, multiselect component for React.
+  - [Modal](https://material-ui.com/components/modal/) - Accessible modal dialog component.
+  - [Slider](https://material-ui.com/components/slider/) - Accessible slider component.
+  - [Table](https://material-ui.com/components/tables/) - table with sorting, selecting, pagination, virtualized. 
   - [Tree View](https://material-ui.com/components/tree-view/) - Accessible tree view component for React.
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app development framework.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
