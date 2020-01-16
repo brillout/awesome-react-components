@@ -472,6 +472,7 @@ _Set of components + responsive layout system_
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
 - [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
+- [evergreen](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
 - [fluent-ui](https://github.com/fluent-org/fluent-ui) - [demo/docs](https://fluent-ui.com/) - 🌈 React components that inspired by Microsoft's Fluent Design System.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
