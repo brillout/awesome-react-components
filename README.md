@@ -503,7 +503,6 @@ _Set of components + responsive layout system_
   - [Slider](https://material-ui.com/components/slider/) - Accessible slider component.
   - [Table](https://material-ui.com/components/tables/) - table with sorting, selecting, pagination, virtualized. 
   - [Tree View](https://material-ui.com/components/tree-view/) - Accessible tree view component for React.
-- [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app development framework.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
@@ -512,6 +511,7 @@ _Set of components + responsive layout system_
 
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) - Configurable Mobile UI from China.
 - [Ionic React](https://ionicframework.com/blog/announcing-ionic-react/) - native React version of Ionic Framework to easily build Android, Desktop, Progressive Web Apps with one code base.
+- [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app framework with Material and flat (iOS) designs. Based on Web Components.
 
 ### Component Collections
 
