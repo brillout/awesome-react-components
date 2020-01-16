@@ -466,33 +466,24 @@ _Animate transitions_
 
 _Set of components + responsive layout system_
 
-- 🚀 [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language.
-  - [rc-tooltip](https://github.com/react-component/tooltip) - React Tooltip.
-  - [rc-menu](https://github.com/react-component/menu) - React Menu.
-  - [rc-animate](https://github.com/react-component/animate) - Anim react element easily.
-  - [rc-slider](https://github.com/react-component/slider) - React Slider.
-  - [rc-calendar](https://github.com/react-component/calendar) - React Calendar.
-  - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
-- [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library. _(Please... no more Jira though 😉)_
+- 🚀 [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
+- [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from _badge_ to _tree table_.
 - [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
-- [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
 - [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
 - [fluent-ui](https://github.com/fluent-org/fluent-ui) - [demo/docs](https://fluent-ui.com/) - 🌈 React components that inspired by Microsoft's Fluent Design System.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
-- [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
 - [react-foundation-apps](https://github.com/akiran/react-foundation-apps) - Foundation Apps components built with React.
 - [react-foundation](https://github.com/nordsoftware/react-foundation) - Foundation as React components.
 - [reakit](https://github.com/reakit/reakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
 - [rebass](https://github.com/jxnblk/rebass) - Configurable React Stateless Functional UI Components.
-- [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - A suite of React components.
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
-- [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components, including form elements, navigation, table, tree and tree select drop-downs.
+- [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 #### Material Design
 
@@ -510,17 +501,20 @@ _Set of components + responsive layout system_
 ### Mobile
 
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) - Configurable Mobile UI from China.
-- [Ionic React](https://ionicframework.com/blog/announcing-ionic-react/) - native React version of Ionic Framework to easily build Android, Desktop, Progressive Web Apps with one code base.
+- [Ionic React](https://ionicframework.com/blog/announcing-ionic-react/) - Ionic Framework: easily build Android, Desktop and Progressive Web Apps with one code base.
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app framework with Material and flat (iOS) designs. Based on Web Components.
 
 ### Component Collections
 
+- [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
 - [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
 - [react-stack-cards](https://github.com/yoloten/react-stack-cards) - Collection of stack card effects for galleries and preview grids.
+- [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
+
 
 ## UI Utilities
 
