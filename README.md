@@ -31,9 +31,9 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple grid component that can display data as a table, a list of cards, or on the map.
-- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/command-column) - Customizable table component with sorting, filtering, grouping, virtualization, editing and many more. 🆕
-- [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Datatable based on material-ui's table with additional features: grouping, tree data, expandable rows, export, inline editing
-- [mui-datatables](https://github.com/gregnb/mui-datatables) - Responsive table component built on Material-UI, featuring search, pagination, sorting, styling, filtering, resizable + view/hide columns, export to CSV, printing, selectable or expandable rows.
+- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/command-column) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc. 🆕
+- [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
+- [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material-UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 - [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
 - [react-pivot](https://github.com/davidguttman/react-pivot) - Data-grid component with pivot-table-like for data display, filtering, and exploration.
 - [react-table](https://github.com/tannerlinsley/react-table) - [demo](https://github.com/tannerlinsley/react-table/blob/master/docs/examples.md) - Hooks for building fast and extendable tables and datagrids
@@ -63,7 +63,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, toast messages, with promise support and inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
 - [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 - [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
@@ -140,7 +140,7 @@ _Display data in charts / graphs / diagrams_
 - [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
 - [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
-- [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming and a wide variety of supported browsers.
+- [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming.
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 - [react-dazzle](https://github.com/Raathigesh/Dazzle) - Dashboards made easy in React JS.
@@ -240,7 +240,7 @@ _Display parsed markdow source_
 - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
-- [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - User-friendly, highly configurable component to build queries with export to MongoDb, SQL or custom format.
+- [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
@@ -288,7 +288,7 @@ _Masked inputs, specialized inputs; email / telephone number / credit card / etc
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - Yet another react component for input masking.
 - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
 - [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny.
-- [react-numpad](https://github.com/gpietro/react-numpad) - A numpad for number, date and time, built with and for React. It's written with the extensibility in mind. The idea of this project is to cover the majority of input types in a form.
+- [react-numpad](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 
 #### Autocomplete
 
@@ -357,7 +357,6 @@ _Let the user add multiple tags in a single input_
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts.
-- [react-droparea](https://github.com/avocode/react-droparea) - Drag and Drop library for React.
 - [react-dropzone](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
 
@@ -368,26 +367,26 @@ _Let the user define an order on a list_
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 - [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - Higher-order components to turn any list into an animated, touch-friendly, sortable list.
 - [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
-- [sortablejs](https://github.com/RubaXa/Sortable) - A JavaScript library for reorderable drag-and-drop lists.
+- [sortablejs](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists.
 
 #### Rich Text Editor
 
 - [alloyeditor](https://github.com/liferay/alloy-editor) - WYSIWYG editor based on CKEditor with completely rewritten UI.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
-- [react-ace](https://github.com/securingsincity/react-ace) - React Ace Component.
-- [react-codemirror](https://github.com/JedWatson/react-codemirror) - Codemirror Component for React.js.
+- [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
+- [react-codemirror](https://github.com/JedWatson/react-codemirror) - CodeMirror wrapper.
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
-- [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS.
-- [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - React wrapper for medium-editor.
-- [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
-- [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - React wrapper for Trumbowyg.
+- [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
+- [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
+- [react-quill](https://github.com/zenoamaro/react-quill) - Quill wrapper.
+- [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
 - [ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
 
 #### Markdown Editor
 
 - [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
-- [react-md-editor](https://github.com/JedWatson/react-md-editor) - React.js Markdown Editor Component.
+- [react-md-editor](https://github.com/JedWatson/react-md-editor) - Markdown editor.
 
 #### Image Editing
 
@@ -397,14 +396,14 @@ _Image manipulation_
 - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
-- [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - React image crop.
+- [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - Image cropper.
 
 #### Form Component Collections
 
 - [formsy-material-ui](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material-UI form components.
 - [formsy-react-components](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
-- [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs built for React.
+- [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs.
 
 #### Miscellaneous
 
@@ -414,7 +413,7 @@ _Image manipulation_
 
 #### Syntax Highlight
 
-- [react-syntax-highlighter](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component for react with prismjs or highlightjs ast using inline styles.
+- [react-syntax-highlighter](https://github.com/conorhastings/react-syntax-highlighter) - Syntax highlighting component with Prismjs or Highlightjs AST using inline styles.
 
 ## UI Layout
 
@@ -422,44 +421,39 @@ _Components to layout the app's UI_
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
 - [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) Unopinionated, standard compliant flexbox components.
-- [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen javascript Layout manager.
-- [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system for React, powered by styled-components.
-- [m-react-splitters](https://github.com/martinnov92/React-Splitters) - React splitter component, written in TypeScript.
+- [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
+- [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
+- [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 - [react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) - A set of React components implementing flexboxgrid with the power of CSS Modules.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - A React.js component for using @desandro&#39;s Masonry.
+- [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
 - [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
-- [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components for React.js.
-- [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React.
+- [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components.
+- [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component.
 
 ## UI Animation
 
 _Animate transitions_
 
-- [animakit-elastic](https://github.com/animakit/animakit-elastic) - AnimakitElastic - React component for flexible resizing of the blocks.
-- [animakit-expander](https://github.com/animakit/animakit-expander) - AnimakitExpander - React component for the expanding and collapsing of the blocks.
-- [animakit-rotator](https://github.com/animakit/animakit-rotator) - AnimakitRotator - React component for the 3D rotation of the blocks.
-- [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data in react.
-- [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library for React.
+- [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+- [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
-- [react-magic-move](https://github.com/ryanflorence/react-magic-move) - MagicMove for React.js.
+- [react-magic-move](https://github.com/ryanflorence/react-magic-move) - MagicMove wrapper.
 - [react-motion-ui-pack](https://github.com/souporserious/react-motion-ui-pack) - Wrapper component around React Motion for easier UI transitions.
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - A React.js wrapper component to animate the line stroke in SVGs.
+- [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 - [react-router-transition](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
-- [react-spring](https://github.com/react-spring/react-spring) - A spring physics based React animation library.
+- [react-spring](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 - [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
 - [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
-- [react-transitive-number](https://github.com/Lapple/react-transitive-number) - React component to apply transition effect to numeric strings, a la old Groupon timers.
-- [react-tween-state](https://github.com/chenglou/react-tween-state) - React animation.
-- [react-tween](https://github.com/clari/react-tween) - Tween animation for React components.
+- [react-transitive-number](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
+- [react-tween](https://github.com/clari/react-tween) - Tween animation.
 - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
-- [react.animate](https://github.com/pleasetrythisathome/react.animate) - State animation plugin for react.js.
-- [velocity-react](https://github.com/twitter-fabric/velocity-react) - React components for Velocity.js.
+- [velocity-react](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
 - [react-scroll-rotate](https://github.com/giladk/react-scroll-rotate) - [demo](https://giladk.github.io/react-scroll-rotate/) - Very simple scroll based element rotation
-- [react-particles-bg](https://github.com/lindelof/particles-bg) - React component for particles backgrounds.
+- [react-particles-bg](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Parallax
 
@@ -482,12 +476,12 @@ _Set of components + responsive layout system_
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library. _(Please... no more Jira though 😉)_
 - [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
-- [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for the web.
-- [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM. _(Wait, since when are IBM known for design?? 🎨)_
+- [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
+- [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
 - [fluent-ui](https://github.com/fluent-org/fluent-ui) - [demo/docs](https://fluent-ui.com/) - 🌈 React components that inspired by Microsoft's Fluent Design System.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
-- [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language. _(Nice... but surprisingly not as well-designed as I would have thought from Pinterest. 😬)_
-- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences. _(🤔 But I'm not sure I want a "MSFT experience?")_
+- [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
+- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
@@ -502,7 +496,7 @@ _Set of components + responsive layout system_
 
 #### Material Design
 
-- 🚀 [Material-UI](https://github.com/mui-org/material-ui) - Full suite of components for faster and easier web development. Build your own design system, or start with Material Design.
+- 🚀 [Material-UI](https://github.com/mui-org/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
   - [Autocomplete](https://material-ui.com/components/tree-view/) - Accessible autocomplete, combobox, multiselect
   - [Icons](https://material-ui.com/components/material-icons/) - 1,000+ SVG material icons.
   - [Modal](https://material-ui.com/components/modal/) - Accessible modal dialog component.
@@ -512,13 +506,12 @@ _Set of components + responsive layout system_
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app development framework.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
-- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google&#39;s Material Design.
+- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
 
 ### Mobile
 
-- [antd-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI.
-- [reactionic](https://github.com/reactionic/reactionic) - React Ionic.
-- [touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React.
+- [antd-mobile](https://github.com/ant-design/ant-design-mobile) - Configurable Mobile UI from China.
+- [Ionic React](https://ionicframework.com/blog/announcing-ionic-react/) - native React version of Ionic Framework to easily build Android, Desktop, Progressive Web Apps with one code base.
 
 ### Component Collections
 
