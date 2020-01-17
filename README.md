@@ -424,6 +424,7 @@ _Components to layout the app's UI_
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
 - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
+- [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://codesandbox.io/s/muuri-react-pqtbx) - Responsive, sortable, filterable and draggable grid layouts *([Muuri](https://github.com/haltu/muuri) implementation)*.
 - [react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) - A set of React components implementing flexboxgrid with the power of CSS Modules.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
