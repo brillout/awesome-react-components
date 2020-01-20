@@ -612,7 +612,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-storage-hoc](https://github.com/yandavid/react-storage-hoc) - [demo](https://codesandbox.io/s/c0hxj?module=/src/App.js) - Higher-order components for working with localStorage and sessionStorage.
-- [recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 - [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
 - [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
@@ -679,6 +678,7 @@ _Component properties asynchronously fetched over the network_
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
+- [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 
 ### HTML Template
