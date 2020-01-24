@@ -17,7 +17,7 @@ Maintainers:
 
 ### Contributing
 
-Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md). We keep this list fresh by **requiring all PRs to remove one or more non-awesome entry from this list**. Please ONLY PR a new resource if you are ALSO removing one.
+Please review our [contributing guidelines](https://github.com/brillout/awesome-react-components/blob/master/CONTRIBUTING.md). We keep this list fresh by **requiring all PRs to remove one or more non-awesome entries from this list**. Please ONLY PR a new resource if you are ALSO removing one.
 
 ## UI Components
 
