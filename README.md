@@ -704,9 +704,9 @@ _Component properties asynchronously fetched over the network_
 _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [crisp-react](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
 - [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
-- [generator-flux-on-rails](https://github.com/alexfedoseev/generator-flux-on-rails) - Scaffolder of universal Flux / Redux app, backed by Rails API.
 - [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack.
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 - [gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web apps.
