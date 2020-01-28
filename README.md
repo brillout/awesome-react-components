@@ -244,6 +244,7 @@ _Display parsed markdow source_
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
+- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
 - [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 - [react-filter-control](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
