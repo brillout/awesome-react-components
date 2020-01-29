@@ -31,7 +31,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
 - [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple grid component that can display data as a table, a list of cards, or on the map.
-- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/command-column) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc. 🆕
+- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc. 🆕
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material-UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 - [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
