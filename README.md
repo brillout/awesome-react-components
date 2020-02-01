@@ -729,6 +729,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
 - [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
+- [react-universal-hooks](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
 ## Utilities
 
