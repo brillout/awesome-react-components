@@ -494,13 +494,6 @@ _Set of components + responsive layout system_
 
 #### Material Design
 
-- 🚀 [Material-UI](https://github.com/mui-org/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
-  - [Autocomplete](https://material-ui.com/components/tree-view/) - Accessible autocomplete, combobox, multiselect
-  - [Icons](https://material-ui.com/components/material-icons/) - 1,000+ SVG material icons.
-  - [Modal](https://material-ui.com/components/modal/) - Accessible modal dialog component.
-  - [Slider](https://material-ui.com/components/slider/) - Accessible slider component.
-  - [Table](https://material-ui.com/components/tables/) - table with sorting, selecting, pagination, virtualized. 
-  - [Tree View](https://material-ui.com/components/tree-view/) - Accessible tree view component for React.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
