@@ -4,7 +4,7 @@ This is a list of AWESOME components. Nope, it's NOT a comprehensive list of
 every React component under the sun. So, what does "awesome" mean? Well:
 
 - It solves a real problem
-- It does so in a 🦄 unique, 🦋 beautiful, or 🏆 exceptional way
+- It does so in a 🦄 unique, 🦋 beautiful, or 🏆 exceptional way. (And it's not super popular and well-known... no point in listing those.)
 - It has recent code commits!
 
 Look for a 🚀 for truly amazing projects. And look for quickie maintainer
