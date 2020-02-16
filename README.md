@@ -844,6 +844,7 @@ _Internationalization / L10n / localization / translation_
 - [cosmos-js](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
 - [mighty-react-snippets](https://github.com/nicksp/mighty-react-snippets) - Crafty React and Redux ES6 snippets for Atom Editor.
 - [react-atellier](https://github.com/scup/atellier) - The smartest way to share interactive components with your team.
+- [react-demo-tab-cli](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
 - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 - [standard-react](https://github.com/feross/standard) - JavaScript Standard Style Guide.
