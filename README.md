@@ -386,7 +386,6 @@ _Let the user define an order on a list_
 - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
 - [react-quill](https://github.com/zenoamaro/react-quill) - Quill wrapper.
 - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
-- [ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor.
 
 #### Markdown Editor
 
