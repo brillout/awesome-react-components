@@ -637,7 +637,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-final-form](https://github.com/final-form/react-final-form) - Subscription-based form state management
 - [react-formawesome](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 - [surveyjs](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
-- [tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react.
 
 ### Router
 
