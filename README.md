@@ -239,7 +239,6 @@ _Display parsed markdow source_
 
 ### Miscellaneous
 
-- [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
 - [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
@@ -627,6 +626,7 @@ _Data flow / data management / data stores / components state / data flow_
 
 ### Form Logic
 
+- [data-driven-forms](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 - [formcat](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 - [formik](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
@@ -637,8 +637,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-final-form](https://github.com/final-form/react-final-form) - Subscription-based form state management
 - [react-formawesome](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 - [surveyjs](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
-- [tcomb-form](https://github.com/gcanti/tcomb-form) - Forms library for react.
-- [winterfell](https://github.com/andrewhathaway/Winterfell) - Generate complex, validated and extendable JSON-based forms in React.
 
 ### Router
 
