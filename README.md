@@ -626,6 +626,7 @@ _Data flow / data management / data stores / components state / data flow_
 
 ### Form Logic
 
+- [data-driven-forms](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 - [formcat](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 - [formik](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
