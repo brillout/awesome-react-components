@@ -722,6 +722,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
 - [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
+- [phoenix](github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
 ### Miscellaneous
 
