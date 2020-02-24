@@ -182,7 +182,6 @@ _Ways to navigate views_
 ### Audio / Video
 
 - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
-- [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React.
 - [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
@@ -859,3 +858,7 @@ _Internationalization / L10n / localization / translation_
 
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
 - [phenomic](https://github.com/MoOx/phenomic) - Modern static\* website generator based on the React and Webpack ecosystem.
+
+## Data Warehousing
+
+- [crisp-bigquery](https://github.com/winwiz1/crisp-bigquery) - Full stack BigQuery with Express in TypeScript.
