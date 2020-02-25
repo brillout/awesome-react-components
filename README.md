@@ -661,6 +661,7 @@ _Component properties asynchronously fetched over the network_
 - [redial](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
 - [redux-async-connect](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
 - [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
+- [axios-react](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Communication with server
 
@@ -670,7 +671,6 @@ _Component properties asynchronously fetched over the network_
 - [react-apollo](https://github.com/apollostack/react-apollo) - React data container for the Apollo Client.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [react-transmit](https://github.com/RickWong/react-transmit) - Relay-inspired library based on Promises instead of GraphQL.
-- [axios-react](https://github.com/soroushchehresa/axios-react) - HTTP client component for React
 
 ### CSS / Style
 
