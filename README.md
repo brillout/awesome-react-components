@@ -670,6 +670,7 @@ _Component properties asynchronously fetched over the network_
 - [react-apollo](https://github.com/apollostack/react-apollo) - React data container for the Apollo Client.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [react-transmit](https://github.com/RickWong/react-transmit) - Relay-inspired library based on Promises instead of GraphQL.
+- [axios-react](https://github.com/soroushchehresa/axios-react) - HTTP client component for React
 
 ### CSS / Style
 
