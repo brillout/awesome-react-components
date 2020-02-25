@@ -182,7 +182,6 @@ _Ways to navigate views_
 ### Audio / Video
 
 - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
-- [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React.
 - [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
@@ -192,7 +191,6 @@ _Ways to navigate views_
 
 - [google-map-react](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
-- [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
@@ -860,3 +858,10 @@ _Internationalization / L10n / localization / translation_
 
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
 - [phenomic](https://github.com/MoOx/phenomic) - Modern static\* website generator based on the React and Webpack ecosystem.
+
+## Cloud Solutions
+
+### Databases
+
+- [crisp-bigquery](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
+- [react-server-routing-example](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
