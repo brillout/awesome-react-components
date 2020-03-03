@@ -849,6 +849,7 @@ _Internationalization / L10n / localization / translation_
 
 ## Miscellaneous
 
+- [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
 - [htmltojsx](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It&#39;s magic!.
 - [jsonx](https://github.com/repetere/jsonx) - React JSON Syntax.
