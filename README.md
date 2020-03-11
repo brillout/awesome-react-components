@@ -434,6 +434,7 @@ _Components to layout the app's UI_
 - [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
 - [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components.
 - [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component.
+- [react-colrow](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox. Support fraction width, auto grow.
 
 ## UI Animation
 
