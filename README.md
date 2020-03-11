@@ -439,7 +439,7 @@ _Components to layout the app's UI_
 
 _Animate transitions_
 
-- [react-tweenful](https://github.com/teodosii/react-tweenful) - [demo](https://teodosii.github.io/react-tweenful/) - Animation engine for React
+- [react-tweenful](https://github.com/teodosii/react-tweenful) - [demo](https://teodosii.github.io/react-tweenful/) - Animation engine that lets you animate DOM nodes, mounting, unmounting, child changes/transitions.
 - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
@@ -453,7 +453,6 @@ _Animate transitions_
 - [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
 - [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
 - [react-transitive-number](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
-- [react-tween](https://github.com/clari/react-tween) - Tween animation.
 - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
 - [velocity-react](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
 - [react-scroll-rotate](https://github.com/giladk/react-scroll-rotate) - [demo](https://giladk.github.io/react-scroll-rotate/) - Very simple scroll based element rotation
