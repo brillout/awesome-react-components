@@ -439,6 +439,7 @@ _Components to layout the app's UI_
 
 _Animate transitions_
 
+- [react-tweenful](https://github.com/teodosii/react-tweenful) - [demo](https://teodosii.github.io/react-tweenful/) - Animation engine for React
 - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
