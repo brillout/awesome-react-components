@@ -201,6 +201,7 @@ _Display time / date / age_
 
 - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 - [timeago-react](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+- [react-google-flight-datepicker](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
 
 ### Photo / Image
 
@@ -498,7 +499,7 @@ _Set of components + responsive layout system_
   - [Icons](https://material-ui.com/components/material-icons/) - 1,000+ SVG material icons.
   - [Modal](https://material-ui.com/components/modal/) - Accessible modal dialog component.
   - [Slider](https://material-ui.com/components/slider/) - Accessible slider component.
-  - [Table](https://material-ui.com/components/tables/) - table with sorting, selecting, pagination, virtualized. 
+  - [Table](https://material-ui.com/components/tables/) - table with sorting, selecting, pagination, virtualized.
   - [Tree View](https://material-ui.com/components/tree-view/) - Accessible tree view component for React.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
@@ -673,7 +674,7 @@ _Component properties asynchronously fetched over the network_
 
 ### CSS / Style
 
-- [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names. 
+- [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
