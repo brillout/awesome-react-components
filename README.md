@@ -256,6 +256,7 @@ _Display parsed markdow source_
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
+- [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) -  Allows you to animate the text of any property of another component.
 
 ### Form Components
 
@@ -433,7 +434,6 @@ _Components to layout the app's UI_
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
 - [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
-- [react-stack-grid](https://github.com/tsuyoshiwada/react-stack-grid) - Pinterest like layout components.
 - [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component.
 - [react-colrow](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox. Support fraction width, auto grow.
 
