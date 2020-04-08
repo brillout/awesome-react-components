@@ -39,6 +39,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-table](https://github.com/tannerlinsley/react-table) - [demo](https://github.com/tannerlinsley/react-table/blob/master/docs/examples.md) - Hooks for building fast and extendable tables and datagrids
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
+- [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
 
 ### Infinite Scroll
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid)  - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
@@ -154,8 +155,9 @@ _Display data in charts / graphs / diagrams_
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
-- [reaviz](https://github.com/jask-oss/reaviz) - ReactJS Data Visualization Library based on D3.js
-- [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React
+- [reaviz](https://github.com/jask-oss/reaviz) - ReactJS Data Visualization Library based on D3.js.
+- [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
+- [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 
 ### Tree
 
@@ -278,6 +280,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
+- [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
 
 #### Emoji picker
 
