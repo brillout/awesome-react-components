@@ -187,6 +187,7 @@ _Ways to navigate views_
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
 - [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
+- [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 
 ### Map
 
