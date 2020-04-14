@@ -462,7 +462,7 @@ _Animate transitions_
 - [react-transitive-number](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
 - [velocity-react](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
-- [react-scroll-rotate](https://github.com/giladk/react-scroll-rotate) - [demo](https://giladk.github.io/react-scroll-rotate/) - Very simple scroll based element rotation
+- [auto-size-transition](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
 - [react-particles-bg](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 
 ### Parallax
