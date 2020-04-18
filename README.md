@@ -487,6 +487,7 @@ _Set of components + responsive layout system_
 - [fluent-ui](https://github.com/fluent-org/fluent-ui) - [demo/docs](https://fluent-ui.com/) - 🌈 React components that inspired by Microsoft's Fluent Design System.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
+- [insites-ui](https://github.com/insites-co/insites-ui) - Modern, opinionated, minimal, yet powerful React components library, powered by Styled Components.
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - React components for building Microsoft web experiences.
 - [pivotal-ui-react](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
