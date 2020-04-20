@@ -218,6 +218,7 @@ _Display images / photos_
 - [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - Responsive React Photo Gallery.
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 - [react-particle-image](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+- [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 
 ### Icons
 
@@ -851,7 +852,6 @@ _Internationalization / L10n / localization / translation_
 ### Miscellaneous
 
 - [cosmos-js](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
-- [mighty-react-snippets](https://github.com/nicksp/mighty-react-snippets) - Crafty React and Redux ES6 snippets for Atom Editor.
 - [react-demo-tab-cli](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
 - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
