@@ -478,6 +478,7 @@ _Animate transitions_
 
 _Set of components + responsive layout system_
 
+- [zeit-ui-react](https://github.com/zeit-ui/react) - Modern and minimalist React UI library.
 - 🚀 [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from _badge_ to _tree table_.
 - [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
