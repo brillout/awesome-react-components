@@ -121,6 +121,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - [demo](https://caferati.me/demo/react-awesome-slider) - 3D animated 60fps media and content slider/carousel.
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
+- [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
 
