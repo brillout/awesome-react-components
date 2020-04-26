@@ -566,6 +566,7 @@ _Turn user input into actions_
 - [react-key-handler](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events.
 - [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components.
 - [react-shortcuts](https://github.com/avocode/react-shortcuts) - Manage keyboard shortcuts from one place.
+- [useKeyCapture](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global. 
 
 #### Scroll Events
 
