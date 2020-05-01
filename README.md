@@ -198,6 +198,7 @@ _Ways to navigate views_
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
+- [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
 
 ### Time / Date / Age
 
