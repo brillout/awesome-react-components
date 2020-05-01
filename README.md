@@ -149,7 +149,6 @@ _Display data in charts / graphs / diagrams_
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
 - [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
-- [react-sparkline](https://github.com/KyleAMathews/react-sparkline) - React component for rendering simple sparklines.
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
@@ -198,6 +197,7 @@ _Ways to navigate views_
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
+- [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
 
 ### Time / Date / Age
 
