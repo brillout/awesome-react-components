@@ -149,7 +149,6 @@ _Display data in charts / graphs / diagrams_
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
 - [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
-- [react-sparkline](https://github.com/KyleAMathews/react-sparkline) - React component for rendering simple sparklines.
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
