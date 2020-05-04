@@ -85,7 +85,9 @@ _Menus / sidebars_
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
+- [react-planet](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
+
 
 ### Sticky
 
@@ -244,7 +246,6 @@ _Display parsed markdow source_
 
 ### Miscellaneous
 
-- [react-avatar](https://github.com/Sitebase/react-avatar) - Universal React avatar component makes it possible to generate avatars based on user information.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
