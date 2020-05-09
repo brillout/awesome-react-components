@@ -309,6 +309,10 @@ _Autosuggest / autocomplete / typeahead_
 - [react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
 - [react-typeahead](https://github.com/fmoo/react-typeahead) - Pure react-based typeahead and typeahead-tokenizer.
 
+#### Searchbox
+
+- [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+
 #### Select
 
 - [react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button.
