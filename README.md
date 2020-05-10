@@ -259,6 +259,7 @@ _Display parsed markdow source_
 - [react-json-tree](https://github.com/alexkuz/react-json-tree) - React JSON Viewer Component, Extracted from redux-devtools.
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
+- [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
@@ -308,10 +309,6 @@ _Autosuggest / autocomplete / typeahead_
 
 - [react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
 - [react-typeahead](https://github.com/fmoo/react-typeahead) - Pure react-based typeahead and typeahead-tokenizer.
-
-#### Searchbox
-
-- [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 #### Select
 
