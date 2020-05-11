@@ -41,6 +41,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
 - [Smart React Grid](https://htmlelements.com/docs/react/) - Fast and feature-complete data grid with Material Design.
+- [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 ### Infinite Scroll
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid)  - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
