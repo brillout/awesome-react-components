@@ -518,6 +518,7 @@ _Set of components + responsive layout system_
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
+- [mdbootstrap](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
 
 ### Mobile
 
