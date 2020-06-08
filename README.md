@@ -26,6 +26,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+- [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
 
 ### Table
 
@@ -163,6 +164,8 @@ _Display data in charts / graphs / diagrams_
 - [reaviz](https://github.com/jask-oss/reaviz) - ReactJS Data Visualization Library based on D3.js.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
+- [Smart React Chart](https://www.htmlelements.com/react/chart/overview/) - Feature complete Charting library.
+
 
 ### Tree
 
@@ -289,6 +292,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-yearly-calendar](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
 - [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
+- [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
 
 #### Emoji picker
 
