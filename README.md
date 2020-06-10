@@ -73,7 +73,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
-- [react-snackbar-alert](https://github.com/joeattardi/react-snackbar-alert) - [demo](https://joeattardi.github.io/react-snackbar-alert/) - Simple snackbar notifications. Uses Context API.
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 
 ### Tooltip
@@ -85,12 +84,11 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 _Menus / sidebars_
 
+- [hamburger-react](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
 - [react-planet](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
-- [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
-
 
 ### Sticky
 
