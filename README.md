@@ -267,6 +267,7 @@ _Display parsed markdow source_
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) -  Allows you to animate the text of any property of another component.
+- [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 
 ### Form Components
 
