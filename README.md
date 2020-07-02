@@ -127,6 +127,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
+- [keen-slider](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
 
 ### Buttons
 
@@ -171,7 +172,6 @@ _Display a tree data structure_
 
 - [react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 - [react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
-- [react-ui-tree](https://github.com/pqx/react-ui-tree) - React tree component.
 
 ### UI Navigation
 
