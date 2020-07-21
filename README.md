@@ -247,6 +247,14 @@ _Display parsed markdow source_
 
 - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
 
+### Canvas
+
+_Sketch input using Canvas or SVG_
+
+- [react-konva](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
+- [react-sketch](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
+- [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
+
 ### Miscellaneous
 
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
@@ -802,7 +810,6 @@ _Internationalization / L10n / localization / translation_
 ### UI
 
 - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
-- [react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components.
 - [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React.
 - [react-static-container](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
