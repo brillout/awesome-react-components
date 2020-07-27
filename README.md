@@ -754,6 +754,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 - [phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 - [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase. 
+- [express-react-boilerplate](https://github.com/htdangkhoa/erb) - 🚀🚀🚀 A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
 ### Miscellaneous
 
