@@ -709,6 +709,7 @@ _Component properties asynchronously fetched over the network_
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
+- [paperclip](https://paperclip.dev) - [docs](https://paperclip.dev/docs/) - Build UI primitivites with plain HTML & CSS.
 - [radium](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
@@ -720,7 +721,6 @@ _Component properties asynchronously fetched over the network_
 
 - [hyperx](https://github.com/substack/hyperx) - Tagged template string virtual dom builder.
 - [jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX.
-- [react-templates](https://github.com/wix/react-templates) - Light weight templates for react.
 
 ### Isomorphic Apps
 
