@@ -385,6 +385,7 @@ _Let the user add multiple tags in a single input_
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts.
 - [react-dropzone](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
+- [react-movable](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
 
 #### Sortable List
@@ -392,7 +393,6 @@ _Let the user add multiple tags in a single input_
 _Let the user define an order on a list_
 
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
-- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - Higher-order components to turn any list into an animated, touch-friendly, sortable list.
 - [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
 - [sortablejs](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists.
 
