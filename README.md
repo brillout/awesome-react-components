@@ -472,6 +472,7 @@ _Animate transitions_
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
 - [react-magic-move](https://github.com/ryanflorence/react-magic-move) - MagicMove wrapper.
+- [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 - [react-motion-ui-pack](https://github.com/souporserious/react-motion-ui-pack) - Wrapper component around React Motion for easier UI transitions.
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
