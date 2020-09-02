@@ -276,6 +276,7 @@ _Sketch input using Canvas or SVG_
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) -  Allows you to animate the text of any property of another component.
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
+- [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 
 ### Form Components
 
@@ -286,7 +287,6 @@ _Let the user enter data_
 _Date picker / time picker / datetime picker / date range picker_
 
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
-- [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-datepicker2](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
@@ -300,6 +300,8 @@ _Date picker / time picker / datetime picker / date range picker_
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
 - [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
 - [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
+- [react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
+- [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 
 #### Emoji picker
 
