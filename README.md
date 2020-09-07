@@ -277,7 +277,7 @@ _Sketch input using Canvas or SVG_
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) -  Allows you to animate the text of any property of another component.
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
--[react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
+- [react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 
 ### Form Components
 
