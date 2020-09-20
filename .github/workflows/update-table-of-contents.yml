@@ -24,6 +24,8 @@ jobs:
       
       - name: TOC Generator
         uses: technote-space/toc-generator@v2.4.0
+        with:
+          TOC_TITLE: ## Table of Contents
 
 
       # Runs a set of commands using the runners shell
