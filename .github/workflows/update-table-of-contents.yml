@@ -25,11 +25,4 @@ jobs:
       - name: TOC Generator
         uses: technote-space/toc-generator@v2.4.0
         with:
-          TOC_TITLE: ## Table of Contents
-
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          TOC_TITLE: '## Table of Contents'
