@@ -1,0 +1,19 @@
+name: 'Update Table of Contents'
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  update_toc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: git checkout
+        uses: actions/checkout@v2
+      
+      - name: TOC Generator
+        uses: technote-space/toc-generator@v2.4.0
+        with:
+          TOC_TITLE: '## Table of Contents'
