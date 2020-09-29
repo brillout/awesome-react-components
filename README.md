@@ -132,6 +132,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [ag-grid](https://github.com/ceolter/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+- [ReactGrid](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 - [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
 
 ### Table
@@ -260,7 +261,6 @@ _Display data in charts / graphs / diagrams_
 - [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
-- [react-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines.
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
