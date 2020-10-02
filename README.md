@@ -138,7 +138,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 ### Table
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
-- [griddle-react](https://github.com/GriddleGriddle/Griddle) - Simple grid component that can display data as a table, a list of cards, or on the map.
 - [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc. 🆕
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material-UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
@@ -983,6 +982,7 @@ _Internationalization / L10n / localization / translation_
 
 ### Miscellaneous
 
+- [component-controls](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
 - [cosmos-js](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
 - [react-demo-tab-cli](https://github.com/mkosir/react-demo-tab-cli) - CLI tool for creating demos of react components.
 - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
