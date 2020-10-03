@@ -264,7 +264,6 @@ _Display data in charts / graphs / diagrams_
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
-- [reaviz](https://github.com/jask-oss/reaviz) - ReactJS Data Visualization Library based on D3.js.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
