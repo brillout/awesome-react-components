@@ -241,6 +241,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
 - [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion.
+- [react-tabbordion](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
 
 ### Chart
 
@@ -561,7 +562,6 @@ _Components to layout the app's UI_
 - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
-- [react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) - A set of React components implementing flexboxgrid with the power of CSS Modules.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
