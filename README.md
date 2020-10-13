@@ -267,6 +267,7 @@ _Display data in charts / graphs / diagrams_
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
+- [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 
 
 ### Tree
@@ -877,7 +878,6 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
 - [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
-- [react-faux-dom](https://github.com/Olical/react-faux-dom) - DOM like structure that renders to React.
 - [react-media](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
 - [react-middle-ellipsis](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
