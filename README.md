@@ -902,8 +902,8 @@ _Internationalization / L10n / localization / translation_
 - [react-elm-components](https://github.com/evancz/react-elm-components) - Write React components in Elm.
 - [react-famous](https://github.com/pilwon/react-famous) - React bridge to Famo.us.
 - [react-localstorage](https://github.com/STRML/react-localstorage) - Simple componentized localstorage implementation for Facebook&#39;s React.
+- [react-lottie-player](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
 - [react-on-rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps.
-- [react-swf](https://github.com/syranide/react-swf) - Shockwave Flash Player component for React.
 - [react-three-renderer](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React.
 - [react-threejs](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 - [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration.
