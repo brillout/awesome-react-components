@@ -286,6 +286,7 @@ _Ways to navigate views_
 
 ### Custom Scrollbar
 
+- [rc-scrollbars](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
 - [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
 - [react-scrollbar](https://github.com/souhe/reactScrollbar) - Scrollbar component for React.
 - [react-shadow-scroll](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the image and inserts shadow when scrolling exists.
