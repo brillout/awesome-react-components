@@ -697,7 +697,7 @@ _Turn user input into actions_
 - [react-key-handler](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events.
 - [react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components.
 - [react-shortcuts](https://github.com/avocode/react-shortcuts) - Manage keyboard shortcuts from one place.
-- [useKeyCapture](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global. 
+- [useKeyCapture](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
 
 #### Scroll Events
 
@@ -746,6 +746,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [alt](https://github.com/goatslacker/alt) - Isomorphic flux implementation.
 - [baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [cerebral](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
+- [effector-react](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 - [fluorine-lib](https://github.com/philpl/fluorine) - Reactive state and side effect management for React using a single stream of actions.
 - [fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [fluxxor](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
@@ -863,7 +864,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 - [phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
-- [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase. 
+- [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
 - [express-react-boilerplate](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
 ### Miscellaneous
