@@ -213,7 +213,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
-- [react-loaders](https://github.com/jonjaques/react-loaders) - Lightweight wrapper around Loaders.css.
 - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
 - [react-progress-button](https://github.com/mathieudutour/react-progress-button) - Simple react.js component for an inline progress indicator.
 - [react-progress-label](https://github.com/wangzuo/react-progress-label) - Progress label component.
@@ -385,6 +384,7 @@ _Sketch input using Canvas or SVG_
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
+- [@restpace/schema-form](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
 
 ### Form Components
 
