@@ -21,6 +21,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [UI Components](#ui-components)
@@ -151,7 +152,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 ### Infinite Scroll
-- [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid)  - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
+
+- [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
@@ -168,6 +170,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 - [reoverlay](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
+
 ### Notification
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
@@ -175,6 +178,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
 - [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 - [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
+- [react-toast](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - [demo](https://jossmac.github.io/react-toast-notifications/) - pleasing toast system.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
@@ -210,7 +214,6 @@ _Fixed headers / scroll-up headers / sticky elements_
 
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
 - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
@@ -221,6 +224,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 
 ### Carousel
+
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
 - [flat-carousel](https://github.com/jl-/flat-carousel) - [demo](https://671g5.csb.app/) Light weight carousel component for general purpose.
 - [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - [demo](https://caferati.me/demo/react-awesome-slider) - 3D animated 60fps media and content slider/carousel.
@@ -267,7 +271,6 @@ _Display data in charts / graphs / diagrams_
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
-
 
 ### Tree
 
@@ -367,7 +370,7 @@ _Sketch input using Canvas or SVG_
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-demo-tab](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
 - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
-- [fastcomments-react](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/(12-30-2019)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
+- [fastcomments-react](https://github.com/fastcomments/fastcomments-react) - [demo](<https://blog.fastcomments.com/(12-30-2019)-fastcomments-demo.html>) - FastComments component for embedding a live comment thread on a page or SPA.
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
 - [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
@@ -380,7 +383,7 @@ _Sketch input using Canvas or SVG_
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
-- [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) -  Allows you to animate the text of any property of another component.
+- [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
@@ -661,7 +664,6 @@ _Set of components + responsive layout system_
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
 - [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
-
 
 ## UI Utilities
 
