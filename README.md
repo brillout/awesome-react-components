@@ -143,7 +143,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material-UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 - [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
-- [react-table](https://github.com/tannerlinsley/react-table) - [demo](https://github.com/tannerlinsley/react-table/blob/master/docs/examples.md) - Hooks for building fast and extendable tables and datagrids
+- [react-table](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
