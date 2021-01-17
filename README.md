@@ -21,6 +21,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [UI Components](#ui-components)
@@ -347,6 +348,7 @@ _Display a control element to paginate_
 
 - [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
 - [react-laravel-paginex](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
+- [paginated](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
 
 ### Markdown Viewer
 
@@ -1004,7 +1006,6 @@ _Internationalization / L10n / localization / translation_
 ### Static Website Generator
 
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
-- [phenomic](https://github.com/MoOx/phenomic) - Modern static\* website generator based on the React and Webpack ecosystem.
 
 ## Cloud Solutions
 
