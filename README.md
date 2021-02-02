@@ -993,6 +993,7 @@ _Internationalization / L10n / localization / translation_
 - [react-heatpack](https://github.com/insin/react-heatpack) - A &#39;heatpack&#39; command for quick React development with webpack hot reloading.
 - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 - [standard-react](https://github.com/feross/standard) - JavaScript Standard Style Guide.
+- [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 
 ## Miscellaneous
 
