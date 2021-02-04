@@ -865,6 +865,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
 - [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
 - [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
+- [rockpack](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 - [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 - [phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
@@ -951,6 +952,7 @@ _Internationalization / L10n / localization / translation_
 
 ### Server-Side Rendering
 
+- [iSSR](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 - [react-esi](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
 
 ## Dev Tools
