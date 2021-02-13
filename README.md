@@ -216,12 +216,12 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
-- [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
 - [react-progress-button](https://github.com/mathieudutour/react-progress-button) - Simple react.js component for an inline progress indicator.
 - [react-progress-label](https://github.com/wangzuo/react-progress-label) - Progress label component.
 - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
-- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React.
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+- [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+- [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
 ### Carousel
 
