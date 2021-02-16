@@ -449,6 +449,7 @@ _Autosuggest / autocomplete / typeahead_
 
 - [coloreact](https://github.com/elrumordelaluz/coloreact) - A tiny Color Picker for React.
 - [react-color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome & more.
+- [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 - [react-input-color](https://github.com/wangzuo/react-input-color) - React input color component with hsv color picker.
 
 #### Toggle
@@ -786,15 +787,14 @@ _Data flow / data management / data stores / components state / data flow_
 
 ### Router
 
-- [cerebral-module-router](https://github.com/cerebral/cerebral-module-router) - An opinionated URL change handler for Cerebral.
-- [monorouter](https://github.com/matthewwithanm/monorouter) - An isomorphic JS router.
 - [react-breadcrumbs](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
 - [react-router-component](https://github.com/STRML/react-router-component) - Declarative router component for React.
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - React Router scroll management.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
+- [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 - [redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
-- [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly ~1.3KB routing library. Nothing else but hooks.
 
 ### Props from server
 
