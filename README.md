@@ -996,6 +996,7 @@ _Internationalization / L10n / localization / translation_
 - [react-styleguidist](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 - [standard-react](https://github.com/feross/standard) - JavaScript Standard Style Guide.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
+- [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
 
 ## Miscellaneous
 
