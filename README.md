@@ -162,7 +162,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 _Display overlay / modal / alert / dialog / lightbox / popup_
 
-- [boron](https://github.com/yuanyan/boron) - A collection of dialog animations with React.js.
+- [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js 
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
