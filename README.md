@@ -384,6 +384,7 @@ _Sketch input using Canvas or SVG_
 - [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+- [react-swipeable-list](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
@@ -964,7 +965,6 @@ _Internationalization / L10n / localization / translation_
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [jest-cli](https://github.com/facebook/jest) - Painless JavaScript Testing.
 - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
-- [redux-ava](https://github.com/sotojuan/redux-ava) - Write AVA tests for redux pretty quickly.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
 - [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [ui-harness](https://github.com/philcockfield/ui-harness) - Create, isolate and test modular UI components in React.
