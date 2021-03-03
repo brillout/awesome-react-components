@@ -916,6 +916,7 @@ _Internationalization / L10n / localization / translation_
 - [react-threejs](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 - [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration.
 - [reactive-elements](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component).
+- [react-unity-webgl](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
 
 ### Integrations with Third Party Services
 
