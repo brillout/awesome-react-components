@@ -290,7 +290,6 @@ _Ways to navigate views_
 
 - [rc-scrollbars](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
 - [react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - [demo](http://rommguy.github.io/react-custom-scroll/example/demo.html) - Easily customize the browser scroll bar with native OS scroll behavior.
-- [react-scrollbar](https://github.com/souhe/reactScrollbar) - Scrollbar component for React.
 - [react-shadow-scroll](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the image and inserts shadow when scrolling exists.
 
 ### Audio / Video
@@ -916,6 +915,7 @@ _Internationalization / L10n / localization / translation_
 - [react-threejs](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 - [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration.
 - [reactive-elements](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component).
+- [react-unity-webgl](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
 
 ### Integrations with Third Party Services
 
