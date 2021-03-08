@@ -518,6 +518,7 @@ _Let the user define an order on a list_
 - [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
 - [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [edtr-io](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
 - [react-codemirror](https://github.com/JedWatson/react-codemirror) - CodeMirror wrapper.
@@ -527,6 +528,9 @@ _Let the user define an order on a list_
 - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
 - [react-quill](https://github.com/zenoamaro/react-quill) - Quill wrapper.
 - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
+- [remirror](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
+- [slate](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
+- [smartblock](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
 
 #### Markdown Editor
 
