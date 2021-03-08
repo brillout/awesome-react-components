@@ -728,6 +728,7 @@ _Set meta tags, <title>, children of <head>_
 
 - [react-document-meta](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
 - [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
+- [react-helmet-async](https://github.com/staylor/react-helmet-async#readme) - Thread-safe Helmet for React 16+ and friends
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React.
 
 ### Portal
