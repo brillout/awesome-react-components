@@ -226,7 +226,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 ### Carousel
 
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
-- [flat-carousel](https://github.com/jl-/flat-carousel) - [demo](https://671g5.csb.app/) Light weight carousel component for general purpose.
 - [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - [demo](https://caferati.me/demo/react-awesome-slider) - 3D animated 60fps media and content slider/carousel.
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
@@ -883,6 +882,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 ### Miscellaneous
 
 - [react-inlinesvg](https://github.com/matthewwithanm/react-inlinesvg) - An SVG loader component for ReactJS.
+- [react-godfather](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
