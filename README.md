@@ -233,6 +233,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
 - [keen-slider](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
+- [react-image-magnify](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
 
 ### Buttons
 
