@@ -771,7 +771,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
 - [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
-- [react-storage-hoc](https://github.com/yandavid/react-storage-hoc) - [demo](https://codesandbox.io/s/c0hxj?module=/src/App.js) - Higher-order components for working with localStorage and sessionStorage.
 - [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
 - [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
