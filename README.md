@@ -155,7 +155,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
-- [react-recycled-scrolling](https://github.com/sarons/react-recycled-scrolling) - [npm](https://www.npmjs.com/package/react-recycled-scrolling) - [demo](https://y8mlf.csb.app/) - Simulate scrolling using fixed number of DOM elements for large lists with React Hooks
+- [af-virtual-scroll](https://github.com/nowaalex/af-virtual-scroll) - [demo](https://nowaalex.github.io/af-virtual-scroll/#/af-virtual-scroll/examples/list/variableRowHeights) - [docs](https://nowaalex.github.io/af-virtual-scroll/#/af-virtual-scroll/docs/list) - Render large scrollable lists and tables.
 - [react-window](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
 
 ### Overlay
