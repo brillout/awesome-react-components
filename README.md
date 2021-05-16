@@ -216,7 +216,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
-- [react-progress-button](https://github.com/mathieudutour/react-progress-button) - Simple react.js component for an inline progress indicator.
 - [react-progress-label](https://github.com/wangzuo/react-progress-label) - Progress label component.
 - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
@@ -932,6 +931,7 @@ _Internationalization / L10n / localization / translation_
 
 - [react-ga](https://github.com/react-ga/react-ga) - React Google Analytics Module.
 - [react-google-analytics](https://github.com/hzdg/react-google-analytics) - Google analytics component.
+- [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
 - [react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe&#39;s checkout.js as a react component. Easiest way to use checkout with React.
 - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
