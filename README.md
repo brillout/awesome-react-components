@@ -322,10 +322,10 @@ _Display time / date / age_
 
 _Display images / photos_
 
+- [lightGallery](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
 - [react-compare-image](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
 - [react-image-lightbox](https://github.com/fritz-c/react-image-lightbox) - React lightbox component.
-- [react-images](https://github.com/jossmac/react-images) - A simple lightbox component for displaying an array of images.
 - [react-intense](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close.
 - [react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - Responsive React Photo Gallery.
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
