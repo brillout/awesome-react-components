@@ -625,7 +625,6 @@ _Set of components + responsive layout system_
 - 🚀 [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from _badge_ to _tree table_.
 - [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
-- [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
 - [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - [demo/docs](https://chakra-ui.com) - Simple, Modular & Accessible UI Components for your React Applications.
 - [evergreen](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
