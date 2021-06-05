@@ -526,7 +526,7 @@ _Let the user define an order on a list_
 - [edtr-io](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
-- [react-codemirror](https://github.com/JedWatson/react-codemirror) - CodeMirror wrapper.
+- [react-codemirror](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React. 
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
 - [react-editor](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
