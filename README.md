@@ -550,6 +550,7 @@ _Image manipulation_
 
 - [react-avatar-cropper](https://github.com/DropsOfSerenity/react-avatar-cropper) - Aiming to be a complete solution for avatar cropping in react.
 - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
+- [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - Image cropper.
