@@ -542,7 +542,7 @@ _Let the user define an order on a list_
 
 - [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
 - [react-md-editor](https://github.com/JedWatson/react-md-editor) - Markdown editor.
-- [react-md-editor](https://github.com/JedWatson/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
+- [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 #### Image Editing
 
