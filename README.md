@@ -138,8 +138,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Table
 
-- [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React.
-- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc. 🆕
+- [Elementz Table](https://elementz.style/#!/Table)  - A modern and easy-to-use table packed with all neccessary features, responsive, infinite scrolling & more.  🆕
+- [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material-UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 - [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
@@ -211,12 +211,11 @@ _Fixed headers / scroll-up headers / sticky elements_
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
 ### Loader
-
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-- [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
+- [Elementz Loading](https://elementz.style/#!/Loading) - Loading Skeleton wrapper with zero configuration (Like Facebook's cards)  🆕
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
-- [react-progress-label](https://github.com/wangzuo/react-progress-label) - Progress label component.
+- [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
@@ -235,7 +234,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-image-magnify](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
 
 ### Buttons
-
 - [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
 - [reactive-button](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
