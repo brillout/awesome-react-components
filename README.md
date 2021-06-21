@@ -138,7 +138,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Table
 
-- [Elementz Table](https://elementz.style/#!/Table)  - A modern and easy-to-use table packed with all neccessary features, responsive, infinite scrolling & more.  🆕
+- [Elementz Table](https://github.com/elementz-ui/elementz) - [demo/docs](https://elementz.style/#!/Table) - A modern and easy-to-use table packed with all neccessary features, responsive, infinite scrolling & more.  🆕
 - [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material-UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
@@ -213,7 +213,6 @@ _Fixed headers / scroll-up headers / sticky elements_
 ### Loader
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-- [Elementz Loading](https://elementz.style/#!/Loading) - Loading Skeleton wrapper with zero configuration (Like Facebook's cards)  🆕
 - [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
