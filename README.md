@@ -1019,6 +1019,7 @@ _Internationalization / L10n / localization / translation_
 - [jsonx](https://github.com/repetere/jsonx) - React JSON Syntax.
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
+- [jsondiffpatch-react](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
 
 ### Static Website Generator
 
