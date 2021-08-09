@@ -647,6 +647,7 @@ _Set of components + responsive layout system_
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 - [ChatUI](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
+- [Mantine](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 
 #### Material Design
 
