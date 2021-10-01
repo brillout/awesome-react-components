@@ -827,10 +827,7 @@ _Component properties asynchronously fetched over the network_
 
 - [adrenaline](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 - [apollo-client](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
-- [cerebral-module-http](https://github.com/cerebral/cerebral-module-http) - HTTP module for Cerebral.
-- [react-apollo](https://github.com/apollostack/react-apollo) - React data container for the Apollo Client.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [react-transmit](https://github.com/RickWong/react-transmit) - Relay-inspired library based on Promises instead of GraphQL.
 
 ### CSS / Style
 
