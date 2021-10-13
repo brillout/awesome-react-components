@@ -937,6 +937,7 @@ _Internationalization / L10n / localization / translation_
 - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
 - [react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe&#39;s checkout.js as a react component. Easiest way to use checkout with React.
 - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
+- [react-slack-notification](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
 ## Performance
 
