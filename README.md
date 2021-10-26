@@ -648,6 +648,7 @@ _Set of components + responsive layout system_
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 - [ChatUI](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
 - [Mantine](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
+- [semi-design](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system that gives you all modular blocks you need to build sensible web apps & SaaS products.
 
 #### Material Design
 
