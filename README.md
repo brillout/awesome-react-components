@@ -553,6 +553,7 @@ _Image manipulation_
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - Image cropper.
+- [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
 
 #### Form Component Collections
 
@@ -869,7 +870,6 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
 - [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack.
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
-- [gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web apps.
 - [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
