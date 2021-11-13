@@ -346,6 +346,7 @@ _Display a control element to paginate_
 - [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
 - [react-laravel-paginex](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
 - [paginated](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
+- [react-steps](https://github.com/tkwant/react-steps) - [Demo](https://stepper.tkwant.de/) - Responsive React Stepper.
 
 ### Markdown Viewer
 
