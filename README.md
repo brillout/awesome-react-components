@@ -579,7 +579,6 @@ _Image manipulation_
 _Components to layout the app's UI_
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
-- [flexbox-react](https://github.com/nachoaIvarez/flexbox-react) Unopinionated, standard compliant flexbox components.
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
 - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
@@ -590,6 +589,7 @@ _Components to layout the app's UI_
 - [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
 - [react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component.
 - [react-colrow](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox. Support fraction width, auto grow.
+- [react-schematic](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
 
 ## UI Animation
 
