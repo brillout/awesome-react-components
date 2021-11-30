@@ -601,7 +601,6 @@ _Animate transitions_
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
-- [react-magic-move](https://github.com/ryanflorence/react-magic-move) - MagicMove wrapper.
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
@@ -616,6 +615,7 @@ _Animate transitions_
 - [auto-size-transition](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
 - [react-particles-bg](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 - [gooey-react](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+- [react-voodoo](https://github.com/react-voodoo/react-voodoo) - [demo/samples](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
 
 ### Parallax
 
