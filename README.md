@@ -514,7 +514,6 @@ _Let the user add multiple tags in a single input_
 _Let the user define an order on a list_
 
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
-- [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
 - [sortablejs](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists.
 
 #### Rich Text Editor
