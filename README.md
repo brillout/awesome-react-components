@@ -491,6 +491,7 @@ _Let the user add multiple tags in a single input_
 - [react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
 - [react-autowidth-input](https://github.com/kierien/react-autowidth-input) - Highly configurable & extensible automatically sized input field built with hooks.
 - [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content.
+- [rich-textarea](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight and decorate texts.
 
 #### Star Rating
 
@@ -514,7 +515,6 @@ _Let the user add multiple tags in a single input_
 _Let the user define an order on a list_
 
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
-- [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
 - [sortablejs](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists.
 
 #### Rich Text Editor
