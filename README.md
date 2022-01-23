@@ -491,6 +491,7 @@ _Let the user add multiple tags in a single input_
 - [react-input-autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
 - [react-autowidth-input](https://github.com/kierien/react-autowidth-input) - Highly configurable & extensible automatically sized input field built with hooks.
 - [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content.
+- [rich-textarea](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight and decorate texts.
 
 #### Star Rating
 
