@@ -268,6 +268,7 @@ _Display data in charts / graphs / diagrams_
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
+- [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 
 ### Tree
 
