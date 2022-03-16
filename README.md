@@ -534,6 +534,7 @@ _Let the user define an order on a list_
 - [react-editor](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
 - [react-monacoeditor](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
+- [react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 - [react-quill](https://github.com/zenoamaro/react-quill) - Quill wrapper.
 - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - [Trumbowyg](https://alex-d.github.io/Trumbowyg/) wrapper.
 - [remirror](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
