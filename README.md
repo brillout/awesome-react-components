@@ -571,7 +571,7 @@ _Image manipulation_
 #### Miscellaneous
 
 - [interweave](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
-- [react-designer](https://github.com/fatiherikli/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
+- [react-designer](https://github.com/react-designer/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
 - [react-upload-gallery](https://github.com/TPMinan/react-upload-gallery) - React for Upload Image Gallery. Drag & Drop, Sortable, Customize.
 
 #### Syntax Highlight
