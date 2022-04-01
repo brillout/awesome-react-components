@@ -690,6 +690,7 @@ _Set of components + responsive layout system_
 - [refine](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
 - [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
+- [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 
 ## UI Utilities
 
