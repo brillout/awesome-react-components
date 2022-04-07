@@ -795,6 +795,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
 - [resourcerer](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
 - [shasta](https://github.com/shastajs/shasta) - Dead simple + opinionated toolkit for building redux/react applications.
+- [synergies](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
 - [zustand](https://zustand.surge.sh/) - [docs](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
 - [teaful](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
 
