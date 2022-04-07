@@ -214,7 +214,7 @@ _Fixed headers / scroll-up headers / sticky elements_
 ### Loader
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-- [react-loader](https://github.com/TheCognizantFoundry/react-loader) - React component that displays a spinner via spin.js until your component is loaded.
+- [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
 - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
 - [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
