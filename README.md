@@ -13,7 +13,7 @@ commentary and reviews in _(italic parens)_ after some listings of note.
 Maintainers:
 
 - [@petebray](https://github.com/bluepeter), author of [Fluxguard](https://fluxguard.com) &mdash; monitor PROD website changes.
-- [@brillout](https://twitter.com/brillout), author of [Wildcard API](https://github.com/reframejs/wildcard-api) &mdash; create an RPC-like API as an alternative to REST and GraphQL.
+- [@brillout](https://twitter.com/brillout), author of [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) (like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin) and [Telefunc](https://github.com/vikejs/telefunc) (remote functions instead of APIs).
 
 ### Contributing
 
