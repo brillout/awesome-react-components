@@ -643,7 +643,7 @@ _Set of components + responsive layout system_
 - [ChatUI](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
 - [CoreUI for React](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 - [evergreen](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
-- [fluentui](https://github.com/microsoft/fluentui) - A collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
+- [fluentui](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
 - [geist-ui](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
