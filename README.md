@@ -601,7 +601,6 @@ _Components to layout the app's UI_
 
 _Animate transitions_
 
-- [react-tweenful](https://github.com/teodosii/react-tweenful) - [demo](https://teodosii.github.io/react-tweenful/) - Animation engine that lets you animate DOM nodes, mounting, unmounting, child changes/transitions.
 - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
@@ -611,6 +610,7 @@ _Animate transitions_
 - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 - [react-router-transition](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
 - [react-spring](https://github.com/react-spring/react-spring) - A spring physics based animation library.
+- [react-ts-typewriter](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 - [framer-motion](https://github.com/framer/motion) - An animation and gesture library.
 - [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
 - [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
