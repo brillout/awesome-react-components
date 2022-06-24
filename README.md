@@ -31,6 +31,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Notification](#notification)
   - [Tooltip](#tooltip)
   - [Menu](#menu)
+  - [Auth](#auth)
   - [Sticky](#sticky)
   - [Tabs](#tabs)
   - [Loader](#loader)
@@ -188,6 +189,13 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 ### Tooltip
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
+
+### Auth
+
+_Authenctication / Authorization_
+
+- [@eartho/one-client-js](https://github.com/eartho-group/one-client-js) - [demo/docs](https://www.eartho.world/) - One line of code to authenticate users via any social network
+- [next-auth](https://github.com/nextauthjs/next-auth) - [demo/docs](https://next-auth.js.org/) - Authentication for Next.js
 
 ### Menu
 
