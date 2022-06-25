@@ -31,7 +31,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Notification](#notification)
   - [Tooltip](#tooltip)
   - [Menu](#menu)
-  - [Auth](#auth)
   - [Sticky](#sticky)
   - [Tabs](#tabs)
   - [Loader](#loader)
@@ -189,13 +188,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 ### Tooltip
 
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
-
-### Auth
-
-_Authenctication / Authorization_
-
-- [@eartho/one-client-js](https://github.com/eartho-group/one-client-js) - [demo/docs](https://www.eartho.world/) - One line of code to authenticate users via any social network
-- [next-auth](https://github.com/nextauthjs/next-auth) - [demo/docs](https://next-auth.js.org/) - Authentication for Next.js
 
 ### Menu
 
@@ -963,6 +955,7 @@ _Internationalization / L10n / localization / translation_
 - [react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe&#39;s checkout.js as a react component. Easiest way to use checkout with React.
 - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 - [react-slack-notification](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
+- [@eartho/one-client-js](https://github.com/eartho-group/one-client-js) - [demo/docs](https://www.eartho.world/) - One line of code to authenticate users via any social network
 
 ## Performance
 
