@@ -547,7 +547,6 @@ _Let the user define an order on a list_
 
 - [react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork)](https://github.com/Ionaru/easy-markdown-editor).
 - [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
-- [react-md-editor](https://github.com/JedWatson/react-md-editor) - Markdown editor.
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 #### Image Editing
@@ -602,6 +601,7 @@ _Components to layout the app's UI_
 _Animate transitions_
 
 - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
+- [react-animatable](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
