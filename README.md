@@ -498,9 +498,9 @@ _Let the user add multiple tags in a single input_
 
 #### Star Rating
 
+- [react-rating](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
 - [react-awesome-stars-rating](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 - [react-star-rating-input](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
-- [react-star-rating](https://github.com/cameronroe/react-star-rating) - A simple star rating component built with React.
 
 #### Drag and Drop
 
