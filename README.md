@@ -142,7 +142,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [Elementz Table](https://github.com/elementz-ui/elementz) - [demo/docs](https://elementz.style/#!/Table) - A modern and easy-to-use table packed with all neccessary features, responsive, infinite scrolling & more.  🆕
 - [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
-- [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material-UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
+- [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 - [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
 - [react-table](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
@@ -564,7 +564,7 @@ _Image manipulation_
 
 #### Form Component Collections
 
-- [formsy-material-ui](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material-UI form components.
+- [formsy-material-ui](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material UI form components.
 - [formsy-react-components](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
 - [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs.
@@ -665,10 +665,10 @@ _Set of components + responsive layout system_
 
 - 🚀 [Material UI](https://github.com/mui/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
   - [Autocomplete](https://mui.com/material-ui/react-autocomplete/) - Accessible autocomplete, combobox, multiselect
-  - [Icons](https://mui.com/material-ui/material-icons/) - 1,000+ SVG material icons.
+  - [Material Icons](https://mui.com/material-ui/material-icons/) - 1,000+ SVG material icons.
   - [Modal](https://mui.com/material-ui/react-modal/) - Accessible modal dialog component.
   - [Slider](https://mui.com/material-ui/react-slider/) - Accessible slider component.
-  - [Table](https://mui.com/material-ui/react-tables/) - table with sorting, selecting, pagination, virtualized.
+  - [Table](https://mui.com/material-ui/react-table/) - table with sorting, selecting, pagination, virtualized.
   - [Tree View](https://mui.com/material-ui/react-tree-view/) - Accessible tree view component for React.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
