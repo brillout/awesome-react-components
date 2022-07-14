@@ -154,7 +154,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 ### Infinite Scroll
 
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
-- [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
+- [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything else where the performance matters.
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [af-virtual-scroll](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
 - [react-window](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
