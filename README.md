@@ -301,6 +301,7 @@ _Ways to navigate views_
 - [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
 - [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 - [react-vision-camera](https://github.com/xulihang/react-vision-camera) - Camera component for React using getUserMedia. We can use this component for computer vision tasks like barcode scanning, text recognition, etc.
+- [react-barcode-qrcode-scanner](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
 
 ### Map
 
