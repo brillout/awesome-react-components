@@ -809,7 +809,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
-- [react-validation-mixin](https://github.com/jurassix/react-validation-mixin) - Simple validation mixin (HoC) for React.
+- [react-client-validation](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
 - [react-final-form](https://github.com/final-form/react-final-form) - Subscription-based form state management
 - [react-formawesome](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 - [surveyjs](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
