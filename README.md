@@ -847,6 +847,7 @@ _Component properties asynchronously fetched over the network_
 - [adrenaline](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 - [apollo-client](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [query](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue. 
 
 ### CSS / Style
 
