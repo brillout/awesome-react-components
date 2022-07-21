@@ -344,6 +344,7 @@ _Display icons / icon set / emojis_
 - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
+- [tabler-icons-react](https://tabler-icons-react.vercel.app) - A set of over 450 free MIT-licensed high-quality SVG icons.
 
 ### Paginator
 
@@ -690,7 +691,6 @@ _Set of components + responsive layout system_
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
-- [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10.
 - [refine](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
 - [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
@@ -959,7 +959,8 @@ _Internationalization / L10n / localization / translation_
 - [react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe&#39;s checkout.js as a react component. Easiest way to use checkout with React.
 - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 - [react-slack-notification](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
-
+- [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+  
 ## Performance
 
 ### UI
