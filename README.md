@@ -49,6 +49,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Paginator](#paginator)
   - [Markdown Viewer](#markdown-viewer)
   - [Canvas](#canvas)
+  - [Selecting DOM elements](#selecting-dom-elements)
   - [Miscellaneous](#miscellaneous)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
@@ -369,6 +370,9 @@ _Sketch input using Canvas or SVG_
 - [react-sketch](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
 - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 - [react-heat-map](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+
+### Selecting DOM elements
+- [react-mouse-select](https://github.com/andreizanik/react-mouse-select) - [Demo](https://andreizanik.github.io/react-mouse-select/) A component that allows selecting DOM elements by moving the mouse
 
 ### Miscellaneous
 
