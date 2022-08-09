@@ -999,7 +999,6 @@ _Internationalization / L10n / localization / translation_
 
 ### Test
 
-- [carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components.
 - [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [jest-cli](https://github.com/facebook/jest) - Painless JavaScript Testing.
