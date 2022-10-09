@@ -863,6 +863,7 @@ _Component properties asynchronously fetched over the network_
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
+- [stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 
 ### HTML Template
 
