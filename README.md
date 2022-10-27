@@ -276,8 +276,8 @@ _Display data in charts / graphs / diagrams_
 
 _Display a tree data structure_
 
+- [react-arborist](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) 
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
-- [react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 - [react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
 
 ### UI Navigation
