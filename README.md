@@ -454,6 +454,7 @@ _Autosuggest / autocomplete / typeahead_
 - [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React.
 - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 - [react-column-select](https://github.com/chr-ge/react-column-select) - A column select component built for react.
+- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React 
 
 #### Color Picker
 
