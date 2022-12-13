@@ -127,6 +127,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ## UI Components
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 ### Editable data grid / spreadsheet
 
 - [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
@@ -588,6 +590,8 @@ _Image manipulation_
 
 ## UI Layout
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 _Components to layout the app's UI_
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
@@ -604,6 +608,8 @@ _Components to layout the app's UI_
 - [react-schematic](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
 
 ## UI Animation
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 _Animate transitions_
 
@@ -635,6 +641,8 @@ _Animate transitions_
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## UI Frameworks
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 ### Responsive
 
@@ -700,6 +708,8 @@ _Set of components + responsive layout system_
 - [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 
 ## UI Utilities
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 ### Reporter
 
@@ -774,6 +784,8 @@ _A/B tests, experiments, ..._
 - [react-experiments](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 ## Code Design
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 _Libraries that help with code design_
 
@@ -919,6 +931,8 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 
 ## Utilities
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
 - [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
 - [react-media](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
@@ -968,6 +982,8 @@ _Internationalization / L10n / localization / translation_
   
 ## Performance
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 ### UI
 
 - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
@@ -998,6 +1014,8 @@ _Internationalization / L10n / localization / translation_
 - [react-esi](https://github.com/dunglas/react-esi) - A library to boost SSR performance by exposing React components as Edge Side Includes (ESI) fragments
 
 ## Dev Tools
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 ### Test
 
@@ -1040,6 +1058,8 @@ _Internationalization / L10n / localization / translation_
 
 ## Miscellaneous
 
+**[`Back to top ⬆️`](#table-of-contents)**
+
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
 - [htmltojsx](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It&#39;s magic!.
@@ -1053,6 +1073,8 @@ _Internationalization / L10n / localization / translation_
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
 
 ## Cloud Solutions
+
+**[`Back to top ⬆️`](#table-of-contents)**
 
 ### Databases
 
