@@ -664,7 +664,7 @@ _Set of components + responsive layout system_
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 - [Mantine](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 - [orbit](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
-- [pivotal-ui](https://github.com/pivotal-cf/pivotal-ui) - React components based on a custom version of the Bootstrap library.
+- [flowbite-react](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 - [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
