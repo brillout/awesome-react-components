@@ -520,6 +520,7 @@ _Let the user add multiple tags in a single input_
 - [react-dropzone](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-movable](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
+- [neodrag](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same 🔥
 
 #### Sortable List
 
