@@ -470,7 +470,6 @@ _Autosuggest / autocomplete / typeahead_
 - [@anatoliygatt/heart-switch](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
-- [react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
 - [ui-switch](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component 
 
 #### Slider
@@ -822,9 +821,9 @@ _Data flow / data management / data stores / components state / data flow_
 ### Form Logic
 
 - [data-driven-forms](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
-- [formcat](https://github.com/guilouro/formcat) - A simple and easy way to control forms in React using the React Context API
 - [formik](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+- [Phormal](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
 - [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
