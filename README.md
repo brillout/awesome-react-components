@@ -21,6 +21,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [UI Components](#ui-components)
@@ -166,7 +167,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 _Display overlay / modal / alert / dialog / lightbox / popup_
 
-- [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js 
+- [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
@@ -215,6 +216,7 @@ _Fixed headers / scroll-up headers / sticky elements_
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
 ### Loader
+
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
 - [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
@@ -238,6 +240,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [swiper](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ### Buttons
+
 - [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
 - [reactive-button](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
@@ -457,7 +460,7 @@ _Autosuggest / autocomplete / typeahead_
 - [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React.
 - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 - [react-column-select](https://github.com/chr-ge/react-column-select) - A column select component built for react.
-- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React 
+- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React
 
 #### Color Picker
 
@@ -471,7 +474,7 @@ _Autosuggest / autocomplete / typeahead_
 - [@anatoliygatt/heart-switch](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
-- [ui-switch](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component 
+- [ui-switch](https://github.com/yairEO/ui-switch) - The most complete _Toggle_ component
 
 #### Slider
 
@@ -538,7 +541,7 @@ _Let the user define an order on a list_
 - [edtr-io](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
-- [react-codemirror](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React. 
+- [react-codemirror](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
 - [react-editor](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
@@ -720,7 +723,7 @@ _Report computed styles_
 
 _Report when a component becomes visible/hidden_
 
-- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API. 
+- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
 - [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 
@@ -863,7 +866,7 @@ _Component properties asynchronously fetched over the network_
 - [adrenaline](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 - [apollo-client](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [query](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue. 
+- [query](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### CSS / Style
 
@@ -943,7 +946,7 @@ _Internationalization / L10n / localization / translation_
 - [react-localized](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 - [react-translate-maker](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 - [react-intl-universal](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
-- [@tolgee/react](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop   
+- [@tolgee/react](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 - [js-lingui](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
 ### Framework bindings / integrations
@@ -974,7 +977,7 @@ _Internationalization / L10n / localization / translation_
 - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 - [react-slack-notification](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 - [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
-  
+
 ## Performance
 
 **[`Back to top ⬆️`](#table-of-contents)**
