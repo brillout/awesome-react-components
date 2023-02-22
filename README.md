@@ -908,17 +908,10 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
-- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
-- [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
-- [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
-- [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
-- [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
 - [rockpack](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
-- [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 - [phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 - [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
-- [express-react-boilerplate](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
 ### Miscellaneous
 
