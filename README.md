@@ -906,6 +906,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 - [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
 - [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
+- [PBandJ](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
 - [rockpack](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
