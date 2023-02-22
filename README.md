@@ -21,6 +21,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [UI Components](#ui-components)
@@ -166,7 +167,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 _Display overlay / modal / alert / dialog / lightbox / popup_
 
-- [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js 
+- [reboron](https://github.com/bold-commerce/reboron) - A collection of dialog animations with React.js
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
@@ -178,7 +179,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, ~3.5K. _(No refs / provider needed)_
 - [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 - [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [react-local-toast](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
@@ -186,7 +187,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
-- [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 
 ### Tooltip
 
@@ -215,6 +216,7 @@ _Fixed headers / scroll-up headers / sticky elements_
 - [react-tabtab](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
 ### Loader
+
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
 - [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
@@ -238,6 +240,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [swiper](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 ### Buttons
+
 - [react-awesome-button](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
 - [reactive-button](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
 
@@ -401,8 +404,8 @@ _Sketch input using Canvas or SVG_
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 - [@restpace/schema-form](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
-- [react-darkreader](https://github.com/Turkyden/react-darkreader) - 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
-- [react-apple-signin-auth](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
+- [react-darkreader](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
+- [react-apple-signin-auth](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ### Form Components
 
@@ -457,7 +460,7 @@ _Autosuggest / autocomplete / typeahead_
 - [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React.
 - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 - [react-column-select](https://github.com/chr-ge/react-column-select) - A column select component built for react.
-- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React 
+- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
 
 #### Color Picker
 
@@ -471,7 +474,7 @@ _Autosuggest / autocomplete / typeahead_
 - [@anatoliygatt/heart-switch](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
 - [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
-- [ui-switch](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component 
+- [ui-switch](https://github.com/yairEO/ui-switch) - The most complete _Toggle_ component
 
 #### Slider
 
@@ -520,7 +523,7 @@ _Let the user add multiple tags in a single input_
 - [react-dropzone](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-movable](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
-- [neodrag](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same 🔥
+- [neodrag](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same.
 
 #### Sortable List
 
@@ -538,7 +541,7 @@ _Let the user define an order on a list_
 - [edtr-io](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
-- [react-codemirror](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React. 
+- [react-codemirror](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
 - [react-editor](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
@@ -700,7 +703,7 @@ _Set of components + responsive layout system_
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
 - [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
-- [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
+- [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 - [refine](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
@@ -720,7 +723,7 @@ _Report computed styles_
 
 _Report when a component becomes visible/hidden_
 
-- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API. 
+- [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
 - [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 
@@ -863,7 +866,7 @@ _Component properties asynchronously fetched over the network_
 - [adrenaline](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 - [apollo-client](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [query](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue. 
+- [query](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
 ### CSS / Style
 
@@ -906,19 +909,13 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 - [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
 - [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
+- [PBandJ](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
-- [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
-- [reactuate](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
-- [redux-cli](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
-- [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
-- [roc](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
 - [rockpack](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
-- [universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 - [phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 - [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
-- [express-react-boilerplate](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
 ### Miscellaneous
 
@@ -927,7 +924,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
-- [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
+- [react-find](https://github.com/geobde/react-find) - Elegant, accessible search component for React.
 - [react-universal-hooks](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
 ## Utilities
@@ -949,7 +946,7 @@ _Internationalization / L10n / localization / translation_
 - [react-localized](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 - [react-translate-maker](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 - [react-intl-universal](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
-- [@tolgee/react](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop   
+- [@tolgee/react](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
 - [js-lingui](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
 ### Framework bindings / integrations
@@ -980,7 +977,7 @@ _Internationalization / L10n / localization / translation_
 - [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 - [react-slack-notification](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 - [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
-  
+
 ## Performance
 
 **[`Back to top ⬆️`](#table-of-contents)**
