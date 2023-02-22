@@ -179,7 +179,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
-- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, ~3.5K. _(No refs / provider needed 😊)_
+- [cogo-toast](https://github.com/Cogoport/cogo-toast) - [demo/docs](https://cogoport.github.io/cogo-toast) - Plug and play, Promise support, inbuilt styling, ~3.5K. _(No refs / provider needed)_
 - [react-notifications-component](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 - [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [react-local-toast](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
@@ -187,7 +187,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
-- [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 
 ### Tooltip
 
@@ -404,8 +404,8 @@ _Sketch input using Canvas or SVG_
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 - [@restpace/schema-form](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
-- [react-darkreader](https://github.com/Turkyden/react-darkreader) - 🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.
-- [react-apple-signin-auth](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
+- [react-darkreader](https://github.com/Turkyden/react-darkreader) - A React Hook for adding a dark / night mode to your site inspired by darkreader.
+- [react-apple-signin-auth](https://github.com/A-Tokyo/react-apple-signin-auth) - Apple signin for React using the official Apple JS SDK.
 
 ### Form Components
 
@@ -460,7 +460,7 @@ _Autosuggest / autocomplete / typeahead_
 - [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React.
 - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 - [react-column-select](https://github.com/chr-ge/react-column-select) - A column select component built for react.
-- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - ⚡️ A lightweight select component for React
+- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
 
 #### Color Picker
 
@@ -924,7 +924,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
-- [react-find](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
+- [react-find](https://github.com/geobde/react-find) - Elegant, accessible search component for React.
 - [react-universal-hooks](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
 ## Utilities
