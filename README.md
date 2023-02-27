@@ -833,6 +833,7 @@ _Data flow / data management / data stores / components state / data flow_
 
 _Component properties asynchronously fetched over the network_
 
+- [react-refetch](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
 - [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 - [axios-react](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
