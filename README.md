@@ -38,6 +38,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Buttons](#buttons)
   - [Collapse](#collapse)
   - [Chart](#chart)
+  - [Command palette](#command-palette)
   - [Tree](#tree)
   - [UI Navigation](#ui-navigation)
   - [Custom Scrollbar](#custom-scrollbar)
@@ -270,6 +271,10 @@ _Display data in charts / graphs / diagrams_
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+
+### Command palette
+
+- [kbar](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ### Tree
 
@@ -759,8 +764,6 @@ _Turn user input into actions_
 
 _Set meta tags, <title>, children of <head>_
 
-- [react-document-meta](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
-- [react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
 - [react-helmet-async](https://github.com/staylor/react-helmet-async#readme) - Thread-safe Helmet for React 16+ and friends
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React.
 
@@ -775,7 +778,6 @@ _Render an element at an arbitrary DOM node_
 
 _A/B tests, experiments, ..._
 
-- [react-ab](https://github.com/olahol/react-ab) - Simple declarative and universal A/B testing component for React.
 - [react-experiments](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 ## Code Design
@@ -788,27 +790,18 @@ _Libraries that help with code design_
 
 _Data flow / data management / data stores / components state / data flow_
 
-- [alt](https://github.com/goatslacker/alt) - Isomorphic flux implementation.
 - [baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [cerebral](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
 - [effector-react](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
-- [fluorine-lib](https://github.com/philpl/fluorine) - Reactive state and side effect management for React using a single stream of actions.
 - [fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
-- [fluxxor](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
 - [kea](https://github.com/mariusandra/kea) - High level architecture for React apps.
-- [mobx-react](https://github.com/mobxjs/mobx-react) - React bindings for MobX. Create fully reactive components.
 - [react-3ducks](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
-- [react-controllables](https://github.com/matthewwithanm/react-controllables) - Easily create controllable components.
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
-- [react-redux-provide](https://github.com/loggur/react-redux-provide) - Bridges the gap between Redux and the declarative nature of GraphQL/Relay.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Reducer + action to reduce actions under a single subscriber notification.
-- [redux-batched-subscribe](https://github.com/tappleby/redux-batched-subscribe) - Store enhancer for which allows batching subscribe notifications.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
-- [reflux](https://github.com/reflux/refluxjs) - A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux.
 - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
 - [resourcerer](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
-- [shasta](https://github.com/shastajs/shasta) - Dead simple + opinionated toolkit for building redux/react applications.
 - [synergies](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
 - [zustand](https://zustand.surge.sh/) - [docs](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
 - [teaful](https://github.com/teafuljs/teaful) - Tiny, easy and powerful React state management
@@ -819,7 +812,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [formik](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
 - [Phormal](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
-- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema.
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 - [react-client-validation](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
@@ -830,12 +822,10 @@ _Data flow / data management / data stores / components state / data flow_
 
 ### Router
 
-- [react-breadcrumbs](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
 - [react-router-component](https://github.com/STRML/react-router-component) - Declarative router component for React.
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - React Router scroll management.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
-- [redux-router](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
 - [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly ~1.3KB routing library. Nothing else but hooks.
 
@@ -843,18 +833,12 @@ _Data flow / data management / data stores / components state / data flow_
 
 _Component properties asynchronously fetched over the network_
 
-- [react-async](https://github.com/andreypopp/react-async) - Asynchronously fetch data for React components.
 - [react-refetch](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
-- [react-resolver](https://github.com/ericclemmons/react-resolver) - Async rendering &amp; data-fetching for universal React applications.
-- [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
-- [redial](https://github.com/markdalgleish/redial) - Universal data fetching and route lifecycle management for React etc.
-- [redux-async-connect](https://github.com/Rezonans/redux-async-connect) - Request async data, store in redux state, and connect to your component.
 - [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
 - [axios-react](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Communication with server
 
-- [adrenaline](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 - [apollo-client](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [query](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
@@ -864,10 +848,7 @@ _Component properties asynchronously fetched over the network_
 - [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
-- [paperclip](https://paperclip.dev) - [docs](https://paperclip.dev/docs/) - Build UI primitivites with plain HTML & CSS.
-- [radium](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
-- [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
@@ -875,13 +856,11 @@ _Component properties asynchronously fetched over the network_
 
 ### HTML Template
 
-- [hyperx](https://github.com/substack/hyperx) - Tagged template string virtual dom builder.
 - [jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX.
 
 ### Isomorphic Apps
 
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
-- [isomorphic-relay](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
 - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
 - [react-server](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load.
 - [rill](https://github.com/rill-js/rill) - Universal web application framework.
@@ -895,13 +874,10 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [crisp-react](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 - [cra-template-redux-auth-starter](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
-- [essential-react](https://github.com/pheuter/essential-react) - A minimal skeleton for building testable React apps using Babel.
-- [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack.
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 - [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
 - [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
 - [PBandJ](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
-- [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Quick packager-agnostic boilerplate for React modules using JSX.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
 - [rockpack](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
