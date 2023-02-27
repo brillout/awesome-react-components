@@ -38,6 +38,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Buttons](#buttons)
   - [Collapse](#collapse)
   - [Chart](#chart)
+  - [Command palette](#command-palette)
   - [Tree](#tree)
   - [UI Navigation](#ui-navigation)
   - [Custom Scrollbar](#custom-scrollbar)
@@ -270,6 +271,10 @@ _Display data in charts / graphs / diagrams_
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+
+### Command palette
+
+- [kbar](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ### Tree
 
