@@ -898,6 +898,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 **[`Back to top ⬆️`](#table-of-contents)**
 
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A &lt;QRCode/&gt; component for use with React.
+- [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-dependencies, customizable, animate-able, SVG-based `<qr-code>` element.
 - [react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
 - [react-media](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
 - [react-middle-ellipsis](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
