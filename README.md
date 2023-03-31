@@ -162,6 +162,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [af-virtual-scroll](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
 - [react-window](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
+- [virtua](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
 
 ### Overlay
 
@@ -564,7 +565,6 @@ _Let the user define an order on a list_
 
 _Image manipulation_
 
-- [react-avatar-cropper](https://github.com/DropsOfSerenity/react-avatar-cropper) - Aiming to be a complete solution for avatar cropping in react.
 - [react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
