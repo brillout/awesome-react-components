@@ -155,8 +155,8 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
-- Material-React-Table:A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
-https://github.com/KevinVandy/material-react-table
+- [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+- [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Infinite Scroll
 
@@ -995,8 +995,8 @@ _Internationalization / L10n / localization / translation_
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
 - [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
-- playwright:Playwright enables reliable end-to-end testing for modern web apps.
-https://github.com/microsoft/playwright
+- [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
+
 
 ### Redux
 
