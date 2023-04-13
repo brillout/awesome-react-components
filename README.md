@@ -995,8 +995,8 @@ _Internationalization / L10n / localization / translation_
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
 - [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
-- playwright:Playwright enables reliable end-to-end testing for modern web apps.
-https://github.com/microsoft/playwright
+- [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
+
 
 ### Redux
 
