@@ -156,6 +156,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 - [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+- [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Infinite Scroll
 
