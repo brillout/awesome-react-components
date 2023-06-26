@@ -106,6 +106,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Miscellaneous](#miscellaneous-2)
 - [Utilities](#utilities)
   - [i18n](#i18n)
+  - [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
   - [Framework bindings / integrations](#framework-bindings--integrations)
   - [Integrations with Third Party Services](#integrations-with-third-party-services)
 - [Performance](#performance)
