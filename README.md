@@ -345,6 +345,7 @@ _Display images / photos_
 - [react-particle-image](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 - [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 - [@frameright/react-image-display-control](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
+- [zoom-image](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
 
 ### Icons
 
