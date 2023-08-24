@@ -467,7 +467,7 @@ _Autosuggest / autocomplete / typeahead_
 
 - [react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button.
 - [react-functional-select](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
-- [react-select-box](https://github.com/instructure-react/react-select-box) - An accessible select box component for React.
+- [react-mobile-picker](https://github.com/adcentury/react-mobile-picker) - [demo](https://react-mobile-picker.vercel.app/) - An iOS like select box component.
 - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 - [react-column-select](https://github.com/chr-ge/react-column-select) - A column select component built for react.
 - [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
