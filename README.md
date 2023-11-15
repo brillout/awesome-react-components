@@ -190,6 +190,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
+- [Sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
 
 ### Tooltip
 
