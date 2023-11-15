@@ -282,6 +282,7 @@ _Display data in charts / graphs / diagrams_
 
 ### Command palette
 
+- [cmdk](https://cmdk.paco.me/) - Fast, composable, unstyled command menu for React.
 - [kbar](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ### Tree
