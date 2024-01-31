@@ -838,6 +838,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
 - [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly ~1.3KB routing library. Nothing else but hooks.
+- [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 ### Props from server
 
