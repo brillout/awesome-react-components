@@ -166,7 +166,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [@af-utils/virtual](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.vercel.app/virtual) - Render large scrollable lists and grids.
 - [react-window](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
-- [virtua](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - Simple, fast, small and flexible virtual scroller.
+- [virtua](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
 
 ### Overlay
 
