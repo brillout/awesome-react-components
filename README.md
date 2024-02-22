@@ -886,6 +886,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [cra-template-redux-auth-starter](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
 - [elegant](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
+- [extensive-react-boilerplate](https://github.com/brocoders/extensive-react-boilerplate) - Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 - [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
 - [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
