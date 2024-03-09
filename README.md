@@ -292,6 +292,7 @@ _Display a tree data structure_
 - [react-arborist](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 - [react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
+- [he-tree-react](https://github.com/phphe/he-tree-react) - [demo](https://he-tree-react.phphe.com/v1/examples) - [docs](https://he-tree-react.phphe.com/) - Tree, customizable UI, flat data, tree data, drag-n-drop, placeholder for drop, foldable, checkbox, virtualized.
 
 ### UI Navigation
 
