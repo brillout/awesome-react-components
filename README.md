@@ -830,6 +830,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-formawesome](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 - [surveyjs](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
 - [Formily](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+- [hook-form-react](https://github.com/luoanb/hook-form-react) - [docs](https://luoanb.github.io/hook-form-react) - A lightweight, dependency-free solution React hooks for form validation.
 
 ### Router
 
