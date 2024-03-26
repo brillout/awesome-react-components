@@ -21,6 +21,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [UI Components](#ui-components)
@@ -325,7 +326,6 @@ _Ways to navigate views_
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
-- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
 
 ### Time / Date / Age
@@ -1007,7 +1007,6 @@ _Internationalization / L10n / localization / translation_
 - [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
-
 
 ### Redux
 
