@@ -805,6 +805,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [cerebral](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
 - [effector-react](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 - [fireproof](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
+- [RxDB](https://rxdb.info/) - [demo](https://github.com/pubkey/rxdb/tree/master/examples/react) - [docs](https://rxdb.info/quickstart.html) A fast, local first, reactive Database for JavaScript Applications
 - [fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [kea](https://github.com/mariusandra/kea) - High level architecture for React apps.
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
