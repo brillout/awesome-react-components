@@ -13,7 +13,7 @@ commentary and reviews in _(italic parens)_ after some listings of note.
 Maintainers:
 
 - [@petebray](https://github.com/bluepeter), author of [Fluxguard](https://fluxguard.com) &mdash; monitor PROD website changes.
-- [@brillout](https://twitter.com/brillout), author of [Vike](https://vike.dev) &mdash; a fast Vite-based React framework that is flexible, lean, reliable, and community-driven.
+- [@brillout](https://twitter.com/brillout), author of [Vike](https://vike.dev) &mdash; a fast Vite-based React framework that is flexible, lean, community-driven and dependable.
 
 See also [Awesome React Frameworks](https://github.com/brillout/awesome-react-frameworks).
 
