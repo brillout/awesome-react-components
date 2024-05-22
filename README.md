@@ -10,12 +10,12 @@ every React component under the sun. So, what does "awesome" mean? Well:
 Look for a 🚀 for truly amazing projects. And look for quickie maintainer
 commentary and reviews in _(italic parens)_ after some listings of note.
 
+See also: [Awesome React Frameworks](https://github.com/brillout/awesome-react-frameworks).
+
 Maintainers:
 
 - [@petebray](https://github.com/bluepeter), author of [Fluxguard](https://fluxguard.com) &mdash; monitor PROD website changes.
 - [@brillout](https://twitter.com/brillout), author of [Vike](https://vike.dev) &mdash; a fast Vite-based React framework that is flexible, lean, community-driven and dependable.
-
-See also [Awesome React Frameworks](https://github.com/brillout/awesome-react-frameworks).
 
 ### Contributing
 
