@@ -36,6 +36,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Sticky](#sticky)
   - [Tabs](#tabs)
   - [Loader](#loader)
+  - [Captcha](#captcha)
   - [Carousel](#carousel)
   - [Buttons](#buttons)
   - [Collapse](#collapse)
@@ -52,6 +53,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
   - [Paginator](#paginator)
   - [Markdown Viewer](#markdown-viewer)
   - [Canvas](#canvas)
+  - [Screenshot](#screenshot)
   - [Miscellaneous](#miscellaneous)
   - [Form Components](#form-components)
     - [Date / Time picker](#date--time-picker)
@@ -230,6 +232,11 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
 
+### Captcha
+
+- [react-simple-captcha](https://github.com/masroorejaz/react-simple-captcha) - [npm](https://www.npmjs.com/package/react-simple-captcha) - [demo](https://www.scriptse.com/blog/add-captcha-in-reactjs-application/react-simple-captcha-demo/) - React Simple Captcha is a very powerful, highly customizable and easy to use captcha for React JS.
+- [procaptcha](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
+
 ### Carousel
 
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
@@ -388,10 +395,13 @@ _Sketch input using Canvas or SVG_
 - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 - [react-heat-map](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
+### Screenshot
+
+- [urlbox](https://github.com/urlbox/urlbox-node) - Quickly generate screenshots, PDFs and other renders using the urlbox screenshot as a service API.
+
 ### Miscellaneous
 
 - [puck](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
-- [procaptcha](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
 - [react-advanced-news-ticker](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
