@@ -661,7 +661,7 @@ _Animate transitions_
 
 ### Parallax
 
-- [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript on images
+- [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) - [demo](https://simpleparallax.com) - The easiest way to get a parallax effect with React and JavaScript on images
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
 
 ## UI Frameworks
