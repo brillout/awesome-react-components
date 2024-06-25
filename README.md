@@ -397,7 +397,6 @@ _Sketch input using Canvas or SVG_
 
 ### Screenshot
 
-- [urlbox](https://github.com/urlbox/urlbox-node) - Quickly generate screenshots, PDFs and other renders using the urlbox screenshot as a service API.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Take screenshots of any part of your web page using Javascript.
 
 ### Miscellaneous
