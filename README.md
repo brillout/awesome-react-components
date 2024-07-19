@@ -192,7 +192,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [react-toast](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
-- [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 - [Sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
 
@@ -205,6 +204,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 _Menus / sidebars_
 
 - [hamburger-react](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+- [navbar-153](https://github.com/wswmsword/navbar-153) - [demo](https://wswmsword.github.io/examples/navbar-153/en) - Animated, accessible, customizable navigation menu component.
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
 - [react-planet](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
