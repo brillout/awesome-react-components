@@ -322,7 +322,7 @@ _Ways to navigate views_
 - [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 - [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
-- [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
+- [@streamspark/react-video-player](https://github.com/arun59ay/react-video-player) - [demo](https://stackblitz.com/github/arun59ay/react-video-player) - Customizable video player with subtitles, thumbnail previews, and keyboard shortcuts.
 - [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
 - [react-vision-camera](https://github.com/xulihang/react-vision-camera) - Camera component for React using getUserMedia. We can use this component for computer vision tasks like barcode scanning, text recognition, etc.
 - [react-barcode-qrcode-scanner](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
