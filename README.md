@@ -288,6 +288,7 @@ _Display data in charts / graphs / diagrams_
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+- [lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components) - [demo](https://ukorvl.github.io/lightweight-charts-react-components/) - React wrapper for Lightweight charts library by TradingView.
 
 ### Command palette
 
