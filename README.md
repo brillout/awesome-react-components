@@ -138,7 +138,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 - [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
 - [AG Grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
-- [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [MUI X Data grid](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 - [revo-grid](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
@@ -149,6 +148,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 - [ka-table](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 - [mantine-datatable](https://github.com/icflorescu/mantine-datatable) - [demo/docs](https://icflorescu.github.io/mantine-datatable/) - Lightweight table component for Mantine UI applications, with lots of features
+- [tambo](https://github.com/tambo-ai/tambo) - [demo](https://tambo.co) - [docs](https://docs.tambo.co) - SDK for building generative UIs with MCP support.
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 - [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
