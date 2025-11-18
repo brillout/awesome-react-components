@@ -163,6 +163,10 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 - [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
+### AI Assistant
+
+- [tambo](https://github.com/tambo-ai/tambo) - [demo](https://tambo.co) - [docs](https://docs.tambo.co) - SDK for building generative UIs with MCP support.
+
 ### Infinite Scroll
 
 - [@egjs/react-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
