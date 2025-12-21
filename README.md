@@ -195,9 +195,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 - [Sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
-- [react-confirm-lite](https://github.com/SaadNasir-git/react-confirm-lite) — ✨ A lightweight, promise-based confirm dialog for React.  
-  Easy to use and fully customizable confirm modal with built-in CSS, dark mode support, optional render-prop API, and no dependencies.  
-  🔗 **npm package:** https://www.npmjs.com/package/react-confirm-lite
+- [react-confirm-lite](https://github.com/SaadNasir-git/react-confirm-lite) — A lightweight, promise-based confirm dialog for React with built-in Tailwind CSS support. Designed to be as easy to use as `react-toastify`, while remaining fully customizable.
 
 ### Tooltip
 
