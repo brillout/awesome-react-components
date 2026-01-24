@@ -875,7 +875,7 @@ _Component properties asynchronously fetched over the network_
 - [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
-- [@classmatejs/react](https://github.com/richard-unterberg/classmatejs/tree/master/packages/react) - A class name focused component builder with a syntax like styled components and the sugar of cva's variants. There is also a solidjs adapter
+- [@classmatejs/react](https://github.com/richard-unterberg/classmatejs/tree/master/packages/react) - A class name focused component builder with a syntax like styled components and the sugar of cva's variants.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
