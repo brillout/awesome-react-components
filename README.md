@@ -605,7 +605,7 @@ _Image manipulation_
 - [formsy-react-components](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
 - [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs.
-
+- - [React Redux Form Builder](https://react-redux-form-builder.vercel.app/) - Complete form building solution with 7+ field types, smart derived fields, drag-and-drop reordering, and real-time preview. Zero backend required.
 #### Miscellaneous
 
 - [@anatoliygatt/numeric-stepper](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
