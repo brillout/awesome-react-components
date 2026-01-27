@@ -136,14 +136,17 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Editable data grid / spreadsheet
 
-- [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
 - [AG Grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
+- [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
 - [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
+- [Handsontable](https://github.com/handsontable/handsontable) - [demo](https://handsontable.com/demo) - [docs](https://handsontable.com/docs/react-data-grid/) - Data Grid with spreadsheet-like UI supporting React, Angular, TypeScript and JavaScript.
+- [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
 - [MUI X Data grid](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - Excel-like grid.
-- [revo-grid](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
 - [ReactGrid](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
-- [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
+- [revo-grid](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
+- [SheetXL](https://github.com/sheetxl/sheetxl) – A high-performance spreadsheet grid. TypeScript, ESM, Node/browser, Excel-compatible functions.
+- [SVAR React DataGrid](https://svar.dev/react/datagrid/) - [demo](https://docs.svar.dev/react/grid/samples/#/base/willow) - [docs](https://docs.svar.dev/react/grid/getting_started/) - React DataGrid with in-cell editing, tree data, context menu, virtual scrolling, etc.
 
 ### Table
 
@@ -155,13 +158,13 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [TanStack Table](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
 - [react-table-library](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
-- [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
 - [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
+- [simple-table](https://github.com/petera2c/simple-table) - [demo](https://www.simple-table.com/examples) - [docs](https://www.simple-table.com/docs) - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.
+
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 - [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
-- [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Infinite Scroll
 
@@ -178,6 +181,7 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
+- [@paratco/async-modal](https://github.com/Paratco/async-modal) - Simple async modal handler for React.
 - [reoverlay](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
@@ -191,8 +195,8 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [react-local-toast](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 - [react-toast](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+- [react-confirm-lite](https://github.com/SaadNasir-git/react-confirm-lite) - [demo](https://stackblitz.com/edit/vitejs-vite-bfthlpmw) - is a lightweight, promise-based confirmation dialog for React with built-in Tailwind CSS support. It’s designed to be as simple to use as react-toastify, while remaining fully customizable.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
-- [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 - [Sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
 
@@ -264,18 +268,16 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 _Display data in charts / graphs / diagrams_
 
-- [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
 - [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
+- [EazyChart](https://github.com/Hexastack/eazychart) - [demo](https://docs.eazychart.com/#demos) - [docs](https://docs.eazychart.com) - Easily transform data into meaningful charts
 - [echarts for react](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 - [jscharting-react](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 - [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming.
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
-- [react-dazzle](https://github.com/Raathigesh/Dazzle) - Dashboards made easy in React JS.
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
-- [react-sigmajs](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
@@ -283,6 +285,7 @@ _Display data in charts / graphs / diagrams_
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
+- [SVAR React Gantt](https://svar.dev/react/gantt/) - [demo](https://docs.svar.dev/react/gantt/samples/#/base/willow) - [docs](https://docs.svar.dev/react/gantt/getting_started/) - Customizable, interactive Gantt chart component
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
@@ -298,9 +301,9 @@ _Display data in charts / graphs / diagrams_
 
 _Display a tree data structure_
 
+- [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - [demo](https://carlosnz.github.io/json-edit-react/) - Highly configurable JSON/Object tree viewer and editor
 - [react-arborist](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
-- [react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
 - [he-tree-react](https://github.com/phphe/he-tree-react) - [demo](https://he-tree-react.phphe.com/v1/examples) - [docs](https://he-tree-react.phphe.com/) - Tree, customizable UI, flat data, tree data, drag-n-drop, placeholder for drop, foldable, checkbox, virtualized.
 
 ### UI Navigation
@@ -330,6 +333,7 @@ _Ways to navigate views_
 ### Map
 
 - [google-map-react](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
+- [mapkit](https://github.com/1amageek/mapkit) - A library for integrating Apple Maps using MapKit JS, with annotations, overlays, and search.
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
@@ -359,6 +363,7 @@ _Display images / photos_
 - [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 - [@frameright/react-image-display-control](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 - [zoom-image](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
+- [react-infinite-gallery](https://github.com/AlirezaAzizi145/react-infinite-gallery) – Infinite-scroll image gallery component for React apps.
 
 ### Icons
 
@@ -407,7 +412,6 @@ _Sketch input using Canvas or SVG_
 - [react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - [demo](https://ukrbublik.github.io/react-awesome-query-builder/) - Visual query builder from form fields, with SQL, MongoDB and JSON export
 - [react-blur](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
 - [react-demo-tab](https://github.com/mkosir/react-demo-tab) - [demo](https://mkosir.github.io/react-demo-tab) - A React component to easily create demos of other components.
-- [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
 - [fastcomments-react](https://github.com/fastcomments/fastcomments-react) - [demo](<https://blog.fastcomments.com/(12-30-2019)-fastcomments-demo.html>) - FastComments component for embedding a live comment thread on a page or SPA.
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
@@ -620,11 +624,11 @@ _Image manipulation_
 _Components to layout the app's UI_
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
-- [golden-layout](https://github.com/deepstreamIO/golden-layout) - A multi-screen JavaScript Layout manager.
 - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [react-layman](https://github.com/Jeshwin/react-layman) - [demo](https://jeshwin.github.io/react-layman/) - Dynamic tiling layout manager with tabs
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
 - [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
@@ -672,7 +676,6 @@ _Animate transitions_
 
 _Set of components + responsive layout system_
 
-- [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular!
 - [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from _badge_ to _tree table_.
 - [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
@@ -683,9 +686,9 @@ _Set of components + responsive layout system_
 - [CoreUI for React](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 - [evergreen](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
 - [fluentui](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
-- [geist-ui](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
+- [kokonut-ui](https://github.com/kokonut-labs/kokonutui) - Free Modern and Customizable UI components.
 - [Mantine](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 - [orbit](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
 - [flowbite-react](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
@@ -697,8 +700,10 @@ _Set of components + responsive layout system_
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 - [semi-design](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. 
+- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
+- [Tremor](https://github.com/tremorlabs/tremor-raw) - [demo](https://tremor.so/charts) - [docs](https://tremor.so/docs/getting-started/installation) - Open-source components to build charts and dashboards.
+- [untitled-ui-react](https://github.com/untitleduico/react) - [demo](https://www.untitledui.com/react/) - Beautifully crafted collection of components built with React Aria and Tailwind CSS.
 
 #### Material Design
 
@@ -731,6 +736,8 @@ _Set of components + responsive layout system_
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 - [ruixen-ui](https://github.com/ruixen/ruixen-ui) - [demo](https://www.ruixen.com) - [portfolio](https://portfolio-ruixens-projects.vercel.app/) - Modern UI components with Three.js animations, dark mode, and SEO-optimized templates built on Next.js and Tailwind CSS.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
+- [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
+- [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - [docs](https://tailwind-admin.com/components) - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.
 
 ## UI Utilities
 
@@ -875,6 +882,7 @@ _Component properties asynchronously fetched over the network_
 - [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
+- [@classmatejs/react](https://github.com/richard-unterberg/classmatejs/tree/master/packages/react) - A class name focused component builder with a syntax like styled components and the sugar of cva's variants.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
@@ -912,11 +920,14 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 - [phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 - [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+- [Tailwindadmin](https://tailwind-admin.com/) - Free Shadcn Dashboard Template Built On React and Tailwind CSS comes with Multiple-framework support
 
 ### Miscellaneous
 
 - [react-inlinesvg](https://github.com/matthewwithanm/react-inlinesvg) - An SVG loader component for ReactJS.
 - [react-godfather](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
+- [react-vvm](https://github.com/behnamrhp/React-VVM) - A new approach to MVVM in React, to enforce clean separation of concerns, reduce boilerplate, and automatic re-render optimization for scalable UI logic.
+- [react-call](https://github.com/desko27/react-call) - Call your React components.
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
@@ -1013,7 +1024,6 @@ _Internationalization / L10n / localization / translation_
 
 ### Test
 
-- [chai-enzyme](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [jest-cli](https://github.com/facebook/jest) - Painless JavaScript Testing.
 - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
@@ -1021,7 +1031,6 @@ _Internationalization / L10n / localization / translation_
 - [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
-
 
 ### Redux
 
@@ -1037,8 +1046,8 @@ _Internationalization / L10n / localization / translation_
 
 - [fluxguard](https://fluxguard.com) - PROD change monitoring that highlights all DOM + design changes.
 - [react-inspector](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
-- [react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component.
 - [reactotron](https://github.com/reactotron/reactotron) - A CLI and OS X app for inspecting your React JS and React Native apps.
+- [Tail Lens](https://taillens.io) - Tailwind editor in browser : Inspect, edit, preview, copy.
 
 ### Miscellaneous
 
@@ -1062,7 +1071,7 @@ _Internationalization / L10n / localization / translation_
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [jsondiffpatch-react](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
-- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library. 
+- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library.
 
 ### Static Website Generator
 
