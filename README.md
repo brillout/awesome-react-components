@@ -356,14 +356,13 @@ _Display images / photos_
 - [react-compare-image](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
-- [react-intense](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close.
 - [react-photo-album](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 - [react-particle-image](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 - [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
+- [react-logo-soup](https://github.com/sanity-labs/react-logo-soup) - Automatically normalizes and harmonizes logos so they look visually balanced when displayed together.
 - [@frameright/react-image-display-control](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 - [zoom-image](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
-- [react-infinite-gallery](https://github.com/AlirezaAzizi145/react-infinite-gallery) – Infinite-scroll image gallery component for React apps.
 
 ### Icons
 
