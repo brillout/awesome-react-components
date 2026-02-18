@@ -1028,6 +1028,7 @@ _Internationalization / L10n / localization / translation_
 - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
 - [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
+- [sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
