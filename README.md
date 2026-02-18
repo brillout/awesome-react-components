@@ -1058,6 +1058,7 @@ _Internationalization / L10n / localization / translation_
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 - [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
+- [frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent in your browser with click-to-edit and hot reload.
 
 ## Miscellaneous
 
