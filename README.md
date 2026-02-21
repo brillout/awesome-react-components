@@ -704,6 +704,7 @@ _Set of components + responsive layout system_
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 - [Tremor](https://github.com/tremorlabs/tremor-raw) - [demo](https://tremor.so/charts) - [docs](https://tremor.so/docs/getting-started/installation) - Open-source components to build charts and dashboards.
 - [untitled-ui-react](https://github.com/untitleduico/react) - [demo](https://www.untitledui.com/react/) - Beautifully crafted collection of components built with React Aria and Tailwind CSS.
+- [Shadcn Space](https://github.com/shadcnspace/shadcnspace) - [demo](https://shadcnspace.com/) - Open-source shadcn/ui blocks, components, and layouts built with React, Tailwind, and Base UI.
 
 #### Material Design
 
