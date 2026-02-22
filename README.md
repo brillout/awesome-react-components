@@ -179,6 +179,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 _Display overlay / modal / alert / dialog / lightbox / popup_
 
+- [modal-layout-component](https://github.com/ArtemZhyto/Modal-layout-component) - Lightweight, headless modal engine for React/Next.js with focus trapping and body scroll locking.
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [@paratco/async-modal](https://github.com/Paratco/async-modal) - Simple async modal handler for React.
