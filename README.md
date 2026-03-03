@@ -136,9 +136,9 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 ### Editable data grid / spreadsheet
 
+- [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - [demo](https://spreadsheet.witqq.dev/) - [docs](https://spreadsheet.witqq.dev/getting-started/) - Canvas-based spreadsheet engine with zero dependencies, 100K+ rows at 60fps, sorting, filtering, formulas, and real-time collaboration.
 - [AG Grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 - [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
-- [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [Handsontable](https://github.com/handsontable/handsontable) - [demo](https://handsontable.com/demo) - [docs](https://handsontable.com/docs/react-data-grid/) - Data Grid with spreadsheet-like UI supporting React, Angular, TypeScript and JavaScript.
 - [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
 - [MUI X Data grid](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
