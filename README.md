@@ -449,7 +449,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 - [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
-- [react-simple-timefield](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
+- [react-tailwindcss-datetimepicker](https://github.com/mohsentaleb/react-tailwindcss-datetimepicker) - TailwindCSS-styled datetime picker with range, presets, TypeScript, keyboard nav.
 - [react-timezone-select](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 - [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
 - [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
