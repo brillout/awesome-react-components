@@ -291,6 +291,7 @@ _Display data in charts / graphs / diagrams_
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+- [igotfomo-ticker](https://igotfomo.com/widgets/) - [demo](https://igotfomo.com/widgets/) - Free live stock ticker widget showing real-time S&P 500, NASDAQ, DOW, Bitcoin, Ethereum prices. Shadow DOM isolated, auto dark/light theme, one-line embed.
 
 ### Command palette
 
