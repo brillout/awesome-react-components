@@ -290,6 +290,7 @@ _Display data in charts / graphs / diagrams_
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+- [Calcstack](https://calcstack.co/) - AI-powered diagram generator with Excalidraw, React Flow, and Draw.io canvas engines. Supports flowcharts, architecture diagrams, ERDs, mind maps, and more with auto-layout.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
 
 ### Command palette
