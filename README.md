@@ -1030,6 +1030,7 @@ _Internationalization / L10n / localization / translation_
 - [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
+- [ratedwithai](https://www.ratedwithai.com) - Free accessibility testing tool for React applications. Scan your React apps for WCAG compliance and get detailed reports with actionable fixes.
 
 ### Redux
 
