@@ -243,6 +243,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 ### Carousel
 
+- [card-gallery-swiper](https://github.com/ArmineInants/card-gallery-swiper)) - [npm](https://www.npmjs.com/package/card-gallery-swiper) - [demo](https://card-gallery-swiper.vercel.app/) – Container-aligned card gallery with horizontal scroll, navigation buttons, and modal carousel.
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
 - [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - [demo](https://fullpage.caferati.me/) - Fullpage, 3D animated, 60fps media and content slider/carousel.
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
@@ -352,6 +353,7 @@ _Display time / date / age_
 
 _Display images / photos_
 
+- [card-gallery-swiper](https://github.com/ArmineInants/card-gallery-swiper)) - [npm](https://www.npmjs.com/package/card-gallery-swiper) - [demo](https://card-gallery-swiper.vercel.app/) – Container-aligned card image gallery with horizontal scroll, navigation buttons, and modal carousel.
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
 - [react-compare-image](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
