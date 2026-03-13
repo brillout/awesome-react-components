@@ -344,6 +344,7 @@ _Ways to navigate views_
 
 _Display time / date / age_
 
+- [react-calendar-datetime](https://github.com/kirilinsky/react-calendar-datetime) - calendar + date-time picker with built-in themes and i18n.
 - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 - [timeago-react](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 - [react-google-flight-datepicker](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
