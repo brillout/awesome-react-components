@@ -295,6 +295,7 @@ _Display data in charts / graphs / diagrams_
 ### Command palette
 
 - [cmdk](https://cmdk.paco.me/) - Fast, composable, unstyled command menu for React.
+- [cmdk-engine](https://github.com/Priyans-hu/cmdk-engine) - [docs](https://priyans-hu.github.io/cmdk-engine) - Smart command palette engine with route auto-discovery, frecency ranking, RBAC filtering, and fuzzy search with synonyms.
 - [kbar](https://github.com/timc1/kbar) - [demo](https://kbar.vercel.app) - Fast, portable, and extensible cmd+k interface.
 
 ### Tree
