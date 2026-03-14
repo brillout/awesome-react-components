@@ -465,12 +465,12 @@ _Date picker / time picker / datetime picker / date range picker_
 
 _Masked inputs, specialized inputs; email / telephone number / credit card / etc._
 
-- [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms.
 - [react-payment-inputs](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - [demo](http://sanniassin.github.io/react-input-mask/demo.html) - Yet another react component for input masking.
 - [@lunasec/react-sdk](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
 - [react-numpad](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 - [react-multi-email](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
+- [react-smart-email-input](https://github.com/yahyalazrek/react-smart-email-input) - [demo](https://emailguard.lazrek.net/) - Drop-in email input that pings live MX records, blocks disposable domains, and suggests corrections for typos.
 
 #### Autocomplete
 
