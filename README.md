@@ -334,7 +334,7 @@ _Ways to navigate views_
 
 - [google-map-react](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
 - [mapkit](https://github.com/1amageek/mapkit) - A library for integrating Apple Maps using MapKit JS, with annotations, overlays, and search.
-- [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - [demo](https://mapatlas.eu/demos/holiday-stays) - [docs](https://mapatlas.eu/docs) - Mapbox GL JS-compatible mapping library with tiles, geocoding, routing, and search.
+- [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - [demo](https://mapatlas.eu/products-services/holiday-stays) - [docs](https://docs.mapatlas.xyz) - Mapbox GL JS-compatible mapping library with tiles, geocoding, routing, and search.
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
