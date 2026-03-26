@@ -272,10 +272,10 @@ _Display data in charts / graphs / diagrams_
 - [EazyChart](https://github.com/Hexastack/eazychart) - [demo](https://docs.eazychart.com/#demos) - [docs](https://docs.eazychart.com) - Easily transform data into meaningful charts
 - [echarts for react](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 - [jscharting-react](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+- [metricui](https://github.com/mpmcgowen/metricui) - [demo](https://metricui.com/demos) - [docs](https://metricui.com/docs) - Dashboard component library with KPI cards, charts, tables, and built-in formatting, theming, and data states.
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 - [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming.
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
-- [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
