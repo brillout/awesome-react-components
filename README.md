@@ -147,6 +147,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [revo-grid](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
 - [SheetXL](https://github.com/sheetxl/sheetxl) – A high-performance spreadsheet grid. TypeScript, ESM, Node/browser, Excel-compatible functions.
 - [SVAR React DataGrid](https://svar.dev/react/datagrid/) - [demo](https://docs.svar.dev/react/grid/samples/#/base/willow) - [docs](https://docs.svar.dev/react/grid/getting_started/) - React DataGrid with in-cell editing, tree data, context menu, virtual scrolling, etc.
+- [RG Grid](rg-grid.vercel.app) - Production-grade React data grid with audit trail, workflow states, and rules engine. Free alternative to AG Grid Enterprise.
 
 ### Table
 
@@ -165,6 +166,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 - [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
+- [RGGrid](rg-grid.vercel.app) - Production-grade React data grid with audit trail, workflow states, and rules engine. Free alternative to AG Grid Enterprise.
 
 ### Infinite Scroll
 
