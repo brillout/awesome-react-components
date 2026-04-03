@@ -899,6 +899,7 @@ _Component properties asynchronously fetched over the network_
 - [react-server](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load.
 - [rill](https://github.com/rill-js/rill) - Universal web application framework.
 - [webpack-isomorphic-tools](https://github.com/halt-hammerzeit/webpack-isomorphic-tools) - Server-side rendering for your Webpack-built applications (e.g. React).
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. 10 languages, offline PWA.
 
 ### Boilerplate
 
