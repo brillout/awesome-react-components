@@ -658,6 +658,7 @@ _Animate transitions_
 - [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
 - [react-transitive-number](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
+- [smoothui](https://github.com/educlopez/smoothui) - [demo](https://smoothui.dev/) - [docs](https://smoothui.dev/docs/guides) - 75+ beautifully animated React components with Motion, shadcn/ui compatible.
 - [auto-size-transition](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
 - [react-particles-bg](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 - [gooey-react](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
@@ -728,7 +729,6 @@ _Set of components + responsive layout system_
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
