@@ -753,6 +753,7 @@ _Report when a component becomes visible/hidden_
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
 - [react-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
+- [overflow-guard-react](https://github.com/arturmarc/overflow-guard) - A React component to detect when content overflows and render a fallback UI.
 
 #### Measurement Reporter
 
