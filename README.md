@@ -278,7 +278,7 @@ _Display data in charts / graphs / diagrams_
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 - [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
-- [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
+- [dxcharts-lite](https://github.com/devexperts/dxcharts-lite) - Flexible financial charting library based on HTML5 canvas.
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
