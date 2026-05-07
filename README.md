@@ -445,6 +445,7 @@ _Let the user enter data_
 _Date picker / time picker / datetime picker / date range picker_
 
 - [date-range-picker](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
+- [@kalyx/react](https://github.com/jiji-hoon96/kalyx) - Headless date/range/time/month/year/week pickers under one composition API. ISO 8601 UTC values, IANA timezone-safe, ~13.6 KB gzip.
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
