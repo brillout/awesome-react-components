@@ -691,6 +691,7 @@ _Set of components + responsive layout system_
 - [kokonut-ui](https://github.com/kokonut-labs/kokonutui) - Free Modern and Customizable UI components.
 - [Mantine](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 - [orbit](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
+- [OTF UI](https://www.npmjs.com/package/@otfdashkit/ui) - [demo](https://otf-kit.dev/components) - [docs](https://otf-kit.dev/docs) - Cross-platform component library with one parity API for Next.js (Radix + Tailwind v4) and Expo (Tamagui). MIT, npm-installable.
 - [flowbite-react](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 - [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
@@ -714,7 +715,6 @@ _Set of components + responsive layout system_
   - [Slider](https://mui.com/material-ui/react-slider/) - Accessible slider component.
   - [Table](https://mui.com/material-ui/react-table/) - table with sorting, selecting, pagination, virtualized.
   - [Tree View](https://mui.com/material-ui/react-tree-view/) - Accessible tree view component for React.
-- [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
 - [mdbootstrap](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
