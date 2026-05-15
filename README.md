@@ -885,6 +885,7 @@ _Component properties asynchronously fetched over the network_
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
+- [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) - Complete SSR-safe responsive toolkit — typed breakpoints, fluid typography, container queries across 8 frameworks.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 - [stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 
