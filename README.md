@@ -566,6 +566,7 @@ _Let the user define an order on a list_
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [edtr-io](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
+- [mutxt-react](https://github.com/streamich/json-joy/tree/master/packages/mutxt-react) - [demo](https://mutxt.com)  - a polished full blown collaboration-enabled rich-text in one React component
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
 - [react-codemirror](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
