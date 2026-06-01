@@ -426,9 +426,9 @@ _Sketch input using Canvas or SVG_
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [react-swipeable-list](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+- [shadcn-motion-blocks](https://componentblocks.com) - [demo](https://componentblocks.com) - Animated marketing block library for shadcn/ui + Tailwind 4. Covers heroes, pricing tables, CTAs, and animated backgrounds. Framer Motion + Lenis included with prefers-reduced-motion support.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
-- [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 - [@restpace/schema-form](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
