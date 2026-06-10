@@ -240,6 +240,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 - [react-simple-captcha](https://github.com/masroorejaz/react-simple-captcha) - [npm](https://www.npmjs.com/package/react-simple-captcha) - [demo](https://www.scriptse.com/blog/add-captcha-in-reactjs-application/react-simple-captcha-demo/) - React Simple Captcha is a very powerful, highly customizable and easy to use captcha for React JS.
 - [procaptcha](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
+- [Conversion.Business Gamified Captcha](https://github.com/oops-games-llc/conversionhub-integration-examples)) - Physics-based micro-game authentication designed to replace traditional image-recognition captchas.
 
 ### Carousel
 
