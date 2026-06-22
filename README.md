@@ -1084,4 +1084,4 @@ _Internationalization / L10n / localization / translation_
 
 - [BCMS](https://github.com/bcms/cms) - API-based, open-source, self-hostable content management system for Gatsby, Nuxt and Next.
 - [crisp-bigquery](https://github.com/winwiz1/crisp-bigquery) - Full stack Google BigQuery with Express in TypeScript.
-- [react-server-routing-example](https://github.com/mhart/react-server-routing-example) - Universal client/server routing and data with AWS DynamoDB.
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - [demo](https://demo.unfoldcms.com) - [docs](https://unfoldcms.com/docs) - Self-hosted CMS with a React 19 + shadcn/ui admin panel, REST API v1, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.
