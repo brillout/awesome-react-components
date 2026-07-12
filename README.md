@@ -486,7 +486,7 @@ _Autosuggest / autocomplete / typeahead_
 - [react-mobile-picker](https://github.com/adcentury/react-mobile-picker) - [demo](https://react-mobile-picker.vercel.app/) - An iOS like select box component.
 - [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS.
 - [react-column-select](https://github.com/chr-ge/react-column-select) - A column select component built for react.
-- [react-select-search](https://github.com/tbleckert/react-select-search) - [demo](https://react-select-search.com/) - A lightweight select component for React
+- [react-select-search](https://github.com/tbleckert/react-select-search) - A lightweight select component for React
 
 #### Color Picker
 
