@@ -196,6 +196,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [react-toast](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 - [react-confirm-lite](https://github.com/SaadNasir-git/react-confirm-lite) - [demo](https://stackblitz.com/edit/vitejs-vite-bfthlpmw) - is a lightweight, promise-based confirmation dialog for React with built-in Tailwind CSS support. It’s designed to be as simple to use as react-toastify, while remaining fully customizable.
+- [Chimely (@chimely/react)](https://github.com/dodopayments/chimely) - Drop-in `<Inbox />` React component for an in-app notification inbox, backed by open-source self-hostable notification infrastructure (Rust + Postgres + Redis). Self-hosted alternative to Knock, Courier, MagicBell, and Novu inbox components.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
 - [Sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
