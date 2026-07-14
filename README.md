@@ -369,7 +369,7 @@ _Display images / photos_
 
 _Display icons / icon set / emojis_
 
-- [GeoIcons](https://github.com/getgeoicons/geoicons) - [demo](https://geoicons.io/icons) - [docs](https://geoicons.io/docs) - Geographic map icons for every country, territory, and world region, as tree-shakeable SVG components.
+- [GeoIcons](https://github.com/getgeoicons/geoicons) - [demo](https://geoicons.io/icons) - [docs](https://geoicons.io/docs) - Geographic map icons for every country, territory, and world region, as tree-shakable SVG components.
 - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
