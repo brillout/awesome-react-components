@@ -406,6 +406,7 @@ _Sketch input using Canvas or SVG_
 
 ### Miscellaneous
 
+- [datalogic-ui](https://github.com/GoPlasmatic/datalogic-rs/tree/main/ui) - [demo](https://goplasmatic.github.io/datalogic-rs/playground/) - [docs](https://goplasmatic.github.io/datalogic-rs/react-ui/installation.html) - Visual node-based editor and step-through debugger for JSONLogic rules, evaluated in the browser via WebAssembly.
 - [puck](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
 - [react-advanced-news-ticker](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
@@ -415,7 +416,6 @@ _Sketch input using Canvas or SVG_
 - [fastcomments-react](https://github.com/fastcomments/fastcomments-react) - [demo](<https://blog.fastcomments.com/(12-30-2019)-fastcomments-demo.html>) - FastComments component for embedding a live comment thread on a page or SPA.
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - [demo](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
-- [react-file-reader-input](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 - [react-filter-control](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
 - [react-headings](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
