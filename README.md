@@ -728,7 +728,6 @@ _Set of components + responsive layout system_
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
@@ -736,6 +735,7 @@ _Set of components + responsive layout system_
 - [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 - [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
+- [LocalMode](https://github.com/LocalMode-AI/LocalMode) - [demo](https://localmode.ai/blocks) - [docs](https://localmode.dev) - Copy-owned, shadcn-based component collection for building local-first AI interfaces (chat, RAG, speech, vision) that run in the browser.
 - [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - [docs](https://tailwind-admin.com/components) - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.
 
 ## UI Utilities
