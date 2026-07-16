@@ -138,7 +138,6 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 - [AG Grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
 - [fortune-sheet](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
-- [gigatables-react](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
 - [Handsontable](https://github.com/handsontable/handsontable) - [demo](https://handsontable.com/demo) - [docs](https://handsontable.com/docs/react-data-grid/) - Data Grid with spreadsheet-like UI supporting React, Angular, TypeScript and JavaScript.
 - [jqwidgets-react-grid](https://www.jqwidgets.com/react/react-grid/) - Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.
 - [MUI X Data grid](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
@@ -173,6 +172,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 - [@af-utils/virtual](https://github.com/nowaalex/af-utils) - [demo/docs](https://af-utils.com/virtual) - Render large scrollable lists and grids.
 - [react-window](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
+- [TanStack Virtual](https://github.com/TanStack/virtual) - [demo](https://tanstack.com/virtual/latest/docs/framework/react/examples/fixed) - [docs](https://tanstack.com/virtual/latest) - Headless UI for virtualizing large lists, grids, and tables.
 - [virtua](https://github.com/inokawa/virtua) - [demo](https://inokawa.github.io/virtua/) - A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
 
 ### Overlay
