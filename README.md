@@ -389,6 +389,7 @@ _Display a control element to paginate_
 
 _Display parsed markdow source_
 
+- [Markstream](https://github.com/Simon-He95/markstream-vue/tree/main/packages/markstream-react) - [docs](https://markstream.simonhe.me/frameworks/react) - Streaming Markdown renderer for AI chat that handles incomplete token output with Mermaid, KaTeX, syntax highlighting, and SSR.
 - [react-markdown](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
 
 ### Canvas
@@ -396,7 +397,6 @@ _Display parsed markdow source_
 _Sketch input using Canvas or SVG_
 
 - [react-konva](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
-- [react-sketch](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
 - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
 - [react-heat-map](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
