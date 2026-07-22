@@ -561,9 +561,9 @@ _Let the user define an order on a list_
 #### Rich Text Editor
 
 - [alloyeditor](https://github.com/liferay/alloy-editor) - WYSIWYG editor based on CKEditor with completely rewritten UI.
+- [blok](https://github.com/JackUait/blok) - [demo](https://blokeditor.com/demo) - [docs](https://blokeditor.com) - Headless block-based editor that outputs JSON instead of HTML.
 - [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
 - [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
-- [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [edtr-io](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
