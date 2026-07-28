@@ -240,6 +240,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 - [react-simple-captcha](https://github.com/masroorejaz/react-simple-captcha) - [npm](https://www.npmjs.com/package/react-simple-captcha) - [demo](https://www.scriptse.com/blog/add-captcha-in-reactjs-application/react-simple-captcha-demo/) - React Simple Captcha is a very powerful, highly customizable and easy to use captcha for React JS.
 - [procaptcha](https://github.com/prosopo/captcha) - [demo](https://prosopo.io/) - [docs](https://docs.prosopo.io/) - Privacy focused free CAPTCHA
+- [recaptcha-react](https://github.com/Souhailmakni/recaptcha-react) - [npm](https://www.npmjs.com/package/recaptcha-react) - Google reCAPTCHA v2 (checkbox) and v3 (score-based) via a single version prop, with a hook, controlled value, TypeScript, and zero dependencies.
 
 ### Carousel
 
@@ -960,7 +961,6 @@ _Internationalization / L10n / localization / translation_
 - [backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
 - [elm-react-component](https://github.com/KtorZ/elm-react-component) - A React component which wraps an Elm module to be used in a React application.
 - [gl-react](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
-- [react-backbone](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react and a whole lot more.
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Open source library for using D3 in React.
 - [react-elm-components](https://github.com/evancz/react-elm-components) - Write React components in Elm.
 - [react-famous](https://github.com/pilwon/react-famous) - React bridge to Famo.us.
