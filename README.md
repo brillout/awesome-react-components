@@ -738,6 +738,8 @@ _Set of components + responsive layout system_
 - [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 - [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - [docs](https://tailwind-admin.com/components) - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.
 
+- [Payload Components](https://github.com/Ducksss/payload-components) - [docs](https://www.payload-components.xyz) - MIT collection of 67 typed Payload CMS blocks for Payload v3 and Next.js 15/16, installed as owned source with automated wiring.
+
 ## UI Utilities
 
 **[`Back to top ⬆️`](#table-of-contents)**
