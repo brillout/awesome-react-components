@@ -841,8 +841,8 @@ _Data flow / data management / data stores / components state / data flow_
 
 - [data-driven-forms](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 - [formik](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
+- [formisch](https://github.com/open-circle/formisch) - [demo](https://formisch.dev/playground/login/) - [docs](https://formisch.dev/) - Schema-based, headless form library. Small bundle, type-safe nested fields, validation with Valibot.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
-- [Phormal](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 - [react-client-validation](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
