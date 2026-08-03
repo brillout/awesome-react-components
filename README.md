@@ -911,7 +911,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [elegant](https://github.com/elegantframework/elegant-cli) - [docs](https://www.elegantframework.com/docs/installation) - [demo](https://www.elegantframework.com/) - A simple React framework for rapidly building beautiful and expressive web applications with Next.js, Tailwind CSS, and Markdown loading.
 - [extensive-react-boilerplate](https://github.com/brocoders/extensive-react-boilerplate) - Boilerplate with Next.js, Auth (Sign in, Sign up, Reset password, Confirm email, Refresh Token), Material UI, React Hook Form, I18N, File uploads (support local and Amazon S3 drivers), Tests, CI.
 - [generator-starhackit](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
-- [nwb](https://github.com/insin/nwb) - CLI tool and devDependency for React apps &amp; components and npm modules.
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - [demo](https://saas-startup.mailkite.dev) - Next.js 15 SaaS starter with self-contained OAuth/email auth, Stripe subscriptions, teams, and PostgreSQL.
 - [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
 - [PBandJ](https://github.com/moishinetzer/pbandj) - Zero-Config Reusable Component Framework.
 - [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
