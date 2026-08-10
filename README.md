@@ -291,6 +291,7 @@ _Display data in charts / graphs / diagrams_
 - [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
+- [roadline](https://github.com/ruslankriklivyy/roadline) - a headless, virtualized timeline / Gantt component. Zero runtime dependencies
 
 ### Command palette
 
