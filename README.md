@@ -465,6 +465,7 @@ _Date picker / time picker / datetime picker / date range picker_
 
 _Masked inputs, specialized inputs; email / telephone number / credit card / etc._
 
+- [crd-ui](https://github.com/JuandaGarcia/crd-ui) - [demo](https://crd-ui.juanda.co/#playground) - [docs](https://crd-ui.juanda.co) - Credit and debit card visualization with live brand detection and a flip animation.
 - [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms.
 - [react-payment-inputs](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - [demo](http://sanniassin.github.io/react-input-mask/demo.html) - Yet another react component for input masking.
@@ -958,8 +959,6 @@ _Internationalization / L10n / localization / translation_
 ### Framework bindings / integrations
 
 - [backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
-- [elm-react-component](https://github.com/KtorZ/elm-react-component) - A React component which wraps an Elm module to be used in a React application.
-- [gl-react](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
 - [react-backbone](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react and a whole lot more.
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Open source library for using D3 in React.
 - [react-elm-components](https://github.com/evancz/react-elm-components) - Write React components in Elm.
