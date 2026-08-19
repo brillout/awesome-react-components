@@ -650,7 +650,6 @@ _Animate transitions_
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
-- [react-router-transition](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
 - [react-spring](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 - [react-ts-typewriter](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 - [framer-motion](https://github.com/framer/motion) - An animation and gesture library.
@@ -858,6 +857,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - React Router scroll management.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [redux-first-history](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
+- [speedy-router](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR.
 - [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
 - [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly ~1.3KB routing library. Nothing else but hooks.
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
