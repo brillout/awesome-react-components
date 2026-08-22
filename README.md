@@ -353,6 +353,7 @@ _Display time / date / age_
 _Display images / photos_
 
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
+- [react-comic-viewer](https://github.com/piro0919/react-comic-viewer) - [demo](https://react-comic-viewer.kkweb.io) - Comic and manga viewer with right-to-left reading, double-page spreads, and swipe navigation.
 - [react-compare-image](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 - [react-image-gallery](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
 - [yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
@@ -363,7 +364,6 @@ _Display images / photos_
 - [react-imgix](https://github.com/imgix/react-imgix) - Add fast, responsive images as an image, picture, or background!
 - [@frameright/react-image-display-control](https://github.com/Frameright/react-image-display-control) - Define zoom regions for smart responsive images.
 - [zoom-image](https://github.com/willnguyen1312/zoom-image) - [demo](https://willnguyen1312.github.io/zoom-image/examples/react.html) - [docs](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic library to zoom image on the web
-- [react-infinite-gallery](https://github.com/AlirezaAzizi145/react-infinite-gallery) – Infinite-scroll image gallery component for React apps.
 
 ### Icons
 
