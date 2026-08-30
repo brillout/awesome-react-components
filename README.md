@@ -883,8 +883,8 @@ _Component properties asynchronously fetched over the network_
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
 - [@classmatejs/react](https://github.com/richard-unterberg/classmatejs/tree/master/packages/react) - A class name focused component builder with a syntax like styled components and the sugar of cva's variants.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
+- [react-device-detector](https://github.com/moji2002/react-device-detector-lib) - [demo](https://react-device-detector.worksonmy.dev) - SSR-safe components for device-aware rendering, with correct iPadOS detection and zero runtime dependencies.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
-- [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 - [stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 
