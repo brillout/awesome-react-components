@@ -642,6 +642,7 @@ _Components to layout the app's UI_
 
 _Animate transitions_
 
+- [atomicmotion-ui](https://github.com/michellesijiama/atomicmotion-ui) - [demo](https://atomicmotion.dev) - Copy-paste micro-interactions and animated UI components, each in a single file.
 - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 - [react-animatable](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
@@ -654,7 +655,6 @@ _Animate transitions_
 - [react-spring](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 - [react-ts-typewriter](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 - [framer-motion](https://github.com/framer/motion) - An animation and gesture library.
-- [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
 - [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
 - [react-transitive-number](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
