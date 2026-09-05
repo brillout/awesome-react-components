@@ -642,7 +642,6 @@ _Components to layout the app's UI_
 
 _Animate transitions_
 
-- [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data.
 - [react-animatable](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 - [react-anime](https://github.com/stelatech/react-anime) - A super easy animation library.
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
@@ -661,6 +660,7 @@ _Animate transitions_
 - [auto-size-transition](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
 - [react-particles-bg](https://github.com/lindelof/particles-bg) - Particles backgrounds.
 - [gooey-react](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
+- [snapcn](https://github.com/snapcndev/snapcn) - [demo](https://snapcn.dev) - Animations, transitions and backgrounds for building video with Remotion, installed with the shadcn CLI.
 - [react-voodoo](https://github.com/react-voodoo/react-voodoo) - [demo/samples](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
 
 ### Parallax
