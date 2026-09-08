@@ -406,6 +406,7 @@ _Sketch input using Canvas or SVG_
 
 ### Miscellaneous
 
+- [@willsunagency/a11ykit](https://a11ykit.site/) - [demo](https://a11ykit.site/) - Web accessibility and WCAG 2.2 audit toolkit with contrast checking, color blindness simulation, and ARIA validation.
 - [puck](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
 - [react-advanced-news-ticker](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
