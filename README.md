@@ -344,6 +344,7 @@ _Ways to navigate views_
 
 _Display time / date / age_
 
+- [clock-ui](https://github.com/clock-ui/clock-ui) - [demo](https://clock-ui.github.io/clock-ui/docs/playground) - [docs](https://clock-ui.github.io/clock-ui/) - Analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
 - [react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 - [timeago-react](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 - [react-google-flight-datepicker](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
@@ -958,7 +959,6 @@ _Internationalization / L10n / localization / translation_
 ### Framework bindings / integrations
 
 - [backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models.
-- [elm-react-component](https://github.com/KtorZ/elm-react-component) - A React component which wraps an Elm module to be used in a React application.
 - [gl-react](https://github.com/ProjectSeptemberInc/gl-react) - OpenGL / WebGL bindings for React to implement complex effects over images and content.
 - [react-backbone](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react and a whole lot more.
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - Open source library for using D3 in React.
