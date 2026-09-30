@@ -677,6 +677,7 @@ _Animate transitions_
 _Set of components + responsive layout system_
 
 - [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
+- [Arc](https://github.com/kuratlielia/arc-library) - [demo/docs](https://uiarc.dev) - Components and blocks with motion built in, installable with the shadcn CLI. MIT-licensed free set, with a paid Pro catalog.
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from _badge_ to _tree table_.
 - [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
 - [carbon](https://github.com/carbon-design-system/carbon) - [demo/docs](https://www.carbondesignsystem.com/) - A design system built by IBM.
@@ -728,7 +729,6 @@ _Set of components + responsive layout system_
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
