@@ -246,12 +246,12 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [@egjs/react-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
 - [react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - [demo](https://fullpage.caferati.me/) - Fullpage, 3D animated, 60fps media and content slider/carousel.
 - [pure-react-carousel](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
-- [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - A library to use idangerous Swiper as a ReactJs component
 - [react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 - [react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe).
 - [react-slick](https://github.com/akiran/react-slick) - React carousel component.
 - [keen-slider](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
 - [swiper](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+- [Riffle](https://github.com/reactivepixels/riffle) - [demo](https://reactivepixels.github.io/riffle/) - [docs](https://reactivepixels.github.io/riffle/react/) - Physics-based cycling card stack: drag the front card away and the next one comes forward. Accessible, SSR safe, zero dependencies.
 
 ### Buttons
 
