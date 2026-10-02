@@ -321,9 +321,9 @@ _Ways to navigate views_
 
 ### Audio / Video
 
+- [eko-web](https://github.com/reactivepixels/eko-web) - [demo](https://reactivepixels.com/eko-web/) - [docs](https://reactivepixels.com/eko-web/docs) - Web Audio playback engine and hooks for music players with gapless playback, crossfade and loudness normalization.
 - [react-dailymotion](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
 - [react-player](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
-- [react-soundplayer](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 - [react-youtube](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
 - [video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
 - [material-ui-audio-player](https://github.com/Werter12/material-ui-audio-player) - Audio player for material ui design.
