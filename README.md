@@ -231,7 +231,6 @@ _Fixed headers / scroll-up headers / sticky elements_
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
 - [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
-- [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
@@ -381,7 +380,6 @@ _Display a control element to paginate_
 
 - [react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination.
 - [react-laravel-paginex](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
-- [paginated](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
 - [react-steps](https://github.com/tkwant/react-steps) - [Demo](https://stepper.tkwant.de/) - Responsive React Stepper.
 
 ### Markdown Viewer
@@ -465,7 +463,6 @@ _Masked inputs, specialized inputs; email / telephone number / credit card / etc
 
 - [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms.
 - [react-payment-inputs](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
-- [react-input-mask](https://github.com/sanniassin/react-input-mask) - [demo](http://sanniassin.github.io/react-input-mask/demo.html) - Yet another react component for input masking.
 - [@lunasec/react-sdk](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
 - [react-numpad](https://github.com/gpietro/react-numpad) - [demo](https://gpietro.github.io/react-numpad-demo/) - Extensible number pad control for numbers, dates and times.
 - [react-multi-email](https://github.com/axisj/react-multi-email) - [demo](https://react-multi-email.vercel.app/) - Format multiple emails as the user types.
@@ -496,7 +493,6 @@ _Autosuggest / autocomplete / typeahead_
 #### Toggle
 
 - [@anatoliygatt/heart-switch](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
-- [react-ios-switch](https://github.com/clari/react-ios-switch) - React switch component.
 - [react-toggle](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
 - [ui-switch](https://github.com/yairEO/ui-switch) - The most complete _Toggle_ component
 
@@ -538,7 +534,6 @@ _Let the user add multiple tags in a single input_
 
 #### Drag and Drop
 
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-drag-sizing](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
@@ -599,7 +594,6 @@ _Image manipulation_
 
 - [formsy-material-ui](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material UI form components.
 - [formsy-react-components](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
-- [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
 - [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs.
 
 #### Miscellaneous
@@ -621,7 +615,6 @@ _Components to layout the app's UI_
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
 - [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
-- [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-layman](https://github.com/Jeshwin/react-layman) - [demo](https://jeshwin.github.io/react-layman/) - Dynamic tiling layout manager with tabs
@@ -822,7 +815,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [effector-react](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 - [fireproof](https://github.com/fireproof-storage/fireproof) - [demo](https://fireproof.storage/try-free/) - [docs](https://use-fireproof.com/docs/welcome) Pure JS, zero dependency, CRDT database - runs in the browser and connects to any cloud or backend
 - [RxDB](https://rxdb.info/) - [demo](https://github.com/pubkey/rxdb/tree/master/examples/react) - [docs](https://rxdb.info/quickstart.html) A fast, local first, reactive Database for JavaScript Applications
-- [fluxible](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 - [kea](https://github.com/mariusandra/kea) - High level architecture for React apps.
 - [react-i13n](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
@@ -883,7 +875,6 @@ _Component properties asynchronously fetched over the network_
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
-- [stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 
 ### HTML Template
 
@@ -891,7 +882,6 @@ _Component properties asynchronously fetched over the network_
 
 ### Isomorphic Apps
 
-- [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
 - [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
 - [react-server](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load.
 - [rill](https://github.com/rill-js/rill) - Universal web application framework.
@@ -926,7 +916,6 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [react-call](https://github.com/desko27/react-call) - Call your React components.
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
-- [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
 - [react-universal-hooks](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
 ## Utilities
@@ -972,7 +961,6 @@ _Internationalization / L10n / localization / translation_
 
 ### Integrations with Third Party Services
 
-- [react-ga](https://github.com/react-ga/react-ga) - React Google Analytics Module.
 - [react-google-analytics](https://github.com/hzdg/react-google-analytics) - Google analytics component.
 - [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
@@ -988,7 +976,6 @@ _Internationalization / L10n / localization / translation_
 
 - [inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 - [react-fastclick](https://github.com/JakeSidSmith/react-fastclick) - Fast Touch Events for React.
-- [react-static-container](https://github.com/reactjs/react-static-container) - Renders static content efficiently.
 
 #### Inspect
 
@@ -998,7 +985,6 @@ _Internationalization / L10n / localization / translation_
 #### Lazy Load
 
 - [react-infinite-grid](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
-- [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-lazy-load](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 
@@ -1022,7 +1008,6 @@ _Internationalization / L10n / localization / translation_
 - [jest-cli](https://github.com/facebook/jest) - Painless JavaScript Testing.
 - [react-unit](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - A redux middleware to automatically generate tests for reducers through ui interaction.
-- [rut](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
@@ -1031,7 +1016,6 @@ _Internationalization / L10n / localization / translation_
 - [redux-devtools-chart-monitor](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
 - [redux-devtools-dock-monitor](https://github.com/gaearon/redux-devtools-dock-monitor) - A resizable and movable dock for Redux DevTools monitors.
 - [redux-devtools-filterable-log-monitor](https://github.com/bvaughn/redux-devtools-filterable-log-monitor) - Filterable tree view monitor for Redux DevTools.
-- [redux-devtools-inspector](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor.
 - [redux-devtools-log-monitor](https://github.com/gaearon/redux-devtools-log-monitor) - The default monitor for Redux DevTools with a tree view.
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [remote-redux-devtools](https://github.com/zalmoxisus/remote-redux-devtools) - Redux DevTools remotely.
