@@ -716,8 +716,8 @@ _Set of components + responsive layout system_
   - [Tree View](https://mui.com/material-ui/react-tree-view/) - Accessible tree view component for React.
 - [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
-- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
 - [mdbootstrap](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
+- [mui-components](https://github.com/nishkohli96/mui-components) - [demo/docs](https://mui-components-docs.vercel.app) - 25+ form-library-agnostic components like NumberStepper, OTP, tags, country select, file uploader built on top of Material UI. Easily customize UI and functionality using component specific props.
 
 ### Mobile
 
