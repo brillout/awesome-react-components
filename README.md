@@ -880,6 +880,7 @@ _Component properties asynchronously fetched over the network_
 
 - [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
+- [box-kite](https://github.com/box-kite/box-kite) - [demo](https://www.box-kite.dev/showcase) - [docs](https://www.box-kite.dev/installation) - Typed CSS-in-JS: every CSS property is a prop that compiles to a shared class, with no stylesheet or bundler plugin; renders in Server Components.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
 - [@classmatejs/react](https://github.com/richard-unterberg/classmatejs/tree/master/packages/react) - A class name focused component builder with a syntax like styled components and the sugar of cva's variants.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
