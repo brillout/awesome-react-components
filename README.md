@@ -924,6 +924,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 ### Miscellaneous
 
 - [react-inlinesvg](https://github.com/matthewwithanm/react-inlinesvg) - An SVG loader component for ReactJS.
+- [svgin-react](https://github.com/akhiakl/svgin) - Securely fetch and inline SVGs from URLs as React components, sanitized by default, with client and server support.
 - [react-godfather](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
 - [react-vvm](https://github.com/behnamrhp/React-VVM) - A new approach to MVVM in React, to enforce clean separation of concerns, reduce boilerplate, and automatic re-render optimization for scalable UI logic.
 - [react-call](https://github.com/desko27/react-call) - Call your React components.
