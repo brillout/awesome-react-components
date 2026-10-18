@@ -728,6 +728,7 @@ _Set of components + responsive layout system_
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
+- [brio-ui](https://github.com/brio-ui/brio-ui) - [docs](https://brioui.com/docs/components/faq) - Single-file components for FAQs, pricing toggles, code inputs, changelogs and forms. Free under MIT, with a paid Pro tier.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
@@ -736,7 +737,6 @@ _Set of components + responsive layout system_
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 - [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 - [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - [docs](https://tailwind-admin.com/components) - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.
-- [brio-ui](https://github.com/brio-ui/brio-ui) - [docs](https://brioui.com/docs/components/faq) - Single-file components for FAQs, pricing toggles, code inputs, changelogs and forms. Free under MIT, with a paid Pro tier.
 
 ## UI Utilities
 
