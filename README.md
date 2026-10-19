@@ -284,6 +284,7 @@ _Display data in charts / graphs / diagrams_
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
+- [Wick Charts](https://github.com/mo4islona/wick-charts) - [demo](https://wick-charts.eeff.io/) - [docs](https://wick-charts.eeff.io/api/chart-container/) - Realtime charts that stay smooth at 60fps while data streams in.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
 - [SVAR React Gantt](https://svar.dev/react/gantt/) - [demo](https://docs.svar.dev/react/gantt/samples/#/base/willow) - [docs](https://docs.svar.dev/react/gantt/getting_started/) - Customizable, interactive Gantt chart component
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
