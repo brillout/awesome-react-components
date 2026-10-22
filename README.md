@@ -691,7 +691,7 @@ _Set of components + responsive layout system_
 - [kokonut-ui](https://github.com/kokonut-labs/kokonutui) - Free Modern and Customizable UI components.
 - [Mantine](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 - [orbit](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
-- [OTF UI](https://otf-kit.dev/components) - 215+ accessible, dark-mode-native components for Next.js and Expo from one parity API, MIT.
+- [OTF UI](https://otf-kit.dev/components?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-22-brillout-awesome-react-components) - [demo](https://ui.otf-kit.dev) - [docs](https://otf-kit.dev/components) - Free MIT-licensed web UI components with a companion native package sharing component names and design tokens.
 - [flowbite-react](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 - [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
