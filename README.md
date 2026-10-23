@@ -1064,8 +1064,8 @@ _Internationalization / L10n / localization / translation_
 **[`Back to top ⬆️`](#table-of-contents)**
 
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+- [Flow2Repo](https://github.com/laithalallaf2000-ux/flow2repo) - [demo](https://flow2repo.laithalallaf.com/) - Convert AI-designed HTML dashboards and websites into TypeScript projects with routed pages, shared components and typed data, entirely in the browser.
 - [html-to-react-components](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
-- [htmltojsx](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It&#39;s magic!.
 - [jsonx](https://github.com/repetere/jsonx) - React JSON Syntax.
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
