@@ -610,7 +610,7 @@ _Image manipulation_
 
 - [@anatoliygatt/numeric-stepper](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
 - [interweave](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
-- [react-designer](https://github.com/react-designer/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
+- [penciled](https://github.com/marcellosso/penciled) - [demo](https://www.penciled.org/playground/) - [docs](https://www.penciled.org/recipes/react/) - Text highlights and notes painted with the CSS Custom Highlight API, without modifying the DOM.
 - [react-upload-gallery](https://github.com/TPMinan/react-upload-gallery) - React for Upload Image Gallery. Drag & Drop, Sortable, Customize.
 
 #### Syntax Highlight
