@@ -231,10 +231,10 @@ _Fixed headers / scroll-up headers / sticky elements_
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
 - [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
-- [react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 - [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
 - [react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
+- [svg-loaders-react](https://github.com/ajwann/svg-loaders-react) - Zero-dependency React components for Sam Herbert's SVG Loaders (12 animated SVG spinners).
 
 ### Captcha
 
