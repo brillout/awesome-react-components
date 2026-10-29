@@ -676,6 +676,7 @@ _Animate transitions_
 
 _Set of components + responsive layout system_
 
+- [affectUI](https://github.com/flohoeller/affectui) - [demo/docs](https://www.affectui.com) - Components for AI products – tool calls, thinking states, approvals, agent views – one file each, no dependencies, installable with the shadcn CLI.
 - [ant-design](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
 - [atlaskit](https://atlaskit.atlassian.com/packages) - Atlassian's official UI library, with components from _badge_ to _tree table_.
 - [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
@@ -695,7 +696,6 @@ _Set of components + responsive layout system_
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 - [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
-- [react-foundation](https://github.com/digiaonline/react-foundation) - Foundation as React components.
 - [reakit](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
