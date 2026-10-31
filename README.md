@@ -715,7 +715,6 @@ _Set of components + responsive layout system_
   - [Slider](https://mui.com/material-ui/react-slider/) - Accessible slider component.
   - [Table](https://mui.com/material-ui/react-table/) - table with sorting, selecting, pagination, virtualized.
   - [Tree View](https://mui.com/material-ui/react-tree-view/) - Accessible tree view component for React.
-- [react-essence](https://github.com/Evo-Forge/Essence) - Essence - The Essential Material Design Framework.
 - [react-materialize](https://github.com/react-materialize/react-materialize) - Material design for react, powered by materializecss.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design.
 - [mdbootstrap](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - React Bootstrap with Material Design
