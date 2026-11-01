@@ -272,6 +272,7 @@ _Display data in charts / graphs / diagrams_
 - [EazyChart](https://github.com/Hexastack/eazychart) - [demo](https://docs.eazychart.com/#demos) - [docs](https://docs.eazychart.com) - Easily transform data into meaningful charts
 - [echarts for react](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 - [jscharting-react](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+- [lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components) - [demo](https://ukorvl.github.io/lightweight-charts-react-components/) - Declarative components for financial charts built on TradingView Lightweight Charts.
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 - [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming.
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
@@ -541,7 +542,6 @@ _Let the user add multiple tags in a single input_
 
 #### Drag and Drop
 
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-drag-sizing](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
