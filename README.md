@@ -724,11 +724,11 @@ _Set of components + responsive layout system_
 - [antd-mobile](https://github.com/ant-design/ant-design-mobile) - Configurable Mobile UI from China.
 - [Ionic React](https://ionicframework.com/blog/announcing-ionic-react/) - Ionic Framework: easily build Android, Desktop and Progressive Web Apps with one code base.
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI/) - [demo/docs](https://onsen.io/v2/guide/react/) - Mobile app framework with Material and flat (iOS) designs. Based on Web Components.
+- [react-native-pickers](https://github.com/elik56a/react-native-pickers) - [demo/docs](https://react-native-pickers.dev) - Wheel, date, time, select, country and emoji pickers plus bottom sheets with iOS, Material and web designs. Pure JS, runs on iOS, Android and web.
 
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
