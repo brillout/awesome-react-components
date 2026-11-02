@@ -728,7 +728,7 @@ _Set of components + responsive layout system_
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
+- [facade-ui](https://github.com/marcoschulz7/facade-ui) - [demo](https://facadeui.com/components) - [docs](https://facadeui.com/docs/installation) - Animated components and page blocks for local business, real estate and agency websites, installed with the shadcn CLI. Freemium.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
