@@ -268,6 +268,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 _Display data in charts / graphs / diagrams_
 
+- [Chartory](https://github.com/chartory/charts) - [demo](https://usechartory.com/free) - [docs](https://usechartory.com/docs) - 100 MIT chart types laid out from the data at four sizes, SVG with no chart library, installed with the shadcn CLI
 - [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
 - [EazyChart](https://github.com/Hexastack/eazychart) - [demo](https://docs.eazychart.com/#demos) - [docs](https://docs.eazychart.com) - Easily transform data into meaningful charts
 - [echarts for react](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
@@ -277,7 +278,6 @@ _Display data in charts / graphs / diagrams_
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 - [react-d3-components](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 - [react-google-charts](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
-- [react-highcharts](https://github.com/kirjs/react-highcharts) - React-highcharts.
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
