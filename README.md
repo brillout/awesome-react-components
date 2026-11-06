@@ -155,6 +155,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [material-table](https://github.com/mbrn/material-table) - [demo/docs](https://material-table.com/) - Built on Material UI, plus: grouping, tree data, expandable rows, export, inline editing
 - [mui-datatables](https://github.com/gregnb/mui-datatables) - Built on Material UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
 - [react-data-table](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
+- [RevoGrid Pivot](https://github.com/revolist/pivot) - [demo](https://pivot.rv-grid.com/demo/) - [docs](https://pro.rv-grid.com/guides/pivot/) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a 30-day trial.
 - [TanStack Table](https://github.com/tannerlinsley/react-table) - [demo](https://tanstack.com/table/v8/docs/examples/react/basic) - Headless UI for building powerful tables & datagrids
 - [react-table-library](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - [demo/docs](http://rsuite.github.io/rsuite-table/) - A table component that supports virtualized.
@@ -282,6 +283,8 @@ _Display data in charts / graphs / diagrams_
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
+- [RevoGrid Charts](https://pro.rv-grid.com/guides/charts/) - [demo/docs](https://pro.rv-grid.com/guides/charts/) - Interactive charts with zoom, annotations, and export. Commercial, with a 30-day trial.
+- [RevoGrid Gantt](https://github.com/revolist/gantt) - [demo](https://gantt.rv-grid.com/) - [docs](https://pro.rv-grid.com/guides/gantt/) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a 30-day trial.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
@@ -426,6 +429,7 @@ _Sketch input using Canvas or SVG_
 - [react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-swipe-to-delete-ios](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
 - [react-swipeable-list](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+- [RevoGrid Kanban](https://github.com/revolist/kanban) - [demo](https://kanban.rv-grid.com/) - [docs](https://pro.rv-grid.com/guides/kanban/) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a 30-day trial.
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
@@ -455,6 +459,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
 - [react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
+- [RevoGrid Scheduler](https://github.com/revolist/scheduler) - [demo](https://scheduler.rv-grid.com/demo/) - [docs](https://pro.rv-grid.com/guides/event-scheduler/introduction/) - Event and resource scheduling with calendar and timeline views. Commercial, with a 30-day trial.
 - [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
 
 #### Emoji picker
@@ -728,7 +733,7 @@ _Set of components + responsive layout system_
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
+- [Revo UI](https://github.com/revolist/revo-ui) - [demo](https://ui.rv-grid.com/) - [docs](https://ui.rv-grid.com/frameworks/react/) - MIT-licensed UI components for building reports and dashboards, including form controls, pickers, and dialogs.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
