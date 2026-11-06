@@ -283,7 +283,7 @@ _Display data in charts / graphs / diagrams_
 - [react-timeseries-charts](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
-- [RevoGrid Charts](https://pro.rv-grid.com/guides/charts/) - [demo/docs](https://pro.rv-grid.com/guides/charts/) - Interactive charts with zoom, annotations, and export. Commercial, with a 30-day trial.
+- [RevoGrid Charts](https://github.com/revolist/charts) - [demo/docs](https://pro.rv-grid.com/guides/charts/) - Interactive charts with zoom, annotations, and export. Commercial, with a 30-day trial.
 - [RevoGrid Gantt](https://github.com/revolist/gantt) - [demo](https://gantt.rv-grid.com/) - [docs](https://pro.rv-grid.com/guides/gantt/) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a 30-day trial.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
