@@ -595,9 +595,9 @@ _Image manipulation_
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 - [react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
-- [react-image-cropper](https://github.com/jerryshew/react-image-cropper) - Image cropper.
 - [react-advanced-cropper](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
 - [react-mobile-cropper](https://github.com/advanced-cropper/react-mobile-cropper) - A ready-to-use image cropping library highly inspirited by popular Android croppers. Based on `react-advanced-cropper`.
+- [zriz](https://github.com/pqoqubbw/zriz) - [demo](https://zriz.dev) - [docs](https://zriz.dev/docs/quick-start) - Headless image cropper with a straighten dial, rotate, flip, pinch zoom and circle crop. Touch friendly, zero dependencies.
 
 #### Form Component Collections
 
