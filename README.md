@@ -695,8 +695,8 @@ _Set of components + responsive layout system_
 - [primereact](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 - [radix-ui](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
-- [react-foundation](https://github.com/digiaonline/react-foundation) - Foundation as React components.
 - [reakit](https://github.com/ariakit/ariakit) - [demo/docs](https://reakit.io/docs/button/) Toolkit for building accessible rich web apps
+- [ReUI](https://github.com/keenthemes/reui) - [demo](https://reui.io/components?utm_source=awesome-react&utm_medium=github&utm_campaign=reui-nov26) - [docs](https://reui.io/docs?utm_source=awesome-react&utm_medium=github&utm_campaign=reui-nov26) - Free shadcn/ui components and copy-paste examples, plus custom ReUI primitives, forever.
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 - [semi-design](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
