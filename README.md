@@ -654,7 +654,7 @@ _Animate transitions_
 - [react-spring](https://github.com/react-spring/react-spring) - A spring physics based animation library.
 - [react-ts-typewriter](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
 - [framer-motion](https://github.com/framer/motion) - An animation and gesture library.
-- [react-spark-scroll](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
+- [svg-scroll-draw](https://github.com/DhruvilChauahan0210/ink-scroll) - [demo](https://svg-scroll-draw.vercel.app/examples) - [docs](https://svg-scroll-draw.vercel.app/docs) - Scroll-driven SVG line drawing, reveal, pin, parallax, counters and video scrub on the native CSS scroll timeline.
 - [react-track](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
 - [react-transitive-number](https://github.com/Lapple/react-transitive-number) - Apply transition effect to numeric strings, a la old Groupon timers.
 - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
