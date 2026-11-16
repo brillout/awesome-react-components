@@ -406,6 +406,7 @@ _Sketch input using Canvas or SVG_
 
 ### Miscellaneous
 
+- [parapdf](https://github.com/yhay81/parapdf) - [demo](https://parapdf.yhay81.com/demo/?file=synthetic-text-1000.pdf) - [docs](https://parapdf.yhay81.com/) - PDF viewer with page virtualization, zoom, search, and bounded canvas caching.
 - [puck](https://github.com/measuredco/puck) - [demo](https://puck-editor-demo.vercel.app/edit) - The self-hosted visual editor for React
 - [react-advanced-news-ticker](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
 - [react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Allows users to create random kaleidoscopes to be used as avatars.
@@ -1002,7 +1003,6 @@ _Internationalization / L10n / localization / translation_
 #### Lazy Load
 
 - [react-infinite-grid](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
-- [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-lazy-load](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
