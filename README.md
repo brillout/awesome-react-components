@@ -272,6 +272,7 @@ _Display data in charts / graphs / diagrams_
 - [EazyChart](https://github.com/Hexastack/eazychart) - [demo](https://docs.eazychart.com/#demos) - [docs](https://docs.eazychart.com) - Easily transform data into meaningful charts
 - [echarts for react](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
 - [jscharting-react](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+- [mebius-starter](https://github.com/mebius-designs/mebius-starter) - [demo](https://www.mebius.design/freebies/charts?utm_source=github&utm_medium=referral&utm_campaign=freebies-charts&utm_content=awesome-react-components) - Animated chart cards and forms for Tailwind CSS v4, installed as source with the shadcn CLI. MIT.
 - [react-chartist](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 - [react-charty](https://github.com/99ff00/react-charty) - [demo](https://99ff00.github.io/react-charty/) - Small but powerful interactive data viz with multiple chart types, animations, zooming, theming.
 - [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
@@ -288,7 +289,6 @@ _Display data in charts / graphs / diagrams_
 - [SVAR React Gantt](https://svar.dev/react/gantt/) - [demo](https://docs.svar.dev/react/gantt/samples/#/base/willow) - [docs](https://docs.svar.dev/react/gantt/getting_started/) - Customizable, interactive Gantt chart component
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
-- [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
 
