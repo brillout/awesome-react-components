@@ -566,11 +566,11 @@ _Let the user define an order on a list_
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [edtr-io](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
 - [megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of draft.js.
+- [post-canvas](https://github.com/saimulft/post-canvas) - [demo](https://postcanvas.saimulislam.com/playground/) - [docs](https://postcanvas.saimulislam.com/docs/) - Rich text editor for posts and articles with image galleries, embeds and sanitized HTML output, built on Tiptap.
 - [react-ace](https://github.com/securingsincity/react-ace) - Ace (Advanced Code Editor) wraper.
 - [react-codemirror](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - WYSIWYG editor build on top of [DraftJS](https://draftjs.org/).
-- [react-editor](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
 - [react-medium-editor](https://github.com/wangzuo/react-medium-editor) - medium-editor wrapper.
 - [react-monacoeditor](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
 - [react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
