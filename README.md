@@ -333,9 +333,9 @@ _Ways to navigate views_
 ### Map
 
 - [google-map-react](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
+- [google-places-autocomplete-hook](https://github.com/ninadsutrave/google-places-autocomplete-hook) - [demo](https://ninadsutrave.github.io/google-places-autocomplete-hook/) - Headless hook for Google Places Autocomplete on Places API (New), with session tokens handled.
 - [mapkit](https://github.com/1amageek/mapkit) - A library for integrating Apple Maps using MapKit JS, with annotations, overlays, and search.
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
-- [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
