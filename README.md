@@ -283,12 +283,12 @@ _Display data in charts / graphs / diagrams_
 - [react-vis](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 - [rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+- [treelines](https://github.com/Agnes-HQ/treelines) - [demo](https://agnes-hq.github.io/treelines/) - Headless layout and connector lines for trees and layered graphs; you render the nodes as your own elements.
 - [victory](https://github.com/FormidableLabs/victory) - Data viz for React.
 - [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
 - [SVAR React Gantt](https://svar.dev/react/gantt/) - [demo](https://docs.svar.dev/react/gantt/samples/#/base/willow) - [docs](https://docs.svar.dev/react/gantt/getting_started/) - Customizable, interactive Gantt chart component
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
 - [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
-- [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 - [Flowchart React](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
 - [react-dashboard](https://github.com/flatlogic/react-dashboard) - Isomorphic Dashboards.
 
