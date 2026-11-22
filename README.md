@@ -455,6 +455,7 @@ _Date picker / time picker / datetime picker / date range picker_
 - [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
 - [react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
+- [react-jalali-datepicker](https://github.com/ariaesm/react-jalali-datepicker) - Accessible, zero-dependency Jalali (Persian/Shamsi) date & range picker for React 19 and Next.js 15.
 - [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
 
 #### Emoji picker
