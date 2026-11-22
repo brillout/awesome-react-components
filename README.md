@@ -868,11 +868,11 @@ _Component properties asynchronously fetched over the network_
 
 - [react-refetch](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components.
 - [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router.
-- [axios-react](https://github.com/soroushchehresa/axios-react) - HTTP client component for React.
 
 ### Communication with server
 
 - [apollo-client](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
+- [hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - [docs](https://hyperfetch.bettertyped.com/docs/react/overview/) - Type-safe data fetching hooks with caching, retries, deduplication, offline queue and SSR hydration.
 - [react-relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [query](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
