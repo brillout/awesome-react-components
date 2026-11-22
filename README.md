@@ -369,9 +369,9 @@ _Display images / photos_
 
 _Display icons / icon set / emojis_
 
+- [favicons.page](https://github.com/peleda-app/favicons/tree/main/clients/js) - [demo](https://favicons.page/) - [docs](https://github.com/peleda-app/favicons/tree/main/clients/js#react) - Any website's icon as a clean, sandboxed SVG with light/dark badges, from a self-hostable API with no key.
 - [iconify-react](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 - [react-icons](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
-- [react-open-doodles](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
 - [tabler-icons-react](https://tabler-icons-react.vercel.app) - A set of over 450 free MIT-licensed high-quality SVG icons.
 - [Lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
