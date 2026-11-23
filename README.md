@@ -624,7 +624,7 @@ _Image manipulation_
 _Components to layout the app's UI_
 
 - [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
-- [hedron](https://github.com/JSBros/hedron) - A no-frills flexbox grid system, powered by styled-components.
+- [hypr-tiling](https://github.com/n-uf/hypr-tiling) - [demo](https://hypr-tiling.n-uf.com/) - Dynamic tiling layout engine: drag, drop, resize, group and maximize panes at runtime.
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
