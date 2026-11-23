@@ -997,7 +997,6 @@ _Internationalization / L10n / localization / translation_
 #### Inspect
 
 - [react-perf-tool](https://github.com/RamonGebben/react-perf-tool) - Debug performance of your React application.
-- [react-render-visualizer](https://github.com/redsunsoft/react-render-visualizer) - Render visualizer for ReactJS.
 
 #### Lazy Load
 
@@ -1043,6 +1042,7 @@ _Internationalization / L10n / localization / translation_
 
 ### Inspect
 
+- [debugsy](https://github.com/n-uf/debugsy) - [demo](https://debugsy.n-uf.com) - In-process debugging panel that shows why a component re-rendered and which effect dependency changed.
 - [fluxguard](https://fluxguard.com) - PROD change monitoring that highlights all DOM + design changes.
 - [react-inspector](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
 - [reactotron](https://github.com/reactotron/reactotron) - A CLI and OS X app for inspecting your React JS and React Native apps.
