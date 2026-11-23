@@ -491,6 +491,7 @@ _Autosuggest / autocomplete / typeahead_
 #### Color Picker
 
 - [coloreact](https://github.com/elrumordelaluz/coloreact) - A tiny Color Picker for React.
+- [ew-color-picker](https://github.com/eveningwater/ew-color-picker/tree/master/packages/react) - React wrapper for a plugin-based TypeScript color picker with gradient editing, eyedropper and mobile panel size presets.
 - [react-color](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
 - [react-colorful](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component.
 - [react-input-color](https://github.com/wangzuo/react-input-color) - React input color component with hsv color picker.
