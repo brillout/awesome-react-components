@@ -262,7 +262,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
 - [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion.
-- [react-tabbordion](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
 
 ### Chart
 
@@ -515,7 +514,6 @@ _Autosuggest / autocomplete / typeahead_
 _Let the user select something (e.g. a tag) while typing_
 
 - [react-autocomplete-input](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
-- [react-mentions](https://github.com/effektif/react-mentions) - Mention people in a textarea.
 - [rich-textarea](https://github.com/inokawa/rich-textarea) - A textarea to colorize, highlight, decorate texts and offer autocomplete.
 
 #### Tag Input
@@ -728,7 +726,6 @@ _Set of components + responsive layout system_
 ### Component Collections
 
 - [blueprint](https://github.com/palantir/blueprint) - [demo](https://blueprintjs.com/) - [docs](https://blueprintjs.com/docs/) - UI toolkit for building complex, data-dense web interfaces for desktop (not mobile) applications.
-- [dataminr-react-components](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
 - [shards-react](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium.
 - [aframe-react](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 - [react-admin](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
@@ -842,7 +839,6 @@ _Data flow / data management / data stores / components state / data flow_
 - [data-driven-forms](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
 - [formik](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
-- [Phormal](https://github.com/phormal/phormal) - [Docs & Demos](https://phormal.dev/getting-started/react) - Responsive, multilingual forms with built-in validation, support for dark mode and right-to-left languages.
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSONSchema.
 - [react-client-validation](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
@@ -980,7 +976,6 @@ _Internationalization / L10n / localization / translation_
 - [react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
 - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
 - [react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe&#39;s checkout.js as a react component. Easiest way to use checkout with React.
-- [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 - [react-slack-notification](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 - [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
 
