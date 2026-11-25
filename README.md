@@ -736,7 +736,7 @@ _Set of components + responsive layout system_
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 - [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 - [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - [docs](https://tailwind-admin.com/components) - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.
-- [themes.dev UI](https://github.com/themesdev/ui) - [demo](https://www.themes.dev/ui/) - [docs](https://www.themes.dev/ai/) - Free shadcn/ui page blocks, templates and components under MIT, installable with the shadcn CLI.
+- [themes.dev UI](https://github.com/themesdev/ui) - [demo](https://www.themes.dev/ui/?ref=awesome-react-components) - [docs](https://www.themes.dev/ai/?ref=awesome-react-components) - Free shadcn/ui page blocks, templates and components under MIT, installable with the shadcn CLI.
 
 ## UI Utilities
 
