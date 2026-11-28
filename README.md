@@ -375,7 +375,8 @@ _Display icons / icon set / emojis_
 - [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
 - [tabler-icons-react](https://tabler-icons-react.vercel.app) - A set of over 450 free MIT-licensed high-quality SVG icons.
 - [Lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-
+- [Snapicon](https://snapicon.dev) - 1,671+ micro-animated SVG icons, 431 animated emojis, and 28 UI font suites for React, Next.js, and Figma.
+- 
 ### Paginator
 
 _Display a control element to paginate_
